@@ -14,8 +14,8 @@
   "nationalCandidates": 360,
   "nationalSelected": 274,
   "nationalExcluded": 86,
-  "missing": [
-    "2010 서울시 9급 원문 미확보"
+  "excludedExams": [
+    "2010 서울시 9급 통신이론"
   ],
   "cropReview": "문항번호·이미지·원본·정답·분류 연결 자동검사, 대표 검수표 시각 확인. 전 문항 육안 검수 미완료.",
   "originalBookSections": 73,
