@@ -6,7 +6,10 @@ root=Path(__file__).resolve().parents[1]
 q=json.loads((root/'data/questions.json').read_text(encoding='utf-8'));tax=json.loads((root/'data/taxonomy.json').read_text(encoding='utf-8'));exams=json.loads((root/'data/exams.json').read_text(encoding='utf-8'));audit=json.loads((root/'review/national-overlap-audit.json').read_text(encoding='utf-8'))
 assert len(q)==594 and len(exams)==34
 assert len({x['id'] for x in q})==len(q)
-assert sum(len(c['topics']) for c in tax['categories'] if c['id']!='pending')==73
+assert sum(len(c['topics']) for c in tax['categories'] if c['id']!='pending')==43
+assert sum(len(t.get('bookSections',[])) for c in tax['categories'] for t in c['topics'])==73
+assert all(not __import__('re').match(r'^\d+-\d+',t['label']) for c in tax['categories'] for t in c['topics'])
+assert all('Chapter' not in c['label'] for c in tax['categories'])
 assert {x['id'] for x in q if x['agency']=='국가직'}=={a['id'] for a in audit if a['include']}
 valid={t['id']:c['id'] for c in tax['categories'] for t in c['topics']}
 for e in exams:
@@ -28,4 +31,4 @@ for x in q:
  if x['answer']['status']=='official':assert (root/x['answer']['sources'][0]['url']).exists()
 payload=json.loads((root/'data/data.js').read_text(encoding='utf-8').removeprefix('window.QUESTION_BANK = ').strip().removesuffix(';'))
 assert payload['questions']==q and payload['taxonomy']==tax and payload['exams']==exams
-print('PASS: 594 grade-9 questions, 34 exams, 73 book sections; national inclusion/exclusion IDs, source subject, answer ranges, classification, images, original PDFs, official answer files, contact sheets and browser payload')
+print('PASS: 594 grade-9 questions, 34 exams, 43 study topics from 73 book sections; national inclusion/exclusion IDs, source subject, answer ranges, classification, images, original PDFs, official answer files, contact sheets and browser payload')
