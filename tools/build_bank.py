@@ -21,6 +21,7 @@ if (ROOT/'data/taxonomy.json').exists(): tax=json.loads((ROOT/'data/taxonomy.jso
 else: (ROOT/'data/taxonomy.json').write_text(json.dumps(tax,ensure_ascii=False,indent=2),encoding='utf-8')
 questions=[];exams=[]
 crop_overrides=json.loads((ROOT/'data/crop_overrides.json').read_text(encoding='utf-8')) if (ROOT/'data/crop_overrides.json').exists() else {}
+image_cleanup=json.loads((ROOT/'data/image_cleanup.json').read_text(encoding='utf-8')) if (ROOT/'data/image_cleanup.json').exists() else {}
 classifications=json.loads((ROOT/'data/classifications.json').read_text(encoding='utf-8')) if (ROOT/'data/classifications.json').exists() else {}
 for file in sorted((ROOT/'sources').glob('*.pdf')):
  if file.stem.startswith('compilation'):continue
@@ -73,6 +74,7 @@ for file in sorted((ROOT/'sources').glob('*.pdf')):
   pix=p.get_pixmap(matrix=fitz.Matrix(2.5,2.5),clip=rect,alpha=False);im=Image.frombytes('RGB',[pix.width,pix.height],pix.samples)
   # Remove printed footer page numbers only.
   draw=ImageDraw.Draw(im)
+  for bx0,by0,bx1,by1 in image_cleanup.get(f'{file.stem}-{a["number"]:02}',[]):draw.rectangle(((bx0-rect.x0)*2.5,(by0-rect.y0)*2.5,(bx1-rect.x0)*2.5,(by1-rect.y0)*2.5),fill='white')
   for block in p.get_text('dict')['blocks']:
    for line in block.get('lines',[]):
     footer=''.join(span['text'] for span in line['spans'])

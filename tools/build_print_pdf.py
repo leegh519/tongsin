@@ -16,6 +16,8 @@ def make_question_image(q,full=False):
  if body and not full:rect.y1=min(rect.y1,max(body)+1)
  pix=p.get_pixmap(matrix=fitz.Matrix(zoom,zoom),clip=rect,alpha=False)
  im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples);draw=ImageDraw.Draw(im)
+ cleanup=json.loads((ROOT/'data/image_cleanup.json').read_text(encoding='utf-8')) if (ROOT/'data/image_cleanup.json').exists() else {}
+ for x0,y0,x1,y1 in cleanup.get(q['id'],[]):draw.rectangle(((x0-rect.x0)*zoom,(y0-rect.y0)*zoom,(x1-rect.x0)*zoom,(y1-rect.y0)*zoom),fill='white')
  if full and body_top:
   # Header rules can extend into the 14-point margin above the actual stem.
   bottom=(min(body_top)-rect.y0-2)*zoom

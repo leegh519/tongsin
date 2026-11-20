@@ -2632,8 +2632,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/local-2011-02.png",
-      "width": 708,
-      "height": 313
+      "width": 671,
+      "height": 263
     },
     "classification": {
       "category": "ch01",
@@ -2673,14 +2673,14 @@
       "crop": [
         23.583425521850586,
         174.36215209960938,
-        309.86663818359375,
+        300.0,
         298.8337707519531
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2011년/"
     },
-    "ocrText": "2. 통신시스템에서변조의이유와목적으로옳지않은것은?\n①신호의간섭을피하기위해서이다.\n②전파의다중경로로인한신호페이딩을제거할수있다.\n③짧은파장의반송파신호를이용하여변조함으로써장비가\n소형경량화되는장점이있다.\n④하나의통신로에여러신호를동시에송수신할수있게하기\n위해서이다.\n문\n",
+    "ocrText": "2. 통신시스템에서변조의이유와목적으로옳지않은것은?\n①신호의간섭을피하기위해서이다.\n②전파의다중경로로인한신호페이딩을제거할수있다.\n③짧은파장의반송파신호를이용하여변조함으로써장비가\n소형경량화되는장점이있다.\n④하나의통신로에여러신호를동시에송수신할수있게하기\n위해서이다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -2696,8 +2696,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/local-2011-03.png",
-      "width": 708,
-      "height": 449
+      "width": 671,
+      "height": 400
     },
     "classification": {
       "category": "ch04",
@@ -2737,14 +2737,14 @@
       "crop": [
         23.583425521850586,
         291.8337707519531,
-        309.86663818359375,
+        300.0,
         470.9656677246094
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2011년/"
     },
-    "ocrText": "3. 다음그림은DPSK 수신기의블록도이다. 해당블록에들어갈\n장치가옳은것은?\nA\nB\nC\nD\n\n①A 블록: 저역통과필터\n②B 블록: 덧셈기\n③C 블록: 대역통과필터\n④D 블록: 1개심볼시간지연장치\n문\n",
+    "ocrText": "3. 다음그림은DPSK 수신기의블록도이다. 해당블록에들어갈\n장치가옳은것은?\nA\nB\nC\nD\n\n①A 블록: 저역통과필터\n②B 블록: 덧셈기\n③C 블록: 대역통과필터\n④D 블록: 1개심볼시간지연장치\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -24930,7 +24930,7 @@
     "image": {
       "src": "assets/questions/national-radio-2014-13.png",
       "width": 707,
-      "height": 322
+      "height": 321
     },
     "classification": {
       "category": "ch06",
@@ -24975,9 +24975,9 @@
       ],
       "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2014년/"
     },
-    "ocrText": "문13. 정지궤도위성을이용하여두지구국이서로통신할때전파의\n최소지연시간[ms]은? (단, 전파의속도는300,000 [km/s]이고,\n정지궤도위성의고도는36,000 [km]이다)\n①0.24\n②2.4\n③24\n④240\n송신기\n",
+    "ocrText": "문13. 정지궤도위성을이용하여두지구국이서로통신할때전파의\n최소지연시간[ms]은? (단, 전파의속도는300,000 [km/s]이고,\n정지궤도위성의고도는36,000 [km]이다)\n①0.24\n②2.4\n③24\n④240\n\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -25319,8 +25319,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/national-radio-2015-01.png",
-      "width": 707,
-      "height": 595
+      "width": 670,
+      "height": 531
     },
     "classification": {
       "category": "ch02",
@@ -25360,14 +25360,14 @@
       "crop": [
         23.583425521850586,
         86.25843811035156,
-        309.86663818359375,
+        300.0,
         323.64666748046875
       ],
       "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2015년/"
     },
-    "ocrText": "1. 진폭변조시스템에대한설명으로옳지않은것은?\n①DSB-LC(Double Sideband-Large Carrier) 변조신호를복조\n할때포락선검파기(envelope detector)를사용할수있다.\n②DSB-SC(Double Sideband-Suppressed Carrier)와SSB-SC\n(Single Sideband-Suppressed Carrier) 변조신호는전송신호의\n평균전력을동일하게전송하는경우동기검파기의출력신호대\n잡음비(S/N)가같다.\n③VSB(Vestigial Sideband) 시스템은SSB 시스템에비해서\n대역폭을넓게사용한다.\n④진폭변조된신호를복조할때포락선검파기를주로사용하는\n이유는동기검파기보다복조기출력신호의신호대잡음비가\n더우수하기때문이다.\n문\n",
+    "ocrText": "1. 진폭변조시스템에대한설명으로옳지않은것은?\n①DSB-LC(Double Sideband-Large Carrier) 변조신호를복조\n할때포락선검파기(envelope detector)를사용할수있다.\n②DSB-SC(Double Sideband-Suppressed Carrier)와SSB-SC\n(Single Sideband-Suppressed Carrier) 변조신호는전송신호의\n평균전력을동일하게전송하는경우동기검파기의출력신호대\n잡음비(S/N)가같다.\n③VSB(Vestigial Sideband) 시스템은SSB 시스템에비해서\n대역폭을넓게사용한다.\n④진폭변조된신호를복조할때포락선검파기를주로사용하는\n이유는동기검파기보다복조기출력신호의신호대잡음비가\n더우수하기때문이다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -25449,8 +25449,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/national-radio-2015-03.png",
-      "width": 708,
-      "height": 329
+      "width": 668,
+      "height": 266
     },
     "classification": {
       "category": "ch06",
@@ -25490,14 +25490,14 @@
       "crop": [
         23.583425521850586,
         440.5912170410156,
-        309.86663818359375,
+        300.0,
         571.6556396484375
       ],
       "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2015년/"
     },
-    "ocrText": "3. 저궤도(LEO) 위성통신에대한설명으로옳지않은것은?\n①정지궤도(GEO) 위성에비해서도플러효과(Doppler effect)의\n영향이거의없다.\n②가시가능시간이짧아서위성간핸드오버가필요하다.\n③정지궤도위성보다신호의지연시간이짧다.\n④지표면으로부터500～2,000 [km] 정도의고도에서운용된다.\n문\n",
+    "ocrText": "3. 저궤도(LEO) 위성통신에대한설명으로옳지않은것은?\n①정지궤도(GEO) 위성에비해서도플러효과(Doppler effect)의\n영향이거의없다.\n②가시가능시간이짧아서위성간핸드오버가필요하다.\n③정지궤도위성보다신호의지연시간이짧다.\n④지표면으로부터500～2,000 [km] 정도의고도에서운용된다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -25514,8 +25514,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/national-radio-2015-04.png",
-      "width": 708,
-      "height": 373
+      "width": 671,
+      "height": 309
     },
     "classification": {
       "category": "ch06",
@@ -25555,14 +25555,14 @@
       "crop": [
         23.583425521850586,
         564.6556396484375,
-        309.86663818359375,
+        300.0,
         713.4606323242188
       ],
       "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2015년/"
     },
-    "ocrText": "4. 위성통신에대한설명으로옳지않은것은?\n①지역내의여러지구국이동시에정보를수집하기용이하다.\n②지구국을이동시키면어디에서든자유로이단시간에회선을\n설정할수있다.\n③셀룰러통신시스템보다신호의지연시간이짧다.\n④위성이서비스할수있는범위내에서는지상의거리에관계\n없이원거리통신에서경제적이다.\n문\n",
+    "ocrText": "4. 위성통신에대한설명으로옳지않은것은?\n①지역내의여러지구국이동시에정보를수집하기용이하다.\n②지구국을이동시키면어디에서든자유로이단시간에회선을\n설정할수있다.\n③셀룰러통신시스템보다신호의지연시간이짧다.\n④위성이서비스할수있는범위내에서는지상의거리에관계\n없이원거리통신에서경제적이다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -28294,8 +28294,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/national-radio-2018-02.png",
-      "width": 708,
-      "height": 329
+      "width": 668,
+      "height": 265
     },
     "classification": {
       "category": "ch06",
@@ -28330,14 +28330,14 @@
       "crop": [
         23.583425521850586,
         192.58224487304688,
-        309.86663818359375,
+        300.0,
         323.64666748046875
       ],
       "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2018년/"
     },
-    "ocrText": "2. 다음무선통신에사용되는4가지주파수대역중높은주파수에서\n낮은주파수순서대로바르게나열한것은?\n①C －Ku －Ka －S\n②Ku －Ka －S －C\n③Ka －Ku －C －S\n④S －C －Ka －Ku\n문\n",
+    "ocrText": "2. 다음무선통신에사용되는4가지주파수대역중높은주파수에서\n낮은주파수순서대로바르게나열한것은?\n①C －Ku －Ka －S\n②Ku －Ka －S －C\n③Ka －Ku －C －S\n④S －C －Ka －Ku\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -28414,8 +28414,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/national-radio-2018-04.png",
-      "width": 708,
-      "height": 462
+      "width": 672,
+      "height": 398
     },
     "classification": {
       "category": "ch07",
@@ -28450,14 +28450,14 @@
       "crop": [
         23.583425521850586,
         458.3318176269531,
-        309.86663818359375,
+        300.0,
         642.4981689453125
       ],
       "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2018년/"
     },
-    "ocrText": "4. 펄스변조에대한설명으로옳지않은것은?\n①표본화된신호로부터원래의신호를복원하기위해서는저역\n통과필터가필요하다.\n②펄스진폭변조(PAM)를구현하는방법으로sample-and-hold\n방식이있다.\n③표본화정리에따라나이키스트표본화주파수는메시지\n신호의최대주파수의2배이다.\n④균일양자화를사용하는PCM에서, 양자화비트수가1 비트\n증가하면신호대양자화잡음비는3 [dB] 증가한다.\n문\n",
+    "ocrText": "4. 펄스변조에대한설명으로옳지않은것은?\n①표본화된신호로부터원래의신호를복원하기위해서는저역\n통과필터가필요하다.\n②펄스진폭변조(PAM)를구현하는방법으로sample-and-hold\n방식이있다.\n③표본화정리에따라나이키스트표본화주파수는메시지\n신호의최대주파수의2배이다.\n④균일양자화를사용하는PCM에서, 양자화비트수가1 비트\n증가하면신호대양자화잡음비는3 [dB] 증가한다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -29117,7 +29117,7 @@
     },
     "ocrText": "3. 전파의성질에대한설명으로옳지않은것은?\n①전파는횡파이며평면파이다.\n②균일매질에서전파하는전파는직진한다.\n③주파수가높을수록회절작용이심하다.\n④서로다른매질의경계면에서굴절과반사되는성질이있다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
