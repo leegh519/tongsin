@@ -112,11 +112,11 @@ def main():
   page.get_pixmap(matrix=fitz.Matrix(.9,.9),alpha=False).save(work/f'page-{pn:03}.png')
  assert {m['id'] for m in manifest}=={q['id'] for q in qs}
  (work/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
- assert all(next(m for m in manifest if m['sequence']==n)['fullColumn'] for n in [160,162,236])
+ assert all(next(m for m in manifest if m['id']==qid)['fullColumn'] for qid in ['national-radio-2025-08','local-2011-11','national-radio-2012-20'])
  assert len(check.get_toc())==10 and cover_count==9
- assert next(m for m in manifest if m['sequence']==562)['fullColumn']
- assert not next(m for m in manifest if m['sequence']==562)['fullWidth']
- assert next(m['page'] for m in manifest if m['sequence']==588)==next(m['page'] for m in manifest if m['sequence']==589)
+ assert next(m for m in manifest if m['id']=='national-radio-2014-18')['fullColumn']
+ assert not next(m for m in manifest if m['id']=='national-radio-2014-18')['fullWidth']
+ assert next(m['page'] for m in manifest if m['id']=='local-2009-19')==next(m['page'] for m in manifest if m['id']=='local-2010-02')
  (ROOT/'review/full-print-audit.json').write_text(json.dumps({'questionCount':594,'pageCount':total,'coverCount':cover_count,'ordering':'column-major: 1 3 / 2 4; tall questions occupy one full column','rightInsetPoints':12,'maximumImageScale':.36,'fullColumnSequences':[m['sequence'] for m in manifest if m['fullColumn']],'chapters':[{'label':c['label'],'questionCount':len(v),'cover':c['id']!='pending'} for c,v in groups],'multipleAnswerIds':[q['id'] for q in qs if len(q['answer'].get('choices',[]))>1],'manifest':manifest},ensure_ascii=False,indent=2),encoding='utf-8')
  print('PASS:',total,'A4 pages;',cover_count,'covers; 594 unique questions; full-column tall questions, column-major layout, answer sets, original number masks, and all-page render verified;',args.output)
 
