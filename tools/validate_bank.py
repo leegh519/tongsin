@@ -28,7 +28,15 @@ for x in q:
   assert len(source.select(f"article#q{x['number']} ol.choices > li"))==x['choiceCount']
  else:assert len(set('①②③④⑤')&set(x['ocrText']))>=x['choiceCount'],x['id']
  with Image.open(root/x['image']['src']) as im:assert im.size==(x['image']['width'],x['image']['height']) and min(im.size)>30
- if x['answer']['status']=='official':assert (root/x['answer']['sources'][0]['url']).exists()
+ assert x['answer']['status']=='official'
+ source=x['answer']['sources'][0]
+ if source['url'].startswith('https://gongmuwon.gosi.kr/oprut/GosiJungdap.do?'):
+  from urllib.parse import parse_qs, urlsplit
+  params=parse_qs(urlsplit(source['url']).query)
+  assert params['enfcYr']==[str(x['year'])] and params['cransSeCd']==['2']
+  assert params['bktpNm']==[source['booktype']]
+  assert params['sbjctCd']==['784' if x['agency']=='지방직' else '938']
+ else:assert (root/source['url']).exists()
 payload=json.loads((root/'data/data.js').read_text(encoding='utf-8').removeprefix('window.QUESTION_BANK = ').strip().removesuffix(';'))
 assert payload['questions']==q and payload['taxonomy']==tax and payload['exams']==exams
 print('PASS: 594 grade-9 questions, 34 exams, 43 study topics from 73 book sections; national inclusion/exclusion IDs, source subject, answer ranges, classification, images, original PDFs, official answer files, contact sheets and browser payload')
