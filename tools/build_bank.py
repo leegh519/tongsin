@@ -119,6 +119,6 @@ if (ROOT/'data/answer_keys.json').exists():
  answer_keys=json.loads((ROOT/'data/answer_keys.json').read_text(encoding='utf-8'))
  for q in questions:
   if q['id'] in answer_keys:q['answer']=answer_keys[q['id']]
-  q['review']['answer']='approved' if q['answer']['status']=='official' else 'pending'
+  q['review']['answer']='approved' if q['answer']['status'] in ['official','cross-checked'] else 'pending'
  (ROOT/'data/questions.json').write_text(json.dumps(questions,ensure_ascii=False,indent=2),encoding='utf-8')
  (ROOT/'data/data.js').write_text('window.QUESTION_BANK = '+json.dumps({'questions':questions,'taxonomy':tax,'exams':exams},ensure_ascii=False)+';\n',encoding='utf-8')

@@ -76,7 +76,7 @@
         <div><dt>크기</dt><dd>${question.image.width} × ${question.image.height}</dd></div>
         <div><dt>분류</dt><dd>${category?.label || question.classification?.category} › ${topicLabels.join(" · ")}</dd></div>
         <div><dt>세부개념</dt><dd>${(question.classification?.concepts || []).join(", ")}</dd></div>
-        <div><dt>정답</dt><dd>${question.answer?.choice ? `${question.answer.choice}번 (${question.answer.status})` : "미확정"}</dd></div>
+        <div><dt>정답</dt><dd>${question.answer?.choice ? `${(question.answer.choices || [question.answer.choice]).join("·")}번 (${question.answer.status})` : "미확정"}</dd></div>
       </dl>
       <div class="review-card-actions">
         <button class="button crop-ok ${local.crop === "ok" ? "button-primary" : "button-secondary"}" type="button">이미지 정상</button>

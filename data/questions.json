@@ -2761,7 +2761,7 @@
     "image": {
       "src": "assets/questions/local-2011-04.png",
       "width": 708,
-      "height": 869
+      "height": 883
     },
     "classification": {
       "category": "ch01",
@@ -2802,13 +2802,13 @@
         23.583425521850586,
         463.9656677246094,
         309.86663818359375,
-        811.0
+        836.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2011년/"
     },
     "ocrText": "4. 그림과같은두사각펄스신호의컨볼루션(convolution)을구한\n결과로옳은것은?\n\n0\n1\n1\n\n0\n2\n1\n①\n0\n1\n2\n\n1\n②\n0\n1\n3\n\n1\n4\n③\n0\n\n3 4\n1\n④\n1 2\n\n1\n3\n문\n문\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -3337,7 +3337,7 @@
     "image": {
       "src": "assets/questions/local-2011-13.png",
       "width": 632,
-      "height": 117
+      "height": 125
     },
     "classification": {
       "category": "pending",
@@ -3378,13 +3378,13 @@
         6.912459373474121,
         754.5307006835938,
         293.1956787109375,
-        811.0
+        836.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2011년/"
     },
     "ocrText": "문13. 부울함수′를간략화한것으로옳은것은?\n①\n②′\n③′\n④\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "pending",
       "answer": "approved"
     },
@@ -4026,7 +4026,7 @@
     "image": {
       "src": "assets/questions/local-2022-04.png",
       "width": 844,
-      "height": 420
+      "height": 451
     },
     "classification": {
       "category": "ch08",
@@ -4062,13 +4062,13 @@
         9.543163299560547,
         795.5316772460938,
         351.0725402832031,
-        973.0
+        998.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2022년/"
     },
-    "ocrText": "문  4. 임의의 가산적 백색 가우시안 잡음(AWGN, Additive White \nGaussian Noise) 채널에 대하여 대역폭이 250 [kHz], 수신된 \n신호 전력이 62 [W], 잡음 전력이 2 [W]일 때, 채널 용량\n[kbps]은?\n①1,000\n②1,250\n③1,350\n④1 500\n",
+    "ocrText": "문  4. 임의의 가산적 백색 가우시안 잡음(AWGN, Additive White \nGaussian Noise) 채널에 대하여 대역폭이 250 [kHz], 수신된 \n신호 전력이 62 [W], 잡음 전력이 2 [W]일 때, 채널 용량\n[kbps]은?\n①1,000\n②1,250\n③1,350\n④1,500\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -4262,7 +4262,7 @@
     "image": {
       "src": "assets/questions/local-2022-08.png",
       "width": 844,
-      "height": 608
+      "height": 634
     },
     "classification": {
       "category": "ch01",
@@ -4298,13 +4298,13 @@
         354.0725402832031,
         720.2049560546875,
         698.0,
-        973.0
+        998.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2022년/"
     },
-    "ocrText": "문  8. 시간  영역에서 주파수 대역폭이 인 임의의 기저대역 신호 \n를 푸리에 변환(Fourier transform)한 결과가 일 때, \n복소(complex) 신호 \n\n를 푸리에 \n변환한 결과인 의 표현으로 옳은 것은? (단, 는 주파수를 \n의미하고, ≪이다)\n①\n\n②\n\n③\n④\n",
+    "ocrText": "문  8. 시간  영역에서 주파수 대역폭이 인 임의의 기저대역 신호 \n를 푸리에 변환(Fourier transform)한 결과가 일 때, \n복소(complex) 신호 \n\n를 푸리에 \n변환한 결과인 의 표현으로 옳은 것은? (단, 는 주파수를 \n의미하고, ≪이다)\n①\n\n②\n\n③\n④\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -4498,7 +4498,7 @@
     "image": {
       "src": "assets/questions/local-2022-12.png",
       "width": 845,
-      "height": 418
+      "height": 440
     },
     "classification": {
       "category": "ch03",
@@ -4534,13 +4534,13 @@
         9.543163299560547,
         796.1314086914062,
         351.0725402832031,
-        973.0
+        998.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2022년/"
     },
     "ocrText": "문 12. 시간  영역에서 각 주파수가 이고 임의의 위상 를 갖는 \n신호 sin 의 자기 상관 함수(autocorrelation \nfunction)는? (단, 는 자기 자신과 지연된 신호 사이의 시간 \n차이를 의미한다)\n①sin\n②cos\n③sin\n④cos\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -4734,7 +4734,7 @@
     "image": {
       "src": "assets/questions/local-2022-16.png",
       "width": 845,
-      "height": 307
+      "height": 336
     },
     "classification": {
       "category": "ch08",
@@ -4770,13 +4770,13 @@
         354.0725402832031,
         840.1839599609375,
         698.0,
-        973.0
+        998.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2022년/"
     },
-    "ocrText": "문 16. 엔트로피(entropy)에 대한 설명으로 옳지 않은 것은? (단, 와 \n는 각각 확률 변수 와 의 엔트로피이고, 는 \n결합 엔트로피, ∣는 조건부 엔트로피이다)\n①∣\n②∣\n③는 0 이상의 값을 갖는다.\n④가서로독립인경우\n이다\n",
+    "ocrText": "문 16. 엔트로피(entropy)에 대한 설명으로 옳지 않은 것은? (단, 와 \n는 각각 확률 변수 와 의 엔트로피이고, 는 \n결합 엔트로피, ∣는 조건부 엔트로피이다)\n①∣\n②∣\n③는 0 이상의 값을 갖는다.\n④, 가 서로 독립인 경우, 이다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -4970,7 +4970,7 @@
     "image": {
       "src": "assets/questions/local-2022-20.png",
       "width": 844,
-      "height": 900
+      "height": 921
     },
     "classification": {
       "category": "ch04",
@@ -5006,13 +5006,13 @@
         9.543163299560547,
         603.13671875,
         361.54316329956055,
-        973.0
+        998.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2022년/"
     },
-    "ocrText": "문 20. 신호 성상도에 대한 설명으로 옳지 않은 것은? (단, 는 심볼 \n에너지이다)\n①8-PSK(Phase Shift Keying)의 신호 성상도이다.\n②각 심볼은 그레이(Gray) 부호화가 적용되어 있다.\n③심볼의 동위상(in-phase)과 직교위상(quadrature) 성분을 \n각각 제곱하여 더하면 가 된다.\n④이진PSK에비해전송대역폭은절반이다\n",
+    "ocrText": "문 20. 신호 성상도에 대한 설명으로 옳지 않은 것은? (단, 는 심볼 \n에너지이다)\n①8-PSK(Phase Shift Keying)의 신호 성상도이다.\n②각 심볼은 그레이(Gray) 부호화가 적용되어 있다.\n③심볼의 동위상(in-phase)과 직교위상(quadrature) 성분을 \n각각 제곱하여 더하면 가 된다.\n④이진 PSK에 비해 전송 대역폭은 절반이다.\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
@@ -15256,13 +15256,34 @@
     },
     "answer": {
       "choice": 1,
-      "status": "official",
+      "status": "cross-checked",
       "sources": [
         {
-          "label": "공식 정답표",
+          "label": "기존 공식 정답표 (① 수록; 복수정답 수정은 별도 기록)",
           "url": "official-answers/2018-서울시-정답.pdf"
+        },
+        {
+          "label": "사용자 제공 최종 복수정답 정보 및 독립 풀이 검증",
+          "url": "review/seoul-2018-14-correction.md"
         }
-      ]
+      ],
+      "choices": [
+        1,
+        2
+      ],
+      "correction": {
+        "acceptedChoices": [
+          1,
+          2
+        ],
+        "previousChoices": [
+          1
+        ],
+        "reportedBy": "user",
+        "reportedAt": "2026-11-21",
+        "originalFinalNoticeVerified": false,
+        "reason": "D=1만으로 나머지 가지 비트 배정이 유일하지 않음. A=001 및 A=000 모두 접두부호 구성 가능."
+      }
     },
     "source": {
       "pdf": "sources/seoul-2018.pdf",

@@ -20,6 +20,9 @@ for e in exams:
 for x in q:
  assert x['agency'] in ['지방직','서울시','국가직'] and x['year']>=2009 and x['grade']==9
  assert 1<=x['answer']['choice']<=x['choiceCount'],x['id']
+ accepted=x['answer'].get('choices',[x['answer']['choice']])
+ assert accepted and len(accepted)==len(set(accepted)) and all(1<=v<=x['choiceCount'] for v in accepted),x['id']
+ assert x['answer']['choice'] in accepted,x['id']
  assert valid[x['classification']['primaryTopic']]==x['classification']['category']
  assert (root/x['source']['pdf']).exists()
  if x['agency']=='국가직':
@@ -28,7 +31,7 @@ for x in q:
   assert len(source.select(f"article#q{x['number']} ol.choices > li"))==x['choiceCount']
  else:assert len(set('①②③④⑤')&set(x['ocrText']))>=x['choiceCount'],x['id']
  with Image.open(root/x['image']['src']) as im:assert im.size==(x['image']['width'],x['image']['height']) and min(im.size)>30
- assert x['answer']['status']=='official'
+ assert x['answer']['status'] in ['official','cross-checked']
  source=x['answer']['sources'][0]
  if source['url'].startswith('https://gongmuwon.gosi.kr/oprut/GosiJungdap.do?'):
   from urllib.parse import parse_qs, urlsplit
@@ -39,4 +42,14 @@ for x in q:
  else:assert (root/source['url']).exists()
 payload=json.loads((root/'data/data.js').read_text(encoding='utf-8').removeprefix('window.QUESTION_BANK = ').strip().removesuffix(';'))
 assert payload['questions']==q and payload['taxonomy']==tax and payload['exams']==exams
-print('PASS: 594 grade-9 questions, 34 exams, 43 study topics from 73 book sections; national inclusion/exclusion IDs, source subject, answer ranges, classification, images, original PDFs, official answer files, contact sheets and browser payload')
+assert next(x for x in q if x['id']=='seoul-2018-14')['answer']['choices']==[1,2]
+report=root/'review/independent-solutions.csv'
+if report.exists():
+ import csv
+ rows=list(csv.DictReader(report.open(encoding='utf-8-sig')))
+ byid={x['id']:x for x in q}
+ assert len(rows)==594 and len({r['문항'] for r in rows})==594 and {r['문항'] for r in rows}==set(byid)
+ for r in rows:
+  a=byid[r['문항']]['answer']
+  assert r['근거'].strip() and int(r['독립 풀이']) in a.get('choices',[a['choice']]),r['문항']
+print('PASS: 594 grade-9 questions, 34 exams, 43 study topics; answer sets including multiple answers, source links, images, browser payload and complete independent-solution coverage')

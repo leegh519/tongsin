@@ -7,6 +7,14 @@
   const STORAGE_KEY = "communication-theory-question-bank-progress-v1";
   const choiceLabels = ["①", "②", "③", "④", "⑤"];
 
+  function correctChoices(question) {
+    return question.answer?.choices || (question.answer?.choice ? [question.answer.choice] : []);
+  }
+
+  function isCorrectAnswer(question, selected) {
+    return correctChoices(question).includes(selected);
+  }
+
   const $ = (selector) => document.querySelector(selector);
   const els = {
     total: $("#total-count"), solved: $("#solved-count"), wrong: $("#wrong-count"),
@@ -318,7 +326,7 @@
     record.lastAnswer = selected;
     record.lastAttemptAt = new Date().toISOString();
     if (correct) {
-      if (selected === correct) record.correct += 1;
+      if (isCorrectAnswer(question, selected)) record.correct += 1;
       else record.wrong += 1;
     }
     progressData[question.id] = record;
@@ -331,25 +339,26 @@
     card.dataset.graded = "true";
     const note = card.querySelector(".answer-note");
     const correct = question.answer?.choice;
+    const correctLabel = correctChoices(question).map(value => choiceLabels[value - 1]).join("·");
     const verified = ["official", "cross-checked"].includes(question.answer?.status);
     const provisionalSuffix = correct && !verified ? " (잠정 정답 기준)" : "";
     if (!correct) {
       note.textContent = `선택 ${choiceLabels[selected - 1]} · 정답 미확정으로 채점에서 제외됩니다.`;
       note.className = "answer-note";
-    } else if (selected === correct) {
+    } else if (isCorrectAnswer(question, selected)) {
       card.classList.add("is-correct");
-      note.textContent = `정답입니다. (${choiceLabels[correct - 1]})${provisionalSuffix}`;
+      note.textContent = `정답입니다. (${correctLabel})${provisionalSuffix}`;
       note.className = "answer-note success";
     } else {
       card.classList.add("is-wrong");
-      note.textContent = `오답입니다. 정답은 ${choiceLabels[correct - 1]}입니다.${provisionalSuffix}`;
+      note.textContent = `오답입니다. 정답은 ${correctLabel}입니다.${provisionalSuffix}`;
       note.className = "answer-note error";
     }
     card.querySelectorAll(".choice").forEach(button => {
       const value = Number(button.dataset.choice);
       button.disabled = true;
-      if (correct && value === correct) button.classList.add("is-answer");
-      if (correct && value === selected && value !== correct) button.classList.add("is-incorrect");
+      if (correct && isCorrectAnswer(question, value)) button.classList.add("is-answer");
+      if (correct && value === selected && !isCorrectAnswer(question, value)) button.classList.add("is-incorrect");
     });
     card.querySelector(".grade-single")?.classList.add("is-hidden");
     card.querySelector(".next-single")?.classList.remove("is-hidden");
@@ -384,7 +393,7 @@
       if (!selected) return;
       applyGrade(question, card, selected);
       if (!question.answer?.choice) unresolvedCount += 1;
-      else if (selected === question.answer.choice) correctCount += 1;
+      else if (isCorrectAnswer(question, selected)) correctCount += 1;
       else wrongCount += 1;
     });
     const gradable = correctCount + wrongCount;

@@ -1,0 +1,30 @@
+{
+  "total": 594,
+  "recorded": 594,
+  "remaining": 0,
+  "coverage": {
+    "지방직": 160,
+    "서울시": 160,
+    "국가직": 274
+  },
+  "results": {
+    "일치": 586,
+    "해석 주의": 7,
+    "복수정답 반영": 1
+  },
+  "answerSetMismatches": [],
+  "correctedAnswerSets": [
+    "seoul-2018-14"
+  ],
+  "attentionIds": [
+    "local-2026-17",
+    "national-radio-2024-08",
+    "national-radio-2026-20",
+    "seoul-2014-18",
+    "seoul-2019-14",
+    "seoul-2019-19",
+    "seoul-2020-12"
+  ],
+  "method": "각 문항의 문제·선택지로 답을 도출해 근거를 기록한 뒤 저장정답과 대조. 그림 의존 문항은 이미지 확인. 기존100문항 기록에 나머지494문항 추가. 외부 독립 검수자에 의한 보증은 아님.",
+  "finalNoticeCaveat": "서울시2018-14 복수정답은 사용자 제공 정보를 반영했으며 변경 최종공고 원문은 미확보."
+}

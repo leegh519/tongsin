@@ -77,7 +77,7 @@ def main():
    image,(iw,ih),masks=make_question_image(q);scale=min(cellw/iw,280/ih);dest=fitz.Rect(x,y+32,x+iw*scale,y+32+ih*scale);assert dest.y1<height-65;p.insert_image(dest,stream=image)
    manifest.append({'sequence':seq,'id':q['id'],'page':pn,'column':col,'row':row,'rect':list(dest),'originalNumberMasks':masks,'answer':q['answer']['choice'],'answerStatus':q['answer']['status']})
   label='정답(잠정 포함)' if any(q['answer']['status']!='official' for q in group) else '정답'
-  answers=label+'   '+'   ·   '.join(f'{start+i+1:03}번 '+['','①','②','③','④','⑤'][q['answer']['choice']] for i,q in enumerate(group));text(p,width-margin,height-47,answers,6,True);text(p,width-margin,height-25,f'{pn} / 4',8,True)
+  answers=label+'   '+'   ·   '.join(f'{start+i+1:03}번 '+'/'.join(['','①','②','③','④','⑤'][v] for v in q['answer'].get('choices',[q['answer']['choice']])) for i,q in enumerate(group));text(p,width-margin,height-47,answers,6,True);text(p,width-margin,height-25,f'{pn} / 4',8,True)
  doc.set_metadata({'title':'통신이론 기출문제 테스트 4쪽','subject':'A4 · 1 3 / 2 4 · 단원 표지 1쪽과 문제 3쪽','author':'통신이론 문제은행'})
  doc.set_toc([[1,title,1]]);doc.subset_fonts();args.output.parent.mkdir(parents=True,exist_ok=True);doc.save(args.output,garbage=4,deflate=True);doc.close()
  check=fitz.open(args.output);assert len(check)==4
