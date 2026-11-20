@@ -4798,5 +4798,4115 @@
     "status": "approved",
     "method": "manual-stem-review-v1",
     "note": "문제 질문과 핵심 풀이 개념을 기준으로 대표 절 지정. 원본 이미지와 교차 검토 가능."
+  },
+  "national-radio-2009-01": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-02": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-03": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-04": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-05": {
+    "category": "ch04",
+    "topics": [
+      "4-7"
+    ],
+    "primaryTopic": "4-7",
+    "concepts": [
+      "4-7 통신 속도와 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-06": {
+    "category": "ch01",
+    "topics": [
+      "1-7"
+    ],
+    "primaryTopic": "1-7",
+    "concepts": [
+      "1-7 표본화 정리(Sampling theorem)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-07": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-08": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-09": {
+    "category": "ch03",
+    "topics": [
+      "3-16"
+    ],
+    "primaryTopic": "3-16",
+    "concepts": [
+      "3-16 잡음"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-13": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-15": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-18": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2009-19": {
+    "category": "ch05",
+    "topics": [
+      "5-1"
+    ],
+    "primaryTopic": "5-1",
+    "concepts": [
+      "5-1 스펙트럼 확산 통신의 개요"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-01": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-04": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-05": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-06": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-07": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-08": {
+    "category": "ch01",
+    "topics": [
+      "1-5"
+    ],
+    "primaryTopic": "1-5",
+    "concepts": [
+      "1-5 푸리에 변환(Fourier Transform)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-09": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-10": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-11": {
+    "category": "ch06",
+    "topics": [
+      "6-8"
+    ],
+    "primaryTopic": "6-8",
+    "concepts": [
+      "6-8 IS-95 CDMA와 WCDMA"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-12": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-14": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-15": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-16": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-17": {
+    "category": "ch06",
+    "topics": [
+      "6-8"
+    ],
+    "primaryTopic": "6-8",
+    "concepts": [
+      "6-8 IS-95 CDMA와 WCDMA"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-18": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-19": {
+    "category": "ch05",
+    "topics": [
+      "5-1"
+    ],
+    "primaryTopic": "5-1",
+    "concepts": [
+      "5-1 스펙트럼 확산 통신의 개요"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2010-20": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-03": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-04": {
+    "category": "ch06",
+    "topics": [
+      "6-3"
+    ],
+    "primaryTopic": "6-3",
+    "concepts": [
+      "6-3 이동통신 시스템의 기본 구성"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-05": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-06": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-07": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-08": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-09": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-10": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-12": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-13": {
+    "category": "ch05",
+    "topics": [
+      "5-1"
+    ],
+    "primaryTopic": "5-1",
+    "concepts": [
+      "5-1 스펙트럼 확산 통신의 개요"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-14": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2011-17": {
+    "category": "ch05",
+    "topics": [
+      "5-3"
+    ],
+    "primaryTopic": "5-3",
+    "concepts": [
+      "5-3 스펙트럼 확산 통신의 응용"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-01": {
+    "category": "ch01",
+    "topics": [
+      "1-8"
+    ],
+    "primaryTopic": "1-8",
+    "concepts": [
+      "1-8 변조"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-05": {
+    "category": "ch09",
+    "topics": [
+      "9-5"
+    ],
+    "primaryTopic": "9-5",
+    "concepts": [
+      "9-5 착오 제어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-07": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-09": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-11": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-12": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-13": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-14": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-15": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-17": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-18": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-19": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2012-20": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-01": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-03": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-04": {
+    "category": "ch04",
+    "topics": [
+      "4-6"
+    ],
+    "primaryTopic": "4-6",
+    "concepts": [
+      "4-6 디지털 변조의 특성 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-05": {
+    "category": "ch04",
+    "topics": [
+      "4-7"
+    ],
+    "primaryTopic": "4-7",
+    "concepts": [
+      "4-7 통신 속도와 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-06": {
+    "category": "ch02",
+    "topics": [
+      "2-1"
+    ],
+    "primaryTopic": "2-1",
+    "concepts": [
+      "2-1 아날로그 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-07": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-08": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-09": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-10": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-12": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-13": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-15": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-18": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-19": {
+    "category": "ch06",
+    "topics": [
+      "6-3"
+    ],
+    "primaryTopic": "6-3",
+    "concepts": [
+      "6-3 이동통신 시스템의 기본 구성"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2013-20": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-01": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-05": {
+    "category": "ch03",
+    "topics": [
+      "3-16"
+    ],
+    "primaryTopic": "3-16",
+    "concepts": [
+      "3-16 잡음"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-06": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-07": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-09": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-10": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-12": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-13": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-14": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-18": {
+    "category": "ch09",
+    "topics": [
+      "9-5"
+    ],
+    "primaryTopic": "9-5",
+    "concepts": [
+      "9-5 착오 제어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-19": {
+    "category": "ch02",
+    "topics": [
+      "2-1"
+    ],
+    "primaryTopic": "2-1",
+    "concepts": [
+      "2-1 아날로그 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2014-20": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-01": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-02": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-05": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-08": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-09": {
+    "category": "ch06",
+    "topics": [
+      "6-8"
+    ],
+    "primaryTopic": "6-8",
+    "concepts": [
+      "6-8 IS-95 CDMA와 WCDMA"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-10": {
+    "category": "ch04",
+    "topics": [
+      "4-7"
+    ],
+    "primaryTopic": "4-7",
+    "concepts": [
+      "4-7 통신 속도와 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-13": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-15": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-18": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-19": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2015-20": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-01": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-05": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-06": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-09": {
+    "category": "ch04",
+    "topics": [
+      "4-3"
+    ],
+    "primaryTopic": "4-3",
+    "concepts": [
+      "4-3 정합 필터(matched filter)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-10": {
+    "category": "ch02",
+    "topics": [
+      "2-5"
+    ],
+    "primaryTopic": "2-5",
+    "concepts": [
+      "2-5 FM과 PM의 변복조기 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-11": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-12": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-13": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-14": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-15": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-16": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-17": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-18": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2016-19": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-01": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-03": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-05": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-07": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-08": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-10": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-12": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-14": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-15": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-16": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-17": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-18": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2017-20": {
+    "category": "ch01",
+    "topics": [
+      "1-2"
+    ],
+    "primaryTopic": "1-2",
+    "concepts": [
+      "1-2 기본 신호 파형"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-01": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-03": {
+    "category": "ch02",
+    "topics": [
+      "2-1"
+    ],
+    "primaryTopic": "2-1",
+    "concepts": [
+      "2-1 아날로그 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-04": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-07": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-08": {
+    "category": "ch02",
+    "topics": [
+      "2-5"
+    ],
+    "primaryTopic": "2-5",
+    "concepts": [
+      "2-5 FM과 PM의 변복조기 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-10": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-11": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-12": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-15": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-16": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-18": {
+    "category": "ch06",
+    "topics": [
+      "6-9"
+    ],
+    "primaryTopic": "6-9",
+    "concepts": [
+      "6-9 LTE(Long Term Evolution)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2018-19": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-01": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-05": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-06": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-07": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-08": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-09": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-10": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-11": {
+    "category": "ch02",
+    "topics": [
+      "2-1"
+    ],
+    "primaryTopic": "2-1",
+    "concepts": [
+      "2-1 아날로그 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-12": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-16": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-17": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-19": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2019-20": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-01": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-03": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-04": {
+    "category": "ch01",
+    "topics": [
+      "1-8"
+    ],
+    "primaryTopic": "1-8",
+    "concepts": [
+      "1-8 변조"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-07": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-08": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-10": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-11": {
+    "category": "ch04",
+    "topics": [
+      "4-7"
+    ],
+    "primaryTopic": "4-7",
+    "concepts": [
+      "4-7 통신 속도와 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-12": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-13": {
+    "category": "ch01",
+    "topics": [
+      "1-2"
+    ],
+    "primaryTopic": "1-2",
+    "concepts": [
+      "1-2 기본 신호 파형"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-14": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-16": {
+    "category": "ch01",
+    "topics": [
+      "1-5"
+    ],
+    "primaryTopic": "1-5",
+    "concepts": [
+      "1-5 푸리에 변환(Fourier Transform)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-18": {
+    "category": "ch06",
+    "topics": [
+      "6-11"
+    ],
+    "primaryTopic": "6-11",
+    "concepts": [
+      "6-11 5세대 이동통신"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2020-20": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-02": {
+    "category": "ch03",
+    "topics": [
+      "3-16"
+    ],
+    "primaryTopic": "3-16",
+    "concepts": [
+      "3-16 잡음"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-04": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-05": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-06": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-07": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-08": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-09": {
+    "category": "ch04",
+    "topics": [
+      "4-2"
+    ],
+    "primaryTopic": "4-2",
+    "concepts": [
+      "4-2 데이터 전송 방법"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-10": {
+    "category": "ch09",
+    "topics": [
+      "9-8"
+    ],
+    "primaryTopic": "9-8",
+    "concepts": [
+      "9-8 데이터 전송 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-12": {
+    "category": "ch02",
+    "topics": [
+      "2-1"
+    ],
+    "primaryTopic": "2-1",
+    "concepts": [
+      "2-1 아날로그 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-13": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-17": {
+    "category": "ch01",
+    "topics": [
+      "1-3"
+    ],
+    "primaryTopic": "1-3",
+    "concepts": [
+      "1-3 직교 벡터 좌표계와 직교 함수 좌표계"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-18": {
+    "category": "ch02",
+    "topics": [
+      "2-1"
+    ],
+    "primaryTopic": "2-1",
+    "concepts": [
+      "2-1 아날로그 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2021-19": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-01": {
+    "category": "ch09",
+    "topics": [
+      "9-5"
+    ],
+    "primaryTopic": "9-5",
+    "concepts": [
+      "9-5 착오 제어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-03": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-04": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-05": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-06": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-08": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-09": {
+    "category": "ch03",
+    "topics": [
+      "3-16"
+    ],
+    "primaryTopic": "3-16",
+    "concepts": [
+      "3-16 잡음"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-10": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-11": {
+    "category": "ch03",
+    "topics": [
+      "3-16"
+    ],
+    "primaryTopic": "3-16",
+    "concepts": [
+      "3-16 잡음"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-12": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-14": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-17": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-18": {
+    "category": "ch04",
+    "topics": [
+      "4-6"
+    ],
+    "primaryTopic": "4-6",
+    "concepts": [
+      "4-6 디지털 변조의 특성 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-19": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2022-20": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-01": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-05": {
+    "category": "ch04",
+    "topics": [
+      "4-6"
+    ],
+    "primaryTopic": "4-6",
+    "concepts": [
+      "4-6 디지털 변조의 특성 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-07": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-08": {
+    "category": "ch04",
+    "topics": [
+      "4-6"
+    ],
+    "primaryTopic": "4-6",
+    "concepts": [
+      "4-6 디지털 변조의 특성 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-10": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-12": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-14": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-15": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-16": {
+    "category": "ch06",
+    "topics": [
+      "6-7"
+    ],
+    "primaryTopic": "6-7",
+    "concepts": [
+      "6-7 주파수 재사용 거리(D)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-17": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-18": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2023-20": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-01": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-02": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-03": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-04": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-05": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-06": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-07": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-08": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-09": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-10": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-11": {
+    "category": "ch03",
+    "topics": [
+      "3-14"
+    ],
+    "primaryTopic": "3-14",
+    "concepts": [
+      "3-14 에너지 밀도 스펙트럼과 에너지"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-12": {
+    "category": "ch04",
+    "topics": [
+      "4-5"
+    ],
+    "primaryTopic": "4-5",
+    "concepts": [
+      "4-5 디지털 변조의 종류"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-15": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-17": {
+    "category": "ch04",
+    "topics": [
+      "4-1"
+    ],
+    "primaryTopic": "4-1",
+    "concepts": [
+      "4-1 디지털 변복조의 구성도"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-18": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-19": {
+    "category": "ch06",
+    "topics": [
+      "6-7"
+    ],
+    "primaryTopic": "6-7",
+    "concepts": [
+      "6-7 주파수 재사용 거리(D)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2024-20": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-02": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-04": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-06": {
+    "category": "ch04",
+    "topics": [
+      "4-6"
+    ],
+    "primaryTopic": "4-6",
+    "concepts": [
+      "4-6 디지털 변조의 특성 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-07": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-08": {
+    "category": "ch02",
+    "topics": [
+      "2-5"
+    ],
+    "primaryTopic": "2-5",
+    "concepts": [
+      "2-5 FM과 PM의 변복조기 비교"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-09": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-12": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-13": {
+    "category": "ch08",
+    "topics": [
+      "8-7"
+    ],
+    "primaryTopic": "8-7",
+    "concepts": [
+      "8-7 채널 용량"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-14": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-15": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-16": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2025-19": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-01": {
+    "category": "ch01",
+    "topics": [
+      "1-5"
+    ],
+    "primaryTopic": "1-5",
+    "concepts": [
+      "1-5 푸리에 변환(Fourier Transform)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-02": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-03": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-04": {
+    "category": "ch02",
+    "topics": [
+      "2-6"
+    ],
+    "primaryTopic": "2-6",
+    "concepts": [
+      "2-6 아날로그 시스템 성능 분석"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-06": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-07": {
+    "category": "ch02",
+    "topics": [
+      "2-2"
+    ],
+    "primaryTopic": "2-2",
+    "concepts": [
+      "2-2 AM(Amplitude Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-10": {
+    "category": "ch07",
+    "topics": [
+      "7-1"
+    ],
+    "primaryTopic": "7-1",
+    "concepts": [
+      "7-1 파형 부호화 방식"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-11": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-12": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-13": {
+    "category": "ch02",
+    "topics": [
+      "2-3"
+    ],
+    "primaryTopic": "2-3",
+    "concepts": [
+      "2-3 FM(Frequency Modulation)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-14": {
+    "category": "ch06",
+    "topics": [
+      "6-6"
+    ],
+    "primaryTopic": "6-6",
+    "concepts": [
+      "6-6 이동통신 관련 용어"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-16": {
+    "category": "ch06",
+    "topics": [
+      "6-7"
+    ],
+    "primaryTopic": "6-7",
+    "concepts": [
+      "6-7 주파수 재사용 거리(D)"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-17": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-19": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
+  },
+  "national-radio-2026-20": {
+    "category": "ch06",
+    "topics": [
+      "6-12"
+    ],
+    "primaryTopic": "6-12",
+    "concepts": [
+      "6-12 주요 무선통신 기술"
+    ],
+    "subtopics": [],
+    "tags": [],
+    "status": "approved",
+    "method": "national-grade9-manual-overlap-review-v1",
+    "note": "지방직·서울시 통신이론 목차와 겹치는 국가직 9급 무선공학개론 문항"
   }
 }

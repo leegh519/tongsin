@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "national-radio-2009-01",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-02",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-03",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-04",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-05",
+    "include": true,
+    "topic": "4-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-06",
+    "include": true,
+    "topic": "1-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-07",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-08",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-09",
+    "include": true,
+    "topic": "3-16",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-10",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2009-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-12",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2009-13",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2009-15",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2009-18",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-19",
+    "include": true,
+    "topic": "5-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2009-20",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2010-01",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-02",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2010-03",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2010-04",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-05",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-06",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-07",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-08",
+    "include": true,
+    "topic": "1-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-09",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-10",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-11",
+    "include": true,
+    "topic": "6-8",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-12",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2010-14",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-15",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-16",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-17",
+    "include": true,
+    "topic": "6-8",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-18",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-19",
+    "include": true,
+    "topic": "5-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2010-20",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-01",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2011-02",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2011-03",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-04",
+    "include": true,
+    "topic": "6-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-05",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-06",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-07",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-08",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-09",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-10",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-12",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-13",
+    "include": true,
+    "topic": "5-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-14",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2011-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-17",
+    "include": true,
+    "topic": "5-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2011-18",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2011-19",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2011-20",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2012-01",
+    "include": true,
+    "topic": "1-8",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-03",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2012-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-05",
+    "include": true,
+    "topic": "9-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-06",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2012-07",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-08",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2012-09",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-10",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2012-11",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-12",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-13",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-14",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-15",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-17",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-18",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-19",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2012-20",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-01",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-03",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-04",
+    "include": true,
+    "topic": "4-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-05",
+    "include": true,
+    "topic": "4-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-06",
+    "include": true,
+    "topic": "2-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-07",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-08",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-09",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-10",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-12",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-13",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2013-15",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-16",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2013-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2013-18",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-19",
+    "include": true,
+    "topic": "6-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2013-20",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-01",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-04",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2014-05",
+    "include": true,
+    "topic": "3-16",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-06",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-07",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-08",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2014-09",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-10",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-11",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2014-12",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-13",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-14",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2014-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2014-18",
+    "include": true,
+    "topic": "9-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-19",
+    "include": true,
+    "topic": "2-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2014-20",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-01",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-02",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-05",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-06",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2015-07",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2015-08",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-09",
+    "include": true,
+    "topic": "6-8",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-10",
+    "include": true,
+    "topic": "4-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-12",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2015-13",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2015-15",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2015-18",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-19",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2015-20",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-01",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-03",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2016-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-05",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-06",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-07",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2016-08",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2016-09",
+    "include": true,
+    "topic": "4-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-10",
+    "include": true,
+    "topic": "2-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-11",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-12",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-13",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-14",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-15",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-16",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-17",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-18",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-19",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2016-20",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2017-01",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-02",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2017-03",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-05",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-06",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2017-07",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-08",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-09",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2017-10",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-12",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2017-14",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-15",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-16",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-17",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-18",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2017-19",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2017-20",
+    "include": true,
+    "topic": "1-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-01",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-03",
+    "include": true,
+    "topic": "2-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-04",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-05",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2018-06",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2018-07",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-08",
+    "include": true,
+    "topic": "2-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-09",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2018-10",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-11",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-12",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2018-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2018-15",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-16",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2018-18",
+    "include": true,
+    "topic": "6-9",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-19",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2018-20",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2019-01",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-02",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2019-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-05",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-06",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-07",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-08",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-09",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-10",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-11",
+    "include": true,
+    "topic": "2-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-12",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2019-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2019-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2019-16",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-17",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-18",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2019-19",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2019-20",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-01",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-03",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-04",
+    "include": true,
+    "topic": "1-8",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-05",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2020-06",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2020-07",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-08",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-09",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2020-10",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-11",
+    "include": true,
+    "topic": "4-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-12",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-13",
+    "include": true,
+    "topic": "1-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-14",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2020-16",
+    "include": true,
+    "topic": "1-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2020-18",
+    "include": true,
+    "topic": "6-11",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2020-19",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2020-20",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-01",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2021-02",
+    "include": true,
+    "topic": "3-16",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-04",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-05",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-06",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-07",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-08",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-09",
+    "include": true,
+    "topic": "4-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-10",
+    "include": true,
+    "topic": "9-8",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-11",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2021-12",
+    "include": true,
+    "topic": "2-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-13",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2021-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2021-16",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2021-17",
+    "include": true,
+    "topic": "1-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-18",
+    "include": true,
+    "topic": "2-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-19",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2021-20",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2022-01",
+    "include": true,
+    "topic": "9-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-03",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-04",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-05",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-06",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-07",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2022-08",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-09",
+    "include": true,
+    "topic": "3-16",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-10",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-11",
+    "include": true,
+    "topic": "3-16",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-12",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2022-14",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2022-16",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2022-17",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-18",
+    "include": true,
+    "topic": "4-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-19",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2022-20",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-01",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-05",
+    "include": true,
+    "topic": "4-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-06",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2023-07",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-08",
+    "include": true,
+    "topic": "4-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-09",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2023-10",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-11",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2023-12",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2023-14",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-15",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-16",
+    "include": true,
+    "topic": "6-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-17",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-18",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2023-19",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2023-20",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-01",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-02",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-03",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-04",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-05",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-06",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-07",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-08",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-09",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-10",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-11",
+    "include": true,
+    "topic": "3-14",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-12",
+    "include": true,
+    "topic": "4-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-13",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2024-14",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2024-15",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-17",
+    "include": true,
+    "topic": "4-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-18",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-19",
+    "include": true,
+    "topic": "6-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2024-20",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-01",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2025-02",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-04",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-05",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2025-06",
+    "include": true,
+    "topic": "4-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-07",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-08",
+    "include": true,
+    "topic": "2-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-09",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-10",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2025-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-12",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-13",
+    "include": true,
+    "topic": "8-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-14",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-15",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-16",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-17",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2025-18",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2025-19",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2025-20",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2026-01",
+    "include": true,
+    "topic": "1-5",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-02",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-03",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-04",
+    "include": true,
+    "topic": "2-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-05",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2026-06",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-07",
+    "include": true,
+    "topic": "2-2",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-08",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2026-09",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2026-10",
+    "include": true,
+    "topic": "7-1",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-11",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-12",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-13",
+    "include": true,
+    "topic": "2-3",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-14",
+    "include": true,
+    "topic": "6-6",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-15",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2026-16",
+    "include": true,
+    "topic": "6-7",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-17",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-18",
+    "include": false,
+    "topic": null,
+    "reason": "급전·전송선로·안테나 상세/레이더 성능/항법·GPS/전리층 등 지방직 공통 개념을 벗어나는 무선공학 전용 내용"
+  },
+  {
+    "id": "national-radio-2026-19",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  },
+  {
+    "id": "national-radio-2026-20",
+    "include": true,
+    "topic": "6-12",
+    "reason": "제공 목차와 지방직·서울시의 기출 개념에 대응"
+  }
+]

@@ -68,7 +68,7 @@
 
   function initializeFilters() {
     const years = [...new Set(questions.map(q => q.year))].sort((a, b) => a - b);
-    renderCheckGroup(els.agency, ["지방직", "서울시"].map(value => ({ value, label: value })), selectedAgencies);
+    renderCheckGroup(els.agency, ["지방직", "서울시", "국가직"].map(value => ({ value, label: value })), selectedAgencies);
     renderCheckGroup(els.year, years.map(year => ({ value: String(year), label: `${year}년` })), selectedYears);
     renderCheckGroup(els.category, taxonomy.categories.map(category => ({ value: category.id, label: category.label })), selectedCategories);
     renderCheckGroup(els.history, [
@@ -265,7 +265,7 @@
     const visibleChoiceLabels = choiceLabels.slice(0, choiceCount);
     card.innerHTML = `
       <header class="question-head">
-        <div class="question-source"><strong>문 ${question.number}</strong><span>${question.year}년 ${question.agency}</span></div>
+        <div class="question-source"><strong>문 ${question.number}</strong><span>${question.year}년 ${question.agency} 9급${question.subject ? ` · ${escapeHtml(question.subject)}` : ""}</span></div>
         <div class="question-tools">
           <button class="tool-button favorite ${record.favorite ? "is-active" : ""}" type="button">${record.favorite ? "★ 즐겨찾기" : "☆ 즐겨찾기"}</button>
           <button class="tool-button metadata-toggle" type="button">${metaShown ? "분류 가리기" : "분류 보기"}</button>

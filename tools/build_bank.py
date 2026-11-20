@@ -20,9 +20,10 @@ for c,(title,sections) in enumerate(chapters,1):
 if (ROOT/'data/taxonomy.json').exists(): tax=json.loads((ROOT/'data/taxonomy.json').read_text(encoding='utf-8'))
 else: (ROOT/'data/taxonomy.json').write_text(json.dumps(tax,ensure_ascii=False,indent=2),encoding='utf-8')
 questions=[];exams=[]
+classifications=json.loads((ROOT/'data/classifications.json').read_text(encoding='utf-8')) if (ROOT/'data/classifications.json').exists() else {}
 for file in sorted((ROOT/'sources').glob('*.pdf')):
  if file.stem.startswith('compilation'):continue
- slug,year=file.stem.split('-');year=int(year);agency={'local':'지방직','seoul':'서울시'}[slug];d=fitz.open(file);anchors=[]
+ slug,year=file.stem.rsplit('-',1);year=int(year);agency={'local':'지방직','seoul':'서울시','national-radio':'국가직'}[slug];d=fitz.open(file);anchors=[]
  for pi,p in enumerate(d):
   for b in p.get_text('dict')['blocks']:
    for line in b.get('lines',[]):
@@ -30,10 +31,18 @@ for file in sorted((ROOT/'sources').glob('*.pdf')):
     if m and 1<=int(m[1])<=20:
      x,y,*_=line['bbox']
      # Reject decimal values in formulas: question numbers sit at the column margin.
-     if (slug=='seoul' and (abs(x-65)<3 or abs(x-71)<3 or abs(x-370)<3 or abs(x-376)<3)) or (slug=='local' and any(abs(x-v)<3 for v in [14,17,22,23,31,303,320,361,371,376,377])):anchors.append({'number':int(m[1]),'page':pi,'x':x,'y':y})
+     if (slug=='seoul' and (abs(x-65)<3 or abs(x-71)<3 or abs(x-370)<3 or abs(x-376)<3)) or (slug!='seoul' and any(abs(x-v)<3 for v in [14,17,22,23,31,303,320,361,371,376,377])):anchors.append({'number':int(m[1]),'page':pi,'x':x,'y':y})
+ for pi,p in enumerate(d):
+  words=p.get_text('words')
+  for w in words:
+   if w[4]=='문':
+    near=[v for v in words if abs(v[1]-w[1])<2 and 0<v[0]-w[0]<30 and re.fullmatch(r'\d{1,2}\.',v[4])]
+    if near:
+     n=int(near[0][4][:-1])
+     if 1<=n<=20 and not any(a['number']==n for a in anchors):anchors.append({'number':n,'page':pi,'x':w[0],'y':w[1]})
  assert sorted(a['number'] for a in anchors)==list(range(1,21)),(file,anchors)
  answers={};answerfile=None
- if slug=='local':
+ if slug!='seoul':
   html=(ROOT/f'sources/{file.stem}.html').read_text(encoding='utf-8')
   if 'ì' in html: html=html.encode('latin1').decode('utf-8')
   s=BeautifulSoup(html,'html.parser')
@@ -44,18 +53,19 @@ for file in sorted((ROOT/'sources').glob('*.pdf')):
  official=Path(__file__).resolve().parents[1]/'official-answers'/f'{year}-{agency}-{"정답" if slug=="seoul" else "최종정답"}.pdf'
  if official.exists():
   ad=fitz.open(official);full='\n'.join(p.get_text() for p in ad)
-  book='B' if (slug=='seoul' and year==2020) or (slug=='local' and year>=2024) else 'A'
-  pattern=(r'통신이론\s*[_（(]?\s*9급\s*[)）]?\s*'+book+r'\s*(?:형)?\s*((?:[1-5]\s*){20})' if slug=='seoul' else r'통신이론\s*[ⒶⒷⒸⒹABCD가나]\s*((?:[1-5]\s*){20})')
+  book='B' if (slug=='seoul' and year==2020) or (slug!='seoul' and year>=2024) else 'A'
+  pattern=(r'통신이론\s*[_（(]?\s*9급\s*[)）]?\s*'+book+r'\s*(?:형)?\s*((?:[1-5]\s*){20})' if slug=='seoul' else rf'{"무선공학개론" if slug=="national-radio" else "통신이론"}\s*[ⒶⒷⒸⒹABCD가나]\s*((?:[1-5]\s*){20})')
   m=re.search(pattern,full)
   if m:
    answers={i:int(v) for i,v in enumerate(re.findall('[1-5]',m[1]),1)};answerfile='official-answers/'+official.name
   else:print('OFFICIAL PARSE PENDING',file.stem)
- sourcesurl=f'https://cbtnow.kr/시험/9급-지방직-통신이론/{year}년/' if slug=='local' else ('https://ingyerlog.kr/2021-9-seoul-comm/' if year==2021 else 'https://baekchwijun.tistory.com/61')
+ sourcesurl=f'https://cbtnow.kr/시험/9급-{"국가직-무선공학개론" if slug=="national-radio" else "지방직-통신이론"}/{year}년/' if slug!='seoul' else ('https://ingyerlog.kr/2021-9-seoul-comm/' if year==2021 else 'https://baekchwijun.tistory.com/61')
  exams.append({'id':file.stem,'year':year,'agency':agency,'title':f'{year}년 {agency} 9급 통신이론','sourcePdf':'sources/'+file.name,'questionCount':20,'sourceUrl':sourcesurl})
  for a in sorted(anchors,key=lambda a:a['number']):
+  if slug=='national-radio' and f'{file.stem}-{a["number"]:02}' not in classifications: continue
   p=d[a['page']];w,h=p.rect.width,p.rect.height;right=a['x']>w/2
   col=[b for b in anchors if b['page']==a['page'] and (b['x']>w/2)==right];start=min(b['x'] for b in col)
-  nxt=[b['y'] for b in col if b['y']>a['y']+1];bottom=min(nxt)-7 if nxt else h-(65 if slug=='seoul' else 30)
+  nxt=[b['y'] for b in col if b['y']>a['y']+1];bottom=min(nxt)-7 if nxt else h-(65 if slug=='seoul' else 5)
   other=[b['x'] for b in anchors if b['page']==a['page'] and b['x']>w/2]
   x0=start-7;x1=(min(other)-10 if other and not right else min(w-10,start+(305 if slug=='seoul' else w/2)-9))
   rect=fitz.Rect(x0,a['y']-14,x1,bottom);text=p.get_text(clip=rect)
@@ -91,3 +101,24 @@ if (ROOT/'data/classifications.json').exists():
   q['review']['classification']=q['classification']['status']
  (ROOT/'data/questions.json').write_text(json.dumps(questions,ensure_ascii=False,indent=2),encoding='utf-8')
 (ROOT/'data/data.js').write_text('window.QUESTION_BANK = '+json.dumps({'questions':questions,'taxonomy':tax,'exams':exams},ensure_ascii=False)+';\n',encoding='utf-8')
+
+for q in questions:
+ q['grade']=9
+ q['subject']='무선공학개론' if q['agency']=='국가직' else '통신이론'
+for exam in exams:
+ exam['grade']=9
+ exam['subject']='무선공학개론' if exam['agency']=='국가직' else '통신이론'
+ exam['title']=f"{exam['year']}년 {exam['agency']} 9급 {exam['subject']}"
+ exam['questionCount']=sum(q['examId']==exam['id'] for q in questions)
+ exam['originalQuestionCount']=20
+(ROOT/'data/questions.json').write_text(json.dumps(questions,ensure_ascii=False,indent=2),encoding='utf-8')
+(ROOT/'data/exams.json').write_text(json.dumps(exams,ensure_ascii=False,indent=2),encoding='utf-8')
+(ROOT/'data/data.js').write_text('window.QUESTION_BANK = '+json.dumps({'questions':questions,'taxonomy':tax,'exams':exams},ensure_ascii=False)+';\n',encoding='utf-8')
+
+if (ROOT/'data/answer_keys.json').exists():
+ answer_keys=json.loads((ROOT/'data/answer_keys.json').read_text(encoding='utf-8'))
+ for q in questions:
+  if q['id'] in answer_keys:q['answer']=answer_keys[q['id']]
+  q['review']['answer']='approved' if q['answer']['status']=='official' else 'pending'
+ (ROOT/'data/questions.json').write_text(json.dumps(questions,ensure_ascii=False,indent=2),encoding='utf-8')
+ (ROOT/'data/data.js').write_text('window.QUESTION_BANK = '+json.dumps({'questions':questions,'taxonomy':tax,'exams':exams},ensure_ascii=False)+';\n',encoding='utf-8')

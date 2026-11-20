@@ -22,7 +22,7 @@
   function saveReview() { localStorage.setItem(STORAGE_KEY, JSON.stringify(review)); updateStats(); }
   function option(select, value, label) { const node = document.createElement("option"); node.value = value; node.textContent = label; select.append(node); }
   function initialize() {
-    exams.sort((a, b) => b.year - a.year || a.agency.localeCompare(b.agency, "ko")).forEach(exam => option(els.exam, exam.id, `${exam.year} ${exam.agency}`));
+    exams.sort((a, b) => b.year - a.year || a.agency.localeCompare(b.agency, "ko")).forEach(exam => option(els.exam, exam.id, `${exam.year} ${exam.agency} 9급 · ${exam.subject || "통신이론"}`));
     renderSheets();
     render();
     updateStats();
@@ -69,7 +69,7 @@
     card.className = `review-card crop-${local.crop || "pending"}`;
     card.dataset.id = question.id;
     card.innerHTML = `
-      <header><div><strong>${question.year} ${question.agency} · ${question.number}번</strong><code>${question.id}</code></div><span class="status-pill">${local.crop === "ok" ? "이미지 확인" : local.crop === "issue" ? "문제 있음" : "미검수"}</span></header>
+      <header><div><strong>${question.year} ${question.agency} 9급 · ${question.subject || "통신이론"} · ${question.number}번</strong><code>${question.id}</code></div><span class="status-pill">${local.crop === "ok" ? "이미지 확인" : local.crop === "issue" ? "문제 있음" : "미검수"}</span></header>
       <a class="review-image-link" href="${question.image.src}" target="_blank"><img src="${question.image.src}" loading="lazy" alt="${question.id}"></a>
       <dl>
         <div><dt>원본</dt><dd>${question.source.page}쪽 ${question.source.column === "left" ? "왼쪽" : "오른쪽"} 열</dd></div>

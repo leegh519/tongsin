@@ -1,19 +1,21 @@
 {
-  "exams": 16,
-  "questions": 320,
-  "officialAnswers": 260,
-  "provisionalAnswers": 60,
-  "missingAnswers": 0,
-  "outsideToc": [
-    "local-2010-02",
-    "local-2010-05",
-    "local-2010-06",
-    "local-2010-07",
-    "local-2011-13",
-    "seoul-2017-03"
-  ],
+  "questions": 594,
+  "exams": 34,
+  "byAgency": {
+    "지방직": 160,
+    "서울시": 160,
+    "국가직": 274
+  },
+  "officialAnswers": 409,
+  "provisionalAnswers": 185,
+  "grade": 9,
+  "excludedGrade7": true,
+  "nationalSourceSubject": "무선공학개론",
+  "nationalCandidates": 360,
+  "nationalSelected": 274,
+  "nationalExcluded": 86,
   "missing": [
-    "2010 서울시 9급 통신이론 원본 미확보"
+    "2010 서울시 9급 원문 미확보"
   ],
-  "cropReview": "번호 1~20, 선지 기호 수 및 이미지 파일 전수 자동검사; 대표 검수표 시각 확인. 전 문항 육안 검수는 미완료."
+  "cropReview": "문항번호·이미지·원본·정답·분류 연결 자동검사, 대표 검수표 시각 확인. 전 문항 육안 검수 미완료."
 }
