@@ -11,7 +11,8 @@
     128,
     160,
     162,
-    236
+    236,
+    562
   ],
   "chapters": [
     {
@@ -18782,13 +18783,13 @@
       "page": 157,
       "column": 0,
       "row": 0,
-      "fullColumn": false,
-      "fullWidth": true,
+      "fullColumn": true,
+      "fullWidth": false,
       "rect": [
         36.0,
         104.0,
-        499.04347826086956,
-        734.0
+        273.638,
+        427.3215605633802
       ],
       "originalNumberMasks": [
         [
@@ -18805,22 +18806,22 @@
         710,
         966
       ],
-      "printedWidth": 463.04347826086956,
-      "printedHeight": 630.0
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 323.3215605633802
     },
     {
       "sequence": 563,
       "id": "seoul-2015-19",
       "category": "ch09",
-      "page": 158,
-      "column": 0,
+      "page": 157,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.6379999999999,
+        547.276,
         256.57815877437326
       ],
       "originalNumberMasks": [
@@ -18838,22 +18839,22 @@
         718,
         461
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 152.57815877437326
     },
     {
       "sequence": 564,
       "id": "seoul-2016-03",
       "category": "ch09",
-      "page": 158,
-      "column": 0,
+      "page": 157,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.63800000000003,
+        547.276,
         555.5152621359223
       ],
       "originalNumberMasks": [
@@ -18871,7 +18872,7 @@
         721,
         308
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 101.51526213592228
     },
     {
@@ -18879,14 +18880,14 @@
       "id": "seoul-2016-04",
       "category": "ch09",
       "page": 158,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         229.07263157894738
       ],
       "originalNumberMasks": [
@@ -18912,14 +18913,14 @@
       "id": "seoul-2017-09",
       "category": "ch09",
       "page": 158,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         601.1249113573407
       ],
       "originalNumberMasks": [
@@ -18944,15 +18945,15 @@
       "sequence": 567,
       "id": "seoul-2017-16",
       "category": "ch09",
-      "page": 159,
-      "column": 0,
+      "page": 158,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         191.95261173184358
       ],
       "originalNumberMasks": [
@@ -18977,15 +18978,15 @@
       "sequence": 568,
       "id": "seoul-2018-03",
       "category": "ch09",
-      "page": 159,
-      "column": 0,
+      "page": 158,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        267.84000000000003,
+        541.478,
         502.6
       ],
       "originalNumberMasks": [
@@ -19003,7 +19004,7 @@
         644,
         135
       ],
-      "printedWidth": 231.84000000000003,
+      "printedWidth": 231.83999999999997,
       "printedHeight": 48.60000000000002
     },
     {
@@ -19011,14 +19012,14 @@
       "id": "seoul-2018-06",
       "category": "ch09",
       "page": 159,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.6379999999999,
         204.94650417827296
       ],
       "originalNumberMasks": [
@@ -19036,7 +19037,7 @@
         718,
         305
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63799999999992,
       "printedHeight": 100.94650417827296
     },
     {
@@ -19044,14 +19045,14 @@
       "id": "seoul-2019-06",
       "category": "ch09",
       "page": 159,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.6379999999999,
         578.7764986072423
       ],
       "originalNumberMasks": [
@@ -19069,22 +19070,22 @@
         718,
         377
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63799999999992,
       "printedHeight": 124.77649860724227
     },
     {
       "sequence": 571,
       "id": "seoul-2020-16",
       "category": "ch09",
-      "page": 160,
-      "column": 0,
+      "page": 159,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.6379999999999,
+        547.276,
         166.55373537604456
       ],
       "originalNumberMasks": [
@@ -19102,22 +19103,22 @@
         718,
         189
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 62.55373537604456
     },
     {
       "sequence": 572,
       "id": "local-2022-02",
       "category": "ch09",
-      "page": 160,
-      "column": 0,
+      "page": 159,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.6379999999999,
+        547.276,
         581.3060714285714
       ],
       "originalNumberMasks": [
@@ -19135,7 +19136,7 @@
         840,
         450
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 127.30607142857139
     },
     {
@@ -19143,14 +19144,14 @@
       "id": "local-2022-10",
       "category": "ch09",
       "page": 160,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         272.1267657550535
       ],
       "originalNumberMasks": [
@@ -19176,14 +19177,14 @@
       "id": "national-radio-2022-01",
       "category": "ch09",
       "page": 160,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         550.7131395348837
       ],
       "originalNumberMasks": [
@@ -19208,15 +19209,15 @@
       "sequence": 575,
       "id": "local-2025-05",
       "category": "ch09",
-      "page": 161,
-      "column": 0,
+      "page": 160,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.63800000000003,
+        547.276,
         216.8010765606596
       ],
       "originalNumberMasks": [
@@ -19234,22 +19235,22 @@
         849,
         403
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 112.8010765606596
     },
     {
       "sequence": 576,
       "id": "local-2025-14",
       "category": "ch09",
-      "page": 161,
-      "column": 0,
+      "page": 160,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         543.8723758700696
       ],
       "originalNumberMasks": [
@@ -19275,14 +19276,14 @@
       "id": "local-2026-12",
       "category": "ch09",
       "page": 161,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         180.91531554524363
       ],
       "originalNumberMasks": [
@@ -19308,14 +19309,14 @@
       "id": "local-2026-15",
       "category": "ch09",
       "page": 161,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         539.7689389416554
       ],
       "originalNumberMasks": [
@@ -19340,15 +19341,15 @@
       "sequence": 579,
       "id": "local-2011-07",
       "category": "ch09",
-      "page": 162,
-      "column": 0,
+      "page": 161,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         212.7255827123696
       ],
       "originalNumberMasks": [
@@ -19373,15 +19374,15 @@
       "sequence": 580,
       "id": "local-2023-14",
       "category": "ch09",
-      "page": 162,
-      "column": 0,
+      "page": 161,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         559.3418449074074
       ],
       "originalNumberMasks": [
@@ -19407,14 +19408,14 @@
       "id": "local-2023-18",
       "category": "ch09",
       "page": 162,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         231.23707084785133
       ],
       "originalNumberMasks": [
@@ -19440,14 +19441,14 @@
       "id": "local-2023-19",
       "category": "ch09",
       "page": 162,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         546.3535150812065
       ],
       "originalNumberMasks": [
@@ -19472,15 +19473,15 @@
       "sequence": 583,
       "id": "local-2025-09",
       "category": "ch09",
-      "page": 163,
-      "column": 0,
+      "page": 162,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.63800000000003,
+        547.276,
         182.09305300353356
       ],
       "originalNumberMasks": [
@@ -19498,22 +19499,22 @@
         849,
         279
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 78.09305300353356
     },
     {
       "sequence": 584,
       "id": "local-2025-13",
       "category": "ch09",
-      "page": 163,
-      "column": 0,
+      "page": 162,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.63800000000003,
+        547.276,
         556.9032909930716
       ],
       "originalNumberMasks": [
@@ -19531,7 +19532,7 @@
         866,
         375
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 102.90329099307155
     },
     {
@@ -19539,14 +19540,14 @@
       "id": "seoul-2019-20",
       "category": "ch09",
       "page": 163,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         191.91614464534075
       ],
       "originalNumberMasks": [
@@ -19572,14 +19573,14 @@
       "id": "local-2010-18",
       "category": "ch09",
       "page": 163,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         546.1147297979797
       ],
       "originalNumberMasks": [
@@ -19604,15 +19605,15 @@
       "sequence": 587,
       "id": "national-radio-2021-10",
       "category": "ch09",
-      "page": 164,
-      "column": 0,
+      "page": 163,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         234.382485190409
       ],
       "originalNumberMasks": [
@@ -19639,14 +19640,14 @@
       "category": "ch09",
       "page": 164,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        521.0685644599303
+        171.06856445993031
       ],
       "originalNumberMasks": [
         [
@@ -19664,22 +19665,22 @@
         243
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 67.06856445993026
+      "printedHeight": 67.06856445993031
     },
     {
       "sequence": 589,
       "id": "local-2010-02",
       "category": "pending",
       "page": 164,
-      "column": 1,
-      "row": 0,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        193.52873488372092
+        36.0,
+        454.0,
+        273.638,
+        543.528734883721
       ],
       "originalNumberMasks": [
         [
@@ -19697,7 +19698,7 @@
         324
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 89.52873488372092
+      "printedHeight": 89.52873488372097
     },
     {
       "sequence": 590,
@@ -19705,14 +19706,14 @@
       "category": "pending",
       "page": 164,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        573.7805410404624
+        223.78054104046242
       ],
       "originalNumberMasks": [
         [
@@ -19730,22 +19731,22 @@
         436
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 119.78054104046237
+      "printedHeight": 119.78054104046242
     },
     {
       "sequence": 591,
       "id": "local-2010-06",
       "category": "pending",
-      "page": 165,
-      "column": 0,
-      "row": 0,
+      "page": 164,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.6379999999999,
-        210.95429522431257
+        309.638,
+        454.0,
+        547.276,
+        560.9542952243125
       ],
       "originalNumberMasks": [
         [
@@ -19762,8 +19763,8 @@
         691,
         311
       ],
-      "printedWidth": 237.63799999999992,
-      "printedHeight": 106.95429522431257
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 106.95429522431255
     },
     {
       "sequence": 592,
@@ -19771,14 +19772,14 @@
       "category": "pending",
       "page": 165,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        552.4185220417634
+        202.4185220417633
       ],
       "originalNumberMasks": [
         [
@@ -19796,22 +19797,22 @@
         357
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 98.41852204176337
+      "printedHeight": 98.41852204176331
     },
     {
       "sequence": 593,
       "id": "local-2011-13",
       "category": "pending",
       "page": 165,
-      "column": 1,
-      "row": 0,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        536.438,
-        148.64
+        36.0,
+        454.0,
+        262.79999999999995,
+        498.64
       ],
       "originalNumberMasks": [
         [
@@ -19828,7 +19829,7 @@
         630,
         124
       ],
-      "printedWidth": 226.8,
+      "printedWidth": 226.79999999999995,
       "printedHeight": 44.639999999999986
     },
     {
@@ -19837,14 +19838,14 @@
       "category": "pending",
       "page": 165,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        608.0368199445984
+        258.03681994459834
       ],
       "originalNumberMasks": [
         [
@@ -19862,7 +19863,7 @@
         468
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 154.0368199445984
+      "printedHeight": 154.03681994459834
     }
   ]
 }

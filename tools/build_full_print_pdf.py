@@ -7,12 +7,10 @@ from build_print_pdf import ROOT,make_question_image
 def plan_pages(items,prepared):
  pages=[];entries=[];slot=0
  for q in items:
-  if q['id']=='national-radio-2014-18':
-   if entries:pages.append(entries)
-   pages.append([{'question':q,'column':0,'row':0,'fullColumn':False,'fullWidth':True}]);entries=[];slot=0
-   continue
   _,(iw,ih),_=prepared[q['id']]
-  tall=ih/iw>1.4
+  tall=ih/iw>1.4 or q['id']=='national-radio-2014-18'
+  # Keep 588 and 589 together when the preceding page has just one slot left.
+  if q['id']=='local-2009-19' and slot==3:slot=4
   if tall and slot%2:slot+=1
   if slot>=4:
    pages.append(entries);entries=[];slot=0
@@ -113,7 +111,8 @@ def main():
  (work/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
  assert all(next(m for m in manifest if m['sequence']==n)['fullColumn'] for n in [160,162,236])
  assert len(check.get_toc())==10 and cover_count==9
- assert next(m for m in manifest if m['sequence']==562)['fullWidth']
+ assert next(m for m in manifest if m['sequence']==562)['fullColumn']
+ assert not next(m for m in manifest if m['sequence']==562)['fullWidth']
  assert next(m['page'] for m in manifest if m['sequence']==588)==next(m['page'] for m in manifest if m['sequence']==589)
  (ROOT/'review/full-print-audit.json').write_text(json.dumps({'questionCount':594,'pageCount':total,'coverCount':cover_count,'ordering':'column-major: 1 3 / 2 4; tall questions occupy one full column','rightInsetPoints':12,'maximumImageScale':.36,'fullColumnSequences':[m['sequence'] for m in manifest if m['fullColumn']],'chapters':[{'label':c['label'],'questionCount':len(v),'cover':c['id']!='pending'} for c,v in groups],'multipleAnswerIds':[q['id'] for q in qs if len(q['answer'].get('choices',[]))>1],'manifest':manifest},ensure_ascii=False,indent=2),encoding='utf-8')
  print('PASS:',total,'A4 pages;',cover_count,'covers; 594 unique questions; full-column tall questions, column-major layout, answer sets, original number masks, and all-page render verified;',args.output)
