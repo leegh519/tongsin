@@ -5,17 +5,21 @@ import pymupdf as fitz
 from PIL import Image,ImageDraw,ImageChops
 ROOT=Path(__file__).resolve().parents[1]
 
-def make_question_image(q):
+def make_question_image(q,full=False):
  doc=fitz.open(ROOT/q['source']['pdf']);p=doc[q['source']['page']-1];rect=fitz.Rect(q['source']['crop']);zoom=2.5
  # The sample's questions end in text choices; exclude clipped page rules/next-question fragments.
- body=[]
+ body=[];body_top=[]
  for block in p.get_text('dict')['blocks']:
   for line in block.get('lines',[]):
    b=fitz.Rect(line['bbox']);t=''.join(s['text'] for s in line['spans'])
-   if rect.intersects(b) and b.x0>=rect.x0 and b.x1<=rect.x1+2 and not re.fullmatch(r'\s*[ⒶⒷ]?\s*[-−]\s*\d+\s*[-−]?\s*',t):body.append(b.y1)
- if body:rect.y1=min(rect.y1,max(body)+1)
+   if rect.intersects(b) and b.x0>=rect.x0 and b.x1<=rect.x1+2 and not re.fullmatch(r'\s*[ⒶⒷ]?\s*[-−]\s*\d+\s*[-−]?\s*',t):body.append(b.y1);body_top.append(b.y0)
+ if body and not full:rect.y1=min(rect.y1,max(body)+1)
  pix=p.get_pixmap(matrix=fitz.Matrix(zoom,zoom),clip=rect,alpha=False)
  im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples);draw=ImageDraw.Draw(im)
+ if full and body_top:
+  # Header rules can extend into the 14-point margin above the actual stem.
+  bottom=(min(body_top)-rect.y0-2)*zoom
+  if bottom>0:draw.rectangle((0,0,im.width,bottom),fill='white')
  for block in p.get_text('dict')['blocks']:
   for line in block.get('lines',[]):
    footer=''.join(s['text'] for s in line['spans'])
@@ -34,6 +38,12 @@ def make_question_image(q):
   if sum(gray.getpixel((x,y))<180 for x in range(im.width))>im.width*.85:draw.rectangle((0,max(0,y-2),im.width,min(im.height,y+2)),fill='white')
  # Fix the print bounds before masking, keeping the original first-line indentation.
  box=ImageChops.difference(im,Image.new('RGB',im.size,'white')).point(lambda v:255 if v>55 else 0).getbbox()
+ if full:
+  # Ignore isolated specks at a distant page edge that would preserve a huge blank region.
+  ink=im.convert('L').point(lambda v:255 if v<200 else 0)
+  rows=[i for i in range(im.height) if ink.crop((0,i,im.width,i+1)).histogram()[255]>=3]
+  cols=[i for i in range(im.width) if ink.crop((i,0,i+1,im.height)).histogram()[255]>=3]
+  if rows and cols:box=(min(cols),min(rows),max(cols)+1,max(rows)+1)
  if not box:raise ValueError(q['id']+' empty image')
  crop=(max(0,box[0]-10),max(0,box[1]-10),min(im.width,box[2]+10),min(im.height,box[3]+10))
  masks=[]
@@ -41,8 +51,9 @@ def make_question_image(q):
   for line in block.get('lines',[]):
    chars=[c for s in line['spans'] for c in s['chars']];text=''.join(c['c'] for c in chars)
    match=re.match(r'^\s*(?:문\s*)?'+str(q['number'])+r'\s*\.\s*',text)
-   if match and abs(line['bbox'][0]-(rect.x0+7))<5 and abs(line['bbox'][1]-(rect.y0+14))<5:
-    selected=chars[:match.end()];b=fitz.Rect(selected[0]['bbox'])
+   at_start=rect.x0<=line['bbox'][0]<=rect.x0+45 and abs(line['bbox'][1]-(rect.y0+14))<5
+   if at_start and (match or text.strip()=='문'):
+    selected=chars[:match.end()] if match else chars;b=fitz.Rect(selected[0]['bbox'])
     for ch in selected[1:]:b|=fitz.Rect(ch['bbox'])
     b.x0-=.6;b.x1+=.3;b.y0-=.5;b.y1+=.5
     mask=((b.x0-rect.x0)*zoom,(b.y0-rect.y0)*zoom,(b.x1-rect.x0)*zoom,(b.y1-rect.y0)*zoom);draw.rectangle(mask,fill='white');masks.append(list(b))

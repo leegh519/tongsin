@@ -86,3 +86,12 @@ python tools/validate_bank.py
 `print/tongsin_sample_4p.pdf`: A4, 단원 표지 1쪽과 문제 3쪽(12문항), 총 4쪽입니다. 목차 순으로 정렬하고 한 쪽을 왼쪽 위·아래, 오른쪽 위·아래 순서(`1 3 / 2 4`)로 읽도록 배치했습니다. 문항 위의 새 번호와 출처, 쪽 아래의 정답을 표시하며 원래 문제 번호는 가렸습니다.
 
 재생성: `python tools/build_print_pdf.py --output print/tongsin_sample_4p.pdf` (Windows 바탕체 사용)
+
+
+## 전체 594문항 PDF
+
+`print/tongsin_594.pdf`: 594문항 전부, 단원별 표지 및 목차 외 6문항 포함. A4 한 쪽당 최대 4문항을 `1 3 / 2 4` 순서로 배치하고 문제마다 출처·새 일련번호, 쪽 아래 정답을 표시합니다. 서울시 2018년 14번은 ①/② 복수정답으로 표시합니다.
+
+재생성: `python tools/build_full_print_pdf.py --output print/tongsin_594.pdf`
+
+`review/full-print-audit.json`에 594개 원본 ID와 인쇄 일련번호·페이지·위치·정답 대응을 보관합니다.
