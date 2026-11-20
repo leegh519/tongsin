@@ -1,6 +1,6 @@
 {
   "questionCount": 594,
-  "pageCount": 165,
+  "pageCount": 164,
   "coverCount": 9,
   "ordering": "column-major: 1 3 / 2 4; tall questions occupy one full column",
   "rightInsetPoints": 12,
@@ -8,21 +8,21 @@
   "fullColumnSequences": [
     35,
     45,
-    128,
-    160,
-    162,
-    236,
-    562
+    132,
+    164,
+    166,
+    240,
+    561
   ],
   "chapters": [
     {
       "label": "신호해석과 시스템",
-      "questionCount": 70,
+      "questionCount": 71,
       "cover": true
     },
     {
       "label": "아날로그 변복조",
-      "questionCount": 105,
+      "questionCount": 108,
       "cover": true
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "label": "디지털 변복조",
-      "questionCount": 64,
+      "questionCount": 63,
       "cover": true
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "label": "음성의 디지털 부호화 기술",
-      "questionCount": 31,
+      "questionCount": 27,
       "cover": true
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "label": "OSI-7 계층과 프로토콜",
-      "questionCount": 47,
+      "questionCount": 48,
       "cover": true
     },
     {
@@ -1794,7 +1794,7 @@
     },
     {
       "sequence": 53,
-      "id": "local-2011-02",
+      "id": "national-radio-2024-07",
       "category": "ch01",
       "page": 15,
       "column": 1,
@@ -1805,7 +1805,40 @@
         309.638,
         454.0,
         547.276,
-        547.5610688622754
+        532.3759131455399
+      ],
+      "originalNumberMasks": [
+        [
+          376.40961303710935,
+          629.2235717773438,
+          392.17896728515626,
+          641.2665405273438
+        ]
+      ],
+      "answers": [
+        1
+      ],
+      "imageSize": [
+        852,
+        281
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 78.37591314553993
+    },
+    {
+      "sequence": 54,
+      "id": "local-2011-02",
+      "category": "ch01",
+      "page": 16,
+      "column": 0,
+      "row": 0,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        36.0,
+        104.0,
+        273.638,
+        197.56106886227542
       ],
       "originalNumberMasks": [
         [
@@ -1826,19 +1859,19 @@
       "printedHeight": 93.56106886227542
     },
     {
-      "sequence": 54,
+      "sequence": 55,
       "id": "local-2011-08",
       "category": "ch01",
       "page": 16,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        245.30784202682563
+        595.3078420268256
       ],
       "originalNumberMasks": [
         [
@@ -1856,22 +1889,22 @@
         399
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 141.30784202682563
+      "printedHeight": 141.3078420268256
     },
     {
-      "sequence": 55,
+      "sequence": 56,
       "id": "national-radio-2012-01",
       "category": "ch01",
       "page": 16,
-      "column": 0,
-      "row": 1,
+      "column": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        454.0,
-        273.638,
-        580.1667812971342
+        309.638,
+        104.0,
+        547.276,
+        230.1667812971342
       ],
       "originalNumberMasks": [
         [
@@ -1892,19 +1925,19 @@
       "printedHeight": 126.16678129713421
     },
     {
-      "sequence": 56,
+      "sequence": 57,
       "id": "seoul-2014-03",
       "category": "ch01",
       "page": 16,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        204.61553203342618
+        554.6155320334261
       ],
       "originalNumberMasks": [
         [
@@ -1922,22 +1955,22 @@
         304
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 100.61553203342618
+      "printedHeight": 100.61553203342612
     },
     {
-      "sequence": 57,
+      "sequence": 58,
       "id": "national-radio-2020-04",
       "category": "ch01",
-      "page": 16,
-      "column": 1,
-      "row": 1,
+      "page": 17,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        511.89076090225564
+        36.0,
+        104.0,
+        273.638,
+        161.89076090225564
       ],
       "originalNumberMasks": [
         [
@@ -1958,19 +1991,19 @@
       "printedHeight": 57.890760902255636
     },
     {
-      "sequence": 58,
+      "sequence": 59,
       "id": "local-2010-08",
       "category": "ch01",
       "page": 17,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        220.46751804423747
+        570.4675180442375
       ],
       "originalNumberMasks": [
         [
@@ -1988,22 +2021,22 @@
         421
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 116.46751804423747
+      "printedHeight": 116.46751804423752
     },
     {
-      "sequence": 59,
+      "sequence": 60,
       "id": "local-2010-10",
       "category": "ch01",
       "page": 17,
-      "column": 0,
-      "row": 1,
+      "column": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        454.0,
-        273.63800000000003,
-        603.5219397450753
+        309.638,
+        104.0,
+        547.276,
+        253.52193974507531
       ],
       "originalNumberMasks": [
         [
@@ -2020,23 +2053,23 @@
         863,
         543
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 149.52193974507531
     },
     {
-      "sequence": 60,
+      "sequence": 61,
       "id": "seoul-2020-11",
       "category": "ch01",
       "page": 17,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        297.080875
+        647.080875
       ],
       "originalNumberMasks": [
         [
@@ -2057,19 +2090,19 @@
       "printedHeight": 193.080875
     },
     {
-      "sequence": 61,
+      "sequence": 62,
       "id": "local-2026-19",
       "category": "ch01",
-      "page": 17,
-      "column": 1,
-      "row": 1,
+      "page": 18,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        543.4247526132405
+        36.0,
+        104.0,
+        273.638,
+        193.4247526132404
       ],
       "originalNumberMasks": [
         [
@@ -2087,22 +2120,22 @@
         324
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 89.42475261324046
+      "printedHeight": 89.4247526132404
     },
     {
-      "sequence": 62,
+      "sequence": 63,
       "id": "seoul-2017-20",
       "category": "ch01",
       "page": 18,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        211.92725833333333
+        561.9272583333334
       ],
       "originalNumberMasks": [
         [
@@ -2120,22 +2153,22 @@
         327
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 107.92725833333333
+      "printedHeight": 107.92725833333338
     },
     {
-      "sequence": 63,
+      "sequence": 64,
       "id": "local-2023-16",
       "category": "ch01",
       "page": 18,
-      "column": 0,
-      "row": 1,
+      "column": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        454.0,
-        273.638,
-        628.9854727061556
+        309.638,
+        104.0,
+        547.276,
+        278.98547270615563
       ],
       "originalNumberMasks": [
         [
@@ -2156,19 +2189,19 @@
       "printedHeight": 174.98547270615563
     },
     {
-      "sequence": 64,
+      "sequence": 65,
       "id": "local-2024-12",
       "category": "ch01",
       "page": 18,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        251.08310392609698
+        601.083103926097
       ],
       "originalNumberMasks": [
         [
@@ -2186,22 +2219,22 @@
         536
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 147.08310392609698
+      "printedHeight": 147.083103926097
     },
     {
-      "sequence": 65,
+      "sequence": 66,
       "id": "local-2025-18",
       "category": "ch01",
-      "page": 18,
-      "column": 1,
-      "row": 1,
+      "page": 19,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        631.473003468208
+        36.0,
+        104.0,
+        273.6379999999999,
+        281.47300346820805
       ],
       "originalNumberMasks": [
         [
@@ -2218,23 +2251,23 @@
         865,
         646
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63799999999992,
       "printedHeight": 177.47300346820805
     },
     {
-      "sequence": 66,
+      "sequence": 67,
       "id": "seoul-2014-11",
       "category": "ch01",
       "page": 19,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        234.25346443514644
+        584.2534644351465
       ],
       "originalNumberMasks": [
         [
@@ -2252,22 +2285,22 @@
         393
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 130.25346443514644
+      "printedHeight": 130.2534644351465
     },
     {
-      "sequence": 67,
+      "sequence": 68,
       "id": "seoul-2016-01",
       "category": "ch01",
       "page": 19,
-      "column": 0,
-      "row": 1,
+      "column": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        454.0,
-        273.638,
-        587.8992357043236
+        309.638,
+        104.0,
+        547.276,
+        237.89923570432356
       ],
       "originalNumberMasks": [
         [
@@ -2285,22 +2318,22 @@
         404
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 133.8992357043236
+      "printedHeight": 133.89923570432356
     },
     {
-      "sequence": 68,
+      "sequence": 69,
       "id": "seoul-2018-12",
       "category": "ch01",
       "page": 19,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        176.58399163179917
+        526.5839916317991
       ],
       "originalNumberMasks": [
         [
@@ -2318,22 +2351,22 @@
         219
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 72.58399163179917
+      "printedHeight": 72.58399163179911
     },
     {
-      "sequence": 69,
+      "sequence": 70,
       "id": "seoul-2021-14",
       "category": "ch01",
-      "page": 19,
-      "column": 1,
-      "row": 1,
+      "page": 20,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        560.1295922330097
+        36.0,
+        104.0,
+        273.63800000000003,
+        210.1295922330097
       ],
       "originalNumberMasks": [
         [
@@ -2350,23 +2383,23 @@
         721,
         322
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63800000000003,
       "printedHeight": 106.1295922330097
     },
     {
-      "sequence": 70,
+      "sequence": 71,
       "id": "local-2023-07",
       "category": "ch01",
       "page": 20,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        224.48858782201404
+        574.4885878220141
       ],
       "originalNumberMasks": [
         [
@@ -2384,11 +2417,11 @@
         433
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 120.48858782201404
+      "printedHeight": 120.4885878220141
     },
     {
-      "sequence": 71,
-      "id": "local-2009-18",
+      "sequence": 72,
+      "id": "national-radio-2013-06",
       "category": "ch02",
       "page": 22,
       "column": 0,
@@ -2399,40 +2432,7 @@
         36.0,
         104.0,
         273.638,
-        236.0211111111111
-      ],
-      "originalNumberMasks": [
-        [
-          16.427788162231444,
-          812.7431640625,
-          52.22276382446289,
-          825.734375
-        ]
-      ],
-      "answers": [
-        3
-      ],
-      "imageSize": [
-        864,
-        480
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 132.0211111111111
-    },
-    {
-      "sequence": 72,
-      "id": "national-radio-2013-06",
-      "category": "ch02",
-      "page": 22,
-      "column": 0,
-      "row": 1,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        36.0,
-        454.0,
-        273.638,
-        573.5326276276276
+        223.53262762762762
       ],
       "originalNumberMasks": [
         [
@@ -2450,22 +2450,22 @@
         335
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 119.53262762762756
+      "printedHeight": 119.53262762762762
     },
     {
       "sequence": 73,
       "id": "national-radio-2014-19",
       "category": "ch02",
       "page": 22,
-      "column": 1,
-      "row": 0,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        250.47081241184765
+        36.0,
+        454.0,
+        273.638,
+        600.4708124118476
       ],
       "originalNumberMasks": [
         [
@@ -2491,14 +2491,14 @@
       "category": "ch02",
       "page": 22,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         534.278,
-        532.48
+        182.48000000000002
       ],
       "originalNumberMasks": [
         [
@@ -2520,7 +2520,40 @@
     },
     {
       "sequence": 75,
-      "id": "national-radio-2018-03",
+      "id": "national-radio-2016-15",
+      "category": "ch02",
+      "page": 22,
+      "column": 1,
+      "row": 1,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        309.638,
+        454.0,
+        547.276,
+        525.155217765043
+      ],
+      "originalNumberMasks": [
+        [
+          13.312459373474121,
+          556.9387817382812,
+          42.756989288330075,
+          567.76806640625
+        ]
+      ],
+      "answers": [
+        1
+      ],
+      "imageSize": [
+        698,
+        209
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 71.15521776504295
+    },
+    {
+      "sequence": 76,
+      "id": "national-radio-2017-15",
       "category": "ch02",
       "page": 23,
       "column": 0,
@@ -2531,7 +2564,40 @@
         36.0,
         104.0,
         273.638,
-        213.24254328358208
+        235.45931914893615
+      ],
+      "originalNumberMasks": [
+        [
+          13.312459373474121,
+          443.542724609375,
+          42.756989288330075,
+          454.3719787597656
+        ]
+      ],
+      "answers": [
+        3
+      ],
+      "imageSize": [
+        705,
+        390
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 131.45931914893615
+    },
+    {
+      "sequence": 77,
+      "id": "national-radio-2018-03",
+      "category": "ch02",
+      "page": 23,
+      "column": 0,
+      "row": 1,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        36.0,
+        454.0,
+        273.638,
+        563.2425432835821
       ],
       "originalNumberMasks": [
         [
@@ -2549,22 +2615,22 @@
         308
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 109.24254328358208
+      "printedHeight": 109.24254328358211
     },
     {
-      "sequence": 76,
+      "sequence": 78,
       "id": "national-radio-2019-11",
       "category": "ch02",
       "page": 23,
-      "column": 0,
-      "row": 1,
+      "column": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        454.0,
-        175.32,
-        526.36
+        309.638,
+        104.0,
+        448.95799999999997,
+        176.36
       ],
       "originalNumberMasks": [
         [
@@ -2585,19 +2651,19 @@
       "printedHeight": 72.36000000000001
     },
     {
-      "sequence": 77,
+      "sequence": 79,
       "id": "seoul-2020-10",
       "category": "ch02",
       "page": 23,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        292.0612267037552
+        642.0612267037552
       ],
       "originalNumberMasks": [
         [
@@ -2618,19 +2684,19 @@
       "printedHeight": 188.0612267037552
     },
     {
-      "sequence": 78,
+      "sequence": 80,
       "id": "national-radio-2021-12",
       "category": "ch02",
-      "page": 23,
-      "column": 1,
-      "row": 1,
+      "page": 24,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        534.5609673758865
+        36.0,
+        104.0,
+        273.638,
+        184.56096737588652
       ],
       "originalNumberMasks": [
         [
@@ -2648,22 +2714,22 @@
         239
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 80.56096737588655
+      "printedHeight": 80.56096737588652
     },
     {
-      "sequence": 79,
+      "sequence": 81,
       "id": "national-radio-2021-18",
       "category": "ch02",
       "page": 24,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        241.4211283497884
+        591.4211283497884
       ],
       "originalNumberMasks": [
         [
@@ -2681,21 +2747,54 @@
         410
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 137.4211283497884
+      "printedHeight": 137.42112834978843
     },
     {
-      "sequence": 80,
+      "sequence": 82,
+      "id": "national-radio-2025-04",
+      "category": "ch02",
+      "page": 24,
+      "column": 1,
+      "row": 0,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        309.638,
+        104.0,
+        547.276,
+        290.9157382075472
+      ],
+      "originalNumberMasks": [
+        [
+          22.303573989868163,
+          686.54150390625,
+          38.07291107177734,
+          698.58447265625
+        ]
+      ],
+      "answers": [
+        4
+      ],
+      "imageSize": [
+        848,
+        667
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 186.91573820754718
+    },
+    {
+      "sequence": 83,
       "id": "local-2009-12",
       "category": "ch02",
       "page": 24,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.63800000000003,
+        547.276,
         548.1740393974508
       ],
       "originalNumberMasks": [
@@ -2713,22 +2812,22 @@
         863,
         342
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 94.17403939745077
     },
     {
-      "sequence": 81,
+      "sequence": 84,
       "id": "national-radio-2009-02",
       "category": "ch02",
-      "page": 24,
-      "column": 1,
+      "page": 25,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.63800000000003,
         186.88416917728853
       ],
       "originalNumberMasks": [
@@ -2746,14 +2845,80 @@
         863,
         301
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63800000000003,
       "printedHeight": 82.88416917728853
     },
     {
-      "sequence": 82,
+      "sequence": 85,
+      "id": "national-radio-2009-04",
+      "category": "ch02",
+      "page": 25,
+      "column": 0,
+      "row": 1,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        36.0,
+        454.0,
+        273.638,
+        553.2455684454757
+      ],
+      "originalNumberMasks": [
+        [
+          16.427788162231444,
+          591.5055541992188,
+          52.22276382446289,
+          604.4967651367188
+        ]
+      ],
+      "answers": [
+        2
+      ],
+      "imageSize": [
+        862,
+        360
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 99.24556844547567
+    },
+    {
+      "sequence": 86,
+      "id": "national-radio-2009-05",
+      "category": "ch02",
+      "page": 25,
+      "column": 1,
+      "row": 0,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        309.638,
+        104.0,
+        547.276,
+        173.11603476245654
+      ],
+      "originalNumberMasks": [
+        [
+          16.427788162231444,
+          757.5836791992188,
+          52.22276382446289,
+          770.5748901367188
+        ]
+      ],
+      "answers": [
+        1
+      ],
+      "imageSize": [
+        863,
+        251
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 69.11603476245654
+    },
+    {
+      "sequence": 87,
       "id": "local-2010-01",
       "category": "ch02",
-      "page": 24,
+      "page": 25,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -2783,10 +2948,10 @@
       "printedHeight": 119.64413194444444
     },
     {
-      "sequence": 83,
+      "sequence": 88,
       "id": "national-radio-2010-04",
       "category": "ch02",
-      "page": 25,
+      "page": 26,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -2822,10 +2987,10 @@
       "printedHeight": 84.00226976744185
     },
     {
-      "sequence": 84,
-      "id": "national-radio-2010-10",
+      "sequence": 89,
+      "id": "national-radio-2010-18",
       "category": "ch02",
-      "page": 25,
+      "page": 26,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -2834,40 +2999,7 @@
         36.0,
         454.0,
         273.638,
-        531.2884723346829
-      ],
-      "originalNumberMasks": [
-        [
-          370.5338500976562,
-          499.89276123046875,
-          406.32880859375,
-          512.8839721679688
-        ]
-      ],
-      "answers": [
-        2
-      ],
-      "imageSize": [
-        741,
-        241
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 77.28847233468287
-    },
-    {
-      "sequence": 85,
-      "id": "national-radio-2010-18",
-      "category": "ch02",
-      "page": 25,
-      "column": 1,
-      "row": 0,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        309.638,
-        104.0,
-        547.276,
-        258.02462962962966
+        608.0246296296297
       ],
       "originalNumberMasks": [
         [
@@ -2888,19 +3020,19 @@
       "printedHeight": 154.02462962962966
     },
     {
-      "sequence": 86,
+      "sequence": 90,
       "id": "national-radio-2011-07",
       "category": "ch02",
-      "page": 25,
+      "page": 26,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        556.3586263096624
+        206.35862630966238
       ],
       "originalNumberMasks": [
         [
@@ -2924,22 +3056,22 @@
         370
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 102.35862630966244
+      "printedHeight": 102.35862630966238
     },
     {
-      "sequence": 87,
+      "sequence": 91,
       "id": "national-radio-2011-09",
       "category": "ch02",
       "page": 26,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        174.574626450116
+        309.638,
+        454.0,
+        547.276,
+        524.574626450116
       ],
       "originalNumberMasks": [
         [
@@ -2963,22 +3095,22 @@
         256
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 70.574626450116
+      "printedHeight": 70.57462645011606
     },
     {
-      "sequence": 88,
+      "sequence": 92,
       "id": "national-radio-2012-13",
       "category": "ch02",
-      "page": 26,
+      "page": 27,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         265.67999999999995,
-        539.68
+        189.68
       ],
       "originalNumberMasks": [
         [
@@ -2996,22 +3128,22 @@
         238
       ],
       "printedWidth": 229.67999999999995,
-      "printedHeight": 85.67999999999995
+      "printedHeight": 85.68
     },
     {
-      "sequence": 89,
+      "sequence": 93,
       "id": "national-radio-2013-03",
       "category": "ch02",
-      "page": 26,
-      "column": 1,
-      "row": 0,
+      "page": 27,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        178.68622857142856
+        36.0,
+        454.0,
+        273.638,
+        528.6862285714285
       ],
       "originalNumberMasks": [
         [
@@ -3029,22 +3161,22 @@
         209
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 74.68622857142856
+      "printedHeight": 74.6862285714285
     },
     {
-      "sequence": 90,
+      "sequence": 94,
       "id": "seoul-2014-16",
       "category": "ch02",
-      "page": 26,
+      "page": 27,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        540.9569217877095
+        190.9569217877095
       ],
       "originalNumberMasks": [
         [
@@ -3062,22 +3194,22 @@
         262
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 86.95692178770946
+      "printedHeight": 86.95692178770949
     },
     {
-      "sequence": 91,
+      "sequence": 95,
       "id": "national-radio-2014-06",
       "category": "ch02",
       "page": 27,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        218.89404804804803
+        309.638,
+        454.0,
+        547.276,
+        568.894048048048
       ],
       "originalNumberMasks": [
         [
@@ -3098,19 +3230,19 @@
       "printedHeight": 114.89404804804803
     },
     {
-      "sequence": 92,
+      "sequence": 96,
       "id": "seoul-2015-06",
       "category": "ch02",
-      "page": 27,
+      "page": 28,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.63800000000003,
-        592.1003079056866
+        242.10030790568655
       ],
       "originalNumberMasks": [
         [
@@ -3128,22 +3260,22 @@
         419
       ],
       "printedWidth": 237.63800000000003,
-      "printedHeight": 138.10030790568658
+      "printedHeight": 138.10030790568655
     },
     {
-      "sequence": 93,
+      "sequence": 97,
       "id": "national-radio-2015-01",
       "category": "ch02",
-      "page": 27,
-      "column": 1,
-      "row": 0,
+      "page": 28,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        292.90086526946106
+        36.0,
+        454.0,
+        273.638,
+        642.9008652694611
       ],
       "originalNumberMasks": [
         [
@@ -3164,19 +3296,19 @@
       "printedHeight": 188.90086526946106
     },
     {
-      "sequence": 94,
+      "sequence": 98,
       "id": "national-radio-2015-08",
       "category": "ch02",
-      "page": 27,
+      "page": 28,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         528.1579999999999,
-        649.12
+        299.12
       ],
       "originalNumberMasks": [
         [
@@ -3197,19 +3329,19 @@
       "printedHeight": 195.12
     },
     {
-      "sequence": 95,
+      "sequence": 99,
       "id": "national-radio-2016-17",
       "category": "ch02",
       "page": 28,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        271.25156840620593
+        309.638,
+        454.0,
+        547.276,
+        621.2515684062059
       ],
       "originalNumberMasks": [
         [
@@ -3230,19 +3362,19 @@
       "printedHeight": 167.25156840620593
     },
     {
-      "sequence": 96,
+      "sequence": 100,
       "id": "seoul-2017-02",
       "category": "ch02",
-      "page": 28,
+      "page": 29,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.6379999999999,
-        511.25818105849584
+        161.2581810584958
       ],
       "originalNumberMasks": [
         [
@@ -3260,22 +3392,22 @@
         173
       ],
       "printedWidth": 237.63799999999992,
-      "printedHeight": 57.258181058495836
+      "printedHeight": 57.25818105849581
     },
     {
-      "sequence": 97,
+      "sequence": 101,
       "id": "national-radio-2017-01",
       "category": "ch02",
-      "page": 28,
-      "column": 1,
-      "row": 0,
+      "page": 29,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        514.1179999999999,
-        183.2
+        36.0,
+        454.0,
+        240.48,
+        533.2
       ],
       "originalNumberMasks": [
         [
@@ -3292,23 +3424,23 @@
         568,
         220
       ],
-      "printedWidth": 204.47999999999996,
-      "printedHeight": 79.19999999999999
+      "printedWidth": 204.48,
+      "printedHeight": 79.20000000000005
     },
     {
-      "sequence": 98,
+      "sequence": 102,
       "id": "national-radio-2017-07",
       "category": "ch02",
-      "page": 28,
+      "page": 29,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        621.962269121813
+        271.96226912181305
       ],
       "originalNumberMasks": [
         [
@@ -3335,19 +3467,19 @@
       "printedHeight": 167.96226912181305
     },
     {
-      "sequence": 99,
+      "sequence": 103,
       "id": "national-radio-2017-14",
       "category": "ch02",
       "page": 29,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        206.13377872340425
+        309.638,
+        454.0,
+        547.276,
+        556.1337787234042
       ],
       "originalNumberMasks": [
         [
@@ -3368,19 +3500,19 @@
       "printedHeight": 102.13377872340425
     },
     {
-      "sequence": 100,
+      "sequence": 104,
       "id": "seoul-2018-17",
       "category": "ch02",
-      "page": 29,
+      "page": 30,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        583.5905969316597
+        233.5905969316597
       ],
       "originalNumberMasks": [
         [
@@ -3398,22 +3530,22 @@
         391
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 129.59059693165966
+      "printedHeight": 129.5905969316597
     },
     {
-      "sequence": 101,
+      "sequence": 105,
       "id": "national-radio-2018-12",
       "category": "ch02",
-      "page": 29,
-      "column": 1,
-      "row": 0,
+      "page": 30,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        232.76271773049643
+        36.0,
+        454.0,
+        273.638,
+        582.7627177304964
       ],
       "originalNumberMasks": [
         [
@@ -3434,19 +3566,19 @@
       "printedHeight": 128.76271773049643
     },
     {
-      "sequence": 102,
+      "sequence": 106,
       "id": "national-radio-2019-05",
       "category": "ch02",
-      "page": 29,
+      "page": 30,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        667.3746606606607
+        317.37466066066065
       ],
       "originalNumberMasks": [
         [
@@ -3467,19 +3599,19 @@
       "printedHeight": 213.37466066066065
     },
     {
-      "sequence": 103,
+      "sequence": 107,
       "id": "national-radio-2019-10",
       "category": "ch02",
       "page": 30,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        209.24447390691114
+        309.638,
+        454.0,
+        547.276,
+        559.2444739069111
       ],
       "originalNumberMasks": [
         [
@@ -3500,19 +3632,19 @@
       "printedHeight": 105.24447390691114
     },
     {
-      "sequence": 104,
+      "sequence": 108,
       "id": "national-radio-2019-16",
       "category": "ch02",
-      "page": 30,
+      "page": 31,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        574.9976276445698
+        224.9976276445698
       ],
       "originalNumberMasks": [
         [
@@ -3530,22 +3662,22 @@
         361
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 120.99762764456977
+      "printedHeight": 120.9976276445698
     },
     {
-      "sequence": 105,
+      "sequence": 109,
       "id": "seoul-2020-02",
       "category": "ch02",
-      "page": 30,
-      "column": 1,
-      "row": 0,
+      "page": 31,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        233.74108077994427
+        36.0,
+        454.0,
+        273.6379999999999,
+        583.7410807799442
       ],
       "originalNumberMasks": [
         [
@@ -3562,23 +3694,23 @@
         718,
         392
       ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 129.74108077994427
+      "printedWidth": 237.63799999999992,
+      "printedHeight": 129.74108077994424
     },
     {
-      "sequence": 106,
+      "sequence": 110,
       "id": "national-radio-2020-10",
       "category": "ch02",
-      "page": 30,
+      "page": 31,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        593.351461756374
+        243.3514617563739
       ],
       "originalNumberMasks": [
         [
@@ -3596,22 +3728,22 @@
         414
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 139.35146175637396
+      "printedHeight": 139.3514617563739
     },
     {
-      "sequence": 107,
+      "sequence": 111,
       "id": "national-radio-2020-14",
       "category": "ch02",
       "page": 31,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        177.48238865248226
+        309.638,
+        454.0,
+        547.276,
+        527.4823886524823
       ],
       "originalNumberMasks": [
         [
@@ -3629,22 +3761,22 @@
         218
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 73.48238865248226
+      "printedHeight": 73.48238865248231
     },
     {
-      "sequence": 108,
+      "sequence": 112,
       "id": "seoul-2021-01",
       "category": "ch02",
-      "page": 31,
+      "page": 32,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        565.0519721835883
+        215.0519721835883
       ],
       "originalNumberMasks": [
         [
@@ -3665,19 +3797,19 @@
       "printedHeight": 111.0519721835883
     },
     {
-      "sequence": 109,
+      "sequence": 113,
       "id": "seoul-2021-18",
       "category": "ch02",
-      "page": 31,
-      "column": 1,
-      "row": 0,
+      "page": 32,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        320.5146222222222
+        36.0,
+        454.0,
+        273.638,
+        670.5146222222222
       ],
       "originalNumberMasks": [
         [
@@ -3698,19 +3830,19 @@
       "printedHeight": 216.51462222222221
     },
     {
-      "sequence": 110,
+      "sequence": 114,
       "id": "national-radio-2021-08",
       "category": "ch02",
-      "page": 31,
+      "page": 32,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        570.7994135977337
+        220.7994135977337
       ],
       "originalNumberMasks": [
         [
@@ -3734,22 +3866,22 @@
         347
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 116.79941359773375
+      "printedHeight": 116.79941359773369
     },
     {
-      "sequence": 111,
+      "sequence": 115,
       "id": "local-2022-01",
       "category": "ch02",
       "page": 32,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.6379999999999,
-        256.76728571428566
+        309.638,
+        454.0,
+        547.276,
+        606.7672857142857
       ],
       "originalNumberMasks": [
         [
@@ -3766,23 +3898,23 @@
         840,
         540
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 152.76728571428566
     },
     {
-      "sequence": 112,
+      "sequence": 116,
       "id": "national-radio-2022-17",
       "category": "ch02",
-      "page": 32,
+      "page": 33,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        591.2897030162412
+        241.28970301624128
       ],
       "originalNumberMasks": [
         [
@@ -3800,22 +3932,22 @@
         498
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 137.28970301624122
+      "printedHeight": 137.28970301624128
     },
     {
-      "sequence": 113,
+      "sequence": 117,
       "id": "national-radio-2023-10",
       "category": "ch02",
-      "page": 32,
-      "column": 1,
-      "row": 0,
+      "page": 33,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        260.5874524361949
+        36.0,
+        454.0,
+        273.638,
+        610.5874524361949
       ],
       "originalNumberMasks": [
         [
@@ -3836,19 +3968,19 @@
       "printedHeight": 156.5874524361949
     },
     {
-      "sequence": 114,
+      "sequence": 118,
       "id": "national-radio-2023-17",
       "category": "ch02",
-      "page": 32,
+      "page": 33,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        543.1828521939954
+        193.18285219399536
       ],
       "originalNumberMasks": [
         [
@@ -3869,19 +4001,19 @@
       "printedHeight": 89.18285219399536
     },
     {
-      "sequence": 115,
+      "sequence": 119,
       "id": "national-radio-2023-18",
       "category": "ch02",
       "page": 33,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.63800000000003,
-        342.7356351039261
+        309.638,
+        454.0,
+        547.276,
+        692.7356351039261
       ],
       "originalNumberMasks": [
         [
@@ -3898,23 +4030,23 @@
         866,
         870
       ],
-      "printedWidth": 237.63800000000003,
-      "printedHeight": 238.73563510392609
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 238.73563510392614
     },
     {
-      "sequence": 116,
+      "sequence": 120,
       "id": "local-2024-06",
       "category": "ch02",
-      "page": 33,
+      "page": 34,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        553.4114312573442
+        203.4114312573443
       ],
       "originalNumberMasks": [
         [
@@ -3932,22 +4064,22 @@
         356
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 99.41143125734425
+      "printedHeight": 99.4114312573443
     },
     {
-      "sequence": 117,
+      "sequence": 121,
       "id": "national-radio-2024-01",
       "category": "ch02",
-      "page": 33,
-      "column": 1,
-      "row": 0,
+      "page": 34,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        233.0354746760895
+        36.0,
+        454.0,
+        273.63800000000003,
+        583.0354746760895
       ],
       "originalNumberMasks": [
         [
@@ -3964,23 +4096,23 @@
         849,
         461
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63800000000003,
       "printedHeight": 129.0354746760895
     },
     {
-      "sequence": 118,
+      "sequence": 122,
       "id": "national-radio-2024-02",
       "category": "ch02",
-      "page": 33,
+      "page": 34,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        558.0015717647059
+        208.0015717647059
       ],
       "originalNumberMasks": [
         [
@@ -4001,19 +4133,19 @@
       "printedHeight": 104.00157176470589
     },
     {
-      "sequence": 119,
+      "sequence": 123,
       "id": "national-radio-2024-06",
       "category": "ch02",
       "page": 34,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        241.2275774647887
+        309.638,
+        454.0,
+        547.276,
+        591.2275774647887
       ],
       "originalNumberMasks": [
         [
@@ -4031,22 +4163,22 @@
         492
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 137.2275774647887
+      "printedHeight": 137.22757746478874
     },
     {
-      "sequence": 120,
+      "sequence": 124,
       "id": "local-2025-04",
       "category": "ch02",
-      "page": 34,
+      "page": 35,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.63800000000003,
-        585.8345088339222
+        235.83450883392226
       ],
       "originalNumberMasks": [
         [
@@ -4064,22 +4196,22 @@
         471
       ],
       "printedWidth": 237.63800000000003,
-      "printedHeight": 131.8345088339222
+      "printedHeight": 131.83450883392226
     },
     {
-      "sequence": 121,
+      "sequence": 125,
       "id": "national-radio-2025-07",
       "category": "ch02",
-      "page": 34,
-      "column": 1,
-      "row": 0,
+      "page": 35,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        239.15486721504112
+        36.0,
+        454.0,
+        273.638,
+        589.1548672150411
       ],
       "originalNumberMasks": [
         [
@@ -4100,19 +4232,19 @@
       "printedHeight": 135.15486721504112
     },
     {
-      "sequence": 122,
+      "sequence": 126,
       "id": "local-2026-13",
       "category": "ch02",
-      "page": 34,
+      "page": 35,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        542.1160602549247
+        192.11606025492466
       ],
       "originalNumberMasks": [
         [
@@ -4130,22 +4262,22 @@
         320
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 88.11606025492472
+      "printedHeight": 88.11606025492466
     },
     {
-      "sequence": 123,
+      "sequence": 127,
       "id": "local-2026-18",
       "category": "ch02",
       "page": 35,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.6379999999999,
-        236.692663583815
+        309.638,
+        454.0,
+        547.276,
+        586.692663583815
       ],
       "originalNumberMasks": [
         [
@@ -4162,23 +4294,23 @@
         865,
         483
       ],
-      "printedWidth": 237.63799999999992,
-      "printedHeight": 132.692663583815
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 132.69266358381503
     },
     {
-      "sequence": 124,
+      "sequence": 128,
       "id": "national-radio-2026-02",
       "category": "ch02",
-      "page": 35,
+      "page": 36,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.63800000000003,
-        532.3729564193168
+        182.37295641931684
       ],
       "originalNumberMasks": [
         [
@@ -4196,22 +4328,22 @@
         280
       ],
       "printedWidth": 237.63800000000003,
-      "printedHeight": 78.37295641931678
+      "printedHeight": 78.37295641931684
     },
     {
-      "sequence": 125,
+      "sequence": 129,
       "id": "national-radio-2026-06",
       "category": "ch02",
-      "page": 35,
-      "column": 1,
-      "row": 0,
+      "page": 36,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        182.3759131455399
+        36.0,
+        454.0,
+        273.638,
+        532.3759131455399
       ],
       "originalNumberMasks": [
         [
@@ -4229,22 +4361,22 @@
         281
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 78.3759131455399
+      "printedHeight": 78.37591314553993
     },
     {
-      "sequence": 126,
+      "sequence": 130,
       "id": "national-radio-2026-07",
       "category": "ch02",
-      "page": 35,
+      "page": 36,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        577.2816854460094
+        227.28168544600936
       ],
       "originalNumberMasks": [
         [
@@ -4262,22 +4394,22 @@
         442
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 123.28168544600942
+      "printedHeight": 123.28168544600936
     },
     {
-      "sequence": 127,
+      "sequence": 131,
       "id": "national-radio-2010-09",
       "category": "ch02",
       "page": 36,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.63800000000003,
-        196.24650057937427
+        309.638,
+        454.0,
+        547.276,
+        546.2465005793742
       ],
       "originalNumberMasks": [
         [
@@ -4300,22 +4432,22 @@
         863,
         335
       ],
-      "printedWidth": 237.63800000000003,
-      "printedHeight": 92.24650057937427
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 92.24650057937424
     },
     {
-      "sequence": 128,
+      "sequence": 132,
       "id": "national-radio-2011-03",
       "category": "ch02",
-      "page": 36,
-      "column": 1,
+      "page": 37,
+      "column": 0,
       "row": 0,
       "fullColumn": true,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         533.5127656612528
       ],
       "originalNumberMasks": [
@@ -4343,18 +4475,18 @@
       "printedHeight": 429.51276566125284
     },
     {
-      "sequence": 129,
+      "sequence": 133,
       "id": "national-radio-2011-10",
       "category": "ch02",
       "page": 37,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.63800000000003,
+        547.276,
         191.28997219003475
       ],
       "originalNumberMasks": [
@@ -4372,22 +4504,22 @@
         863,
         317
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 87.28997219003475
     },
     {
-      "sequence": 130,
+      "sequence": 134,
       "id": "national-radio-2012-12",
       "category": "ch02",
       "page": 37,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         557.1450042553191
       ],
       "originalNumberMasks": [
@@ -4409,18 +4541,18 @@
       "printedHeight": 103.14500425531912
     },
     {
-      "sequence": 131,
+      "sequence": 135,
       "id": "national-radio-2012-17",
       "category": "ch02",
-      "page": 37,
-      "column": 1,
+      "page": 38,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         167.37013333333334
       ],
       "originalNumberMasks": [
@@ -4442,18 +4574,18 @@
       "printedHeight": 63.37013333333334
     },
     {
-      "sequence": 132,
+      "sequence": 136,
       "id": "national-radio-2013-15",
       "category": "ch02",
-      "page": 37,
-      "column": 1,
+      "page": 38,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         562.5382070921986
       ],
       "originalNumberMasks": [
@@ -4475,18 +4607,18 @@
       "printedHeight": 108.5382070921986
     },
     {
-      "sequence": 133,
+      "sequence": 137,
       "id": "national-radio-2014-10",
       "category": "ch02",
       "page": 38,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         207.86158698727013
       ],
       "originalNumberMasks": [
@@ -4508,18 +4640,18 @@
       "printedHeight": 103.86158698727013
     },
     {
-      "sequence": 134,
+      "sequence": 138,
       "id": "seoul-2015-16",
       "category": "ch02",
       "page": 38,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.6379999999999,
+        547.276,
         550.9748384401114
       ],
       "originalNumberMasks": [
@@ -4537,22 +4669,22 @@
         718,
         293
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 96.9748384401114
     },
     {
-      "sequence": 135,
+      "sequence": 139,
       "id": "seoul-2016-14",
       "category": "ch02",
-      "page": 38,
-      "column": 1,
+      "page": 39,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         190.86767226890754
       ],
       "originalNumberMasks": [
@@ -4574,18 +4706,18 @@
       "printedHeight": 86.86767226890754
     },
     {
-      "sequence": 136,
+      "sequence": 140,
       "id": "national-radio-2016-19",
       "category": "ch02",
-      "page": 38,
-      "column": 1,
+      "page": 39,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         544.7528429985856
       ],
       "originalNumberMasks": [
@@ -4607,18 +4739,18 @@
       "printedHeight": 90.7528429985856
     },
     {
-      "sequence": 137,
+      "sequence": 141,
       "id": "seoul-2017-19",
       "category": "ch02",
       "page": 39,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.6379999999999,
+        547.276,
         172.5112339832869
       ],
       "originalNumberMasks": [
@@ -4636,22 +4768,22 @@
         718,
         207
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 68.5112339832869
     },
     {
-      "sequence": 138,
+      "sequence": 142,
       "id": "national-radio-2017-03",
       "category": "ch02",
       "page": 39,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         564.2554684684685
       ],
       "originalNumberMasks": [
@@ -4673,18 +4805,18 @@
       "printedHeight": 110.25546846846851
     },
     {
-      "sequence": 139,
+      "sequence": 143,
       "id": "seoul-2018-07",
       "category": "ch02",
-      "page": 39,
-      "column": 1,
+      "page": 40,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         235.2131933240612
       ],
       "originalNumberMasks": [
@@ -4706,18 +4838,18 @@
       "printedHeight": 131.2131933240612
     },
     {
-      "sequence": 140,
+      "sequence": 144,
       "id": "national-radio-2018-16",
       "category": "ch02",
-      "page": 39,
-      "column": 1,
+      "page": 40,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         545.7612079207921
       ],
       "originalNumberMasks": [
@@ -4739,18 +4871,18 @@
       "printedHeight": 91.76120792079212
     },
     {
-      "sequence": 141,
+      "sequence": 145,
       "id": "seoul-2019-14",
       "category": "ch02",
       "page": 40,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         211.4163421418637
       ],
       "originalNumberMasks": [
@@ -4772,18 +4904,18 @@
       "printedHeight": 107.41634214186371
     },
     {
-      "sequence": 142,
+      "sequence": 146,
       "id": "national-radio-2019-12",
       "category": "ch02",
       "page": 40,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         550.0664255319149
       ],
       "originalNumberMasks": [
@@ -4805,18 +4937,18 @@
       "printedHeight": 96.06642553191489
     },
     {
-      "sequence": 143,
+      "sequence": 147,
       "id": "national-radio-2020-01",
       "category": "ch02",
-      "page": 40,
-      "column": 1,
+      "page": 41,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         176.0440995475113
       ],
       "originalNumberMasks": [
@@ -4838,18 +4970,18 @@
       "printedHeight": 72.04409954751131
     },
     {
-      "sequence": 144,
+      "sequence": 148,
       "id": "seoul-2021-04",
       "category": "ch02",
-      "page": 40,
-      "column": 1,
+      "page": 41,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         548.4586192468619
       ],
       "originalNumberMasks": [
@@ -4871,18 +5003,18 @@
       "printedHeight": 94.45861924686187
     },
     {
-      "sequence": 145,
+      "sequence": 149,
       "id": "national-radio-2021-07",
       "category": "ch02",
       "page": 41,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         220.29808769448374
       ],
       "originalNumberMasks": [
@@ -4910,18 +5042,18 @@
       "printedHeight": 116.29808769448374
     },
     {
-      "sequence": 146,
+      "sequence": 150,
       "id": "local-2022-06",
       "category": "ch02",
       "page": 41,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         586.0211111111112
       ],
       "originalNumberMasks": [
@@ -4943,18 +5075,18 @@
       "printedHeight": 132.02111111111117
     },
     {
-      "sequence": 147,
+      "sequence": 151,
       "id": "national-radio-2022-03",
       "category": "ch02",
-      "page": 41,
-      "column": 1,
+      "page": 42,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         233.27067129629629
       ],
       "originalNumberMasks": [
@@ -4976,18 +5108,18 @@
       "printedHeight": 129.27067129629629
     },
     {
-      "sequence": 148,
+      "sequence": 152,
       "id": "national-radio-2023-07",
       "category": "ch02",
-      "page": 41,
-      "column": 1,
+      "page": 42,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         568.0885011709602
       ],
       "originalNumberMasks": [
@@ -5009,18 +5141,18 @@
       "printedHeight": 114.08850117096017
     },
     {
-      "sequence": 149,
+      "sequence": 153,
       "id": "local-2024-20",
       "category": "ch02",
       "page": 42,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.63800000000003,
+        547.276,
         221.9957736720554
       ],
       "originalNumberMasks": [
@@ -5038,22 +5170,22 @@
         866,
         430
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 117.9957736720554
     },
     {
-      "sequence": 150,
+      "sequence": 154,
       "id": "national-radio-2024-05",
       "category": "ch02",
       "page": 42,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.63800000000003,
+        547.276,
         532.6528598351001
       ],
       "originalNumberMasks": [
@@ -5071,22 +5203,22 @@
         849,
         281
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 78.65285983510012
     },
     {
-      "sequence": 151,
+      "sequence": 155,
       "id": "national-radio-2024-08",
       "category": "ch02",
-      "page": 42,
-      "column": 1,
+      "page": 43,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         227.14730669800235
       ],
       "originalNumberMasks": [
@@ -5108,18 +5240,18 @@
       "printedHeight": 123.14730669800235
     },
     {
-      "sequence": 152,
+      "sequence": 156,
       "id": "local-2026-17",
       "category": "ch02",
-      "page": 42,
-      "column": 1,
+      "page": 43,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         546.904879350348
       ],
       "originalNumberMasks": [
@@ -5141,18 +5273,18 @@
       "printedHeight": 92.90487935034798
     },
     {
-      "sequence": 153,
+      "sequence": 157,
       "id": "national-radio-2026-12",
       "category": "ch02",
       "page": 43,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.63800000000003,
+        547.276,
         193.76823638470452
       ],
       "originalNumberMasks": [
@@ -5170,22 +5302,22 @@
         863,
         326
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 89.76823638470452
     },
     {
-      "sequence": 154,
+      "sequence": 158,
       "id": "national-radio-2026-13",
       "category": "ch02",
       "page": 43,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.6379999999999,
+        547.276,
         560.0442404624278
       ],
       "originalNumberMasks": [
@@ -5203,22 +5335,22 @@
         865,
         386
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 106.04424046242775
     },
     {
-      "sequence": 155,
+      "sequence": 159,
       "id": "local-2011-09",
       "category": "ch02",
-      "page": 43,
-      "column": 1,
+      "page": 44,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         190.41381818181816
       ],
       "originalNumberMasks": [
@@ -5240,18 +5372,18 @@
       "printedHeight": 86.41381818181816
     },
     {
-      "sequence": 156,
+      "sequence": 160,
       "id": "local-2025-01",
       "category": "ch02",
-      "page": 43,
-      "column": 1,
+      "page": 44,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.6379999999999,
         532.8726981402003
       ],
       "originalNumberMasks": [
@@ -5269,22 +5401,22 @@
         699,
         232
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63799999999992,
       "printedHeight": 78.87269814020033
     },
     {
-      "sequence": 157,
+      "sequence": 161,
       "id": "national-radio-2016-10",
       "category": "ch02",
       "page": 44,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         249.07362322946173
       ],
       "originalNumberMasks": [
@@ -5306,18 +5438,18 @@
       "printedHeight": 145.07362322946173
     },
     {
-      "sequence": 158,
+      "sequence": 162,
       "id": "national-radio-2018-08",
       "category": "ch02",
       "page": 44,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.63800000000003,
+        547.276,
         586.8499431988041
       ],
       "originalNumberMasks": [
@@ -5335,22 +5467,22 @@
         669,
         374
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 132.8499431988041
     },
     {
-      "sequence": 159,
+      "sequence": 163,
       "id": "seoul-2020-01",
       "category": "ch02",
-      "page": 44,
-      "column": 1,
+      "page": 45,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         260.4450166666667
       ],
       "originalNumberMasks": [
@@ -5372,18 +5504,18 @@
       "printedHeight": 156.44501666666667
     },
     {
-      "sequence": 160,
+      "sequence": 164,
       "id": "national-radio-2025-08",
       "category": "ch02",
       "page": 45,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": true,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.63800000000003,
+        547.276,
         475.4318327444052
       ],
       "originalNumberMasks": [
@@ -5401,22 +5533,22 @@
         849,
         1327
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 371.4318327444052
     },
     {
-      "sequence": 161,
+      "sequence": 165,
       "id": "local-2011-01",
       "category": "ch02",
-      "page": 45,
-      "column": 1,
+      "page": 46,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         171.8965714285714
       ],
       "originalNumberMasks": [
@@ -5438,18 +5570,18 @@
       "printedHeight": 67.8965714285714
     },
     {
-      "sequence": 162,
+      "sequence": 166,
       "id": "local-2011-11",
       "category": "ch02",
       "page": 46,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": true,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         525.0068964539007
       ],
       "originalNumberMasks": [
@@ -5471,18 +5603,18 @@
       "printedHeight": 421.0068964539007
     },
     {
-      "sequence": 163,
+      "sequence": 167,
       "id": "national-radio-2013-01",
       "category": "ch02",
-      "page": 46,
-      "column": 1,
+      "page": 47,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         209.01950829562594
       ],
       "originalNumberMasks": [
@@ -5504,18 +5636,18 @@
       "printedHeight": 105.01950829562594
     },
     {
-      "sequence": 164,
+      "sequence": 168,
       "id": "national-radio-2013-12",
       "category": "ch02",
-      "page": 46,
-      "column": 1,
+      "page": 47,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         656.2451063829787
       ],
       "originalNumberMasks": [
@@ -5537,18 +5669,18 @@
       "printedHeight": 202.24510638297875
     },
     {
-      "sequence": 165,
+      "sequence": 169,
       "id": "seoul-2015-09",
       "category": "ch02",
       "page": 47,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.6379999999999,
+        547.276,
         190.7147019498607
       ],
       "originalNumberMasks": [
@@ -5566,22 +5698,22 @@
         718,
         262
       ],
-      "printedWidth": 237.63799999999992,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 86.71470194986071
     },
     {
-      "sequence": 166,
+      "sequence": 170,
       "id": "national-radio-2015-19",
       "category": "ch02",
       "page": 47,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         555.5575655853314
       ],
       "originalNumberMasks": [
@@ -5603,18 +5735,18 @@
       "printedHeight": 101.55756558533142
     },
     {
-      "sequence": 167,
+      "sequence": 171,
       "id": "national-radio-2015-20",
       "category": "ch02",
-      "page": 47,
-      "column": 1,
+      "page": 48,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         263.54257827926654
       ],
       "originalNumberMasks": [
@@ -5636,18 +5768,18 @@
       "printedHeight": 159.54257827926654
     },
     {
-      "sequence": 168,
+      "sequence": 172,
       "id": "national-radio-2016-14",
       "category": "ch02",
-      "page": 47,
-      "column": 1,
+      "page": 48,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         538.2687943262412
       ],
       "originalNumberMasks": [
@@ -5669,18 +5801,18 @@
       "printedHeight": 84.26879432624116
     },
     {
-      "sequence": 169,
+      "sequence": 173,
       "id": "national-radio-2017-05",
       "category": "ch02",
       "page": 48,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        236.51999999999998,
+        510.15799999999996,
         183.2
       ],
       "originalNumberMasks": [
@@ -5702,18 +5834,18 @@
       "printedHeight": 79.19999999999999
     },
     {
-      "sequence": 170,
+      "sequence": 174,
       "id": "seoul-2018-01",
       "category": "ch02",
       "page": 48,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.63800000000003,
+        547.276,
         512.3262973352033
       ],
       "originalNumberMasks": [
@@ -5731,22 +5863,22 @@
         713,
         175
       ],
-      "printedWidth": 237.63800000000003,
+      "printedWidth": 237.63799999999998,
       "printedHeight": 58.32629733520332
     },
     {
-      "sequence": 171,
+      "sequence": 175,
       "id": "seoul-2019-07",
       "category": "ch02",
-      "page": 48,
-      "column": 1,
+      "page": 49,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         335.3843684210526
       ],
       "originalNumberMasks": [
@@ -5768,18 +5900,18 @@
       "printedHeight": 231.3843684210526
     },
     {
-      "sequence": 172,
+      "sequence": 176,
       "id": "national-radio-2019-09",
       "category": "ch02",
-      "page": 48,
-      "column": 1,
+      "page": 49,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         580.4031914893617
       ],
       "originalNumberMasks": [
@@ -5807,18 +5939,18 @@
       "printedHeight": 126.40319148936169
     },
     {
-      "sequence": 173,
+      "sequence": 177,
       "id": "national-radio-2024-03",
       "category": "ch02",
       "page": 49,
-      "column": 0,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        188.28,
+        461.918,
         187.51999999999998
       ],
       "originalNumberMasks": [
@@ -5836,22 +5968,22 @@
         423,
         232
       ],
-      "printedWidth": 152.28,
+      "printedWidth": 152.28000000000003,
       "printedHeight": 83.51999999999998
     },
     {
-      "sequence": 174,
+      "sequence": 178,
       "id": "national-radio-2025-12",
       "category": "ch02",
       "page": 49,
-      "column": 0,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         530.9153155452436
       ],
       "originalNumberMasks": [
@@ -5873,18 +6005,18 @@
       "printedHeight": 76.91531554524363
     },
     {
-      "sequence": 175,
+      "sequence": 179,
       "id": "national-radio-2026-04",
       "category": "ch02",
-      "page": 49,
-      "column": 1,
+      "page": 50,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        514.838,
+        241.2,
         187.88
       ],
       "originalNumberMasks": [
@@ -5906,10 +6038,10 @@
       "printedHeight": 83.88
     },
     {
-      "sequence": 176,
+      "sequence": 180,
       "id": "local-2011-19",
       "category": "ch03",
-      "page": 51,
+      "page": 52,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -5939,10 +6071,10 @@
       "printedHeight": 66.36434978843442
     },
     {
-      "sequence": 177,
+      "sequence": 181,
       "id": "seoul-2014-13",
       "category": "ch03",
-      "page": 51,
+      "page": 52,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -5972,10 +6104,10 @@
       "printedHeight": 72.6853659217877
     },
     {
-      "sequence": 178,
+      "sequence": 182,
       "id": "seoul-2020-15",
       "category": "ch03",
-      "page": 51,
+      "page": 52,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6005,10 +6137,10 @@
       "printedHeight": 175.67413869625523
     },
     {
-      "sequence": 179,
+      "sequence": 183,
       "id": "local-2026-01",
       "category": "ch03",
-      "page": 51,
+      "page": 52,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6038,10 +6170,10 @@
       "printedHeight": 78.37295641931678
     },
     {
-      "sequence": 180,
+      "sequence": 184,
       "id": "local-2023-08",
       "category": "ch03",
-      "page": 52,
+      "page": 53,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6071,10 +6203,10 @@
       "printedHeight": 150.54116861826697
     },
     {
-      "sequence": 181,
+      "sequence": 185,
       "id": "seoul-2016-10",
       "category": "ch03",
-      "page": 52,
+      "page": 53,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6104,10 +6236,10 @@
       "printedHeight": 116.664680613668
     },
     {
-      "sequence": 182,
+      "sequence": 186,
       "id": "seoul-2018-04",
       "category": "ch03",
-      "page": 52,
+      "page": 53,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6137,10 +6269,10 @@
       "printedHeight": 158.9738975069252
     },
     {
-      "sequence": 183,
+      "sequence": 187,
       "id": "seoul-2017-11",
       "category": "ch03",
-      "page": 52,
+      "page": 53,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6170,10 +6302,10 @@
       "printedHeight": 75.21875070028011
     },
     {
-      "sequence": 184,
+      "sequence": 188,
       "id": "seoul-2020-09",
       "category": "ch03",
-      "page": 53,
+      "page": 54,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6203,10 +6335,10 @@
       "printedHeight": 124.74349307479224
     },
     {
-      "sequence": 185,
+      "sequence": 189,
       "id": "local-2026-06",
       "category": "ch03",
-      "page": 53,
+      "page": 54,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6236,10 +6368,10 @@
       "printedHeight": 86.6679764705882
     },
     {
-      "sequence": 186,
+      "sequence": 190,
       "id": "seoul-2016-11",
       "category": "ch03",
-      "page": 53,
+      "page": 54,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6269,10 +6401,10 @@
       "printedHeight": 91.19441456582632
     },
     {
-      "sequence": 187,
+      "sequence": 191,
       "id": "seoul-2016-19",
       "category": "ch03",
-      "page": 53,
+      "page": 54,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6302,10 +6434,10 @@
       "printedHeight": 108.9606550218341
     },
     {
-      "sequence": 188,
+      "sequence": 192,
       "id": "seoul-2018-11",
       "category": "ch03",
-      "page": 54,
+      "page": 55,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6335,10 +6467,10 @@
       "printedHeight": 58.00090655509064
     },
     {
-      "sequence": 189,
+      "sequence": 193,
       "id": "seoul-2018-18",
       "category": "ch03",
-      "page": 54,
+      "page": 55,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6368,10 +6500,10 @@
       "printedHeight": 139.67024512534817
     },
     {
-      "sequence": 190,
+      "sequence": 194,
       "id": "seoul-2020-04",
       "category": "ch03",
-      "page": 54,
+      "page": 55,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6401,10 +6533,10 @@
       "printedHeight": 94.65803342618383
     },
     {
-      "sequence": 191,
+      "sequence": 195,
       "id": "local-2023-10",
       "category": "ch03",
-      "page": 54,
+      "page": 55,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6434,10 +6566,10 @@
       "printedHeight": 89.62817301038058
     },
     {
-      "sequence": 192,
+      "sequence": 196,
       "id": "local-2024-11",
       "category": "ch03",
-      "page": 55,
+      "page": 56,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6467,10 +6599,10 @@
       "printedHeight": 108.91741666666667
     },
     {
-      "sequence": 193,
+      "sequence": 197,
       "id": "local-2025-15",
       "category": "ch03",
-      "page": 55,
+      "page": 56,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6500,10 +6632,10 @@
       "printedHeight": 76.91531554524363
     },
     {
-      "sequence": 194,
+      "sequence": 198,
       "id": "local-2025-16",
       "category": "ch03",
-      "page": 55,
+      "page": 56,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6533,10 +6665,10 @@
       "printedHeight": 145.0553341040462
     },
     {
-      "sequence": 195,
+      "sequence": 199,
       "id": "local-2010-16",
       "category": "ch03",
-      "page": 55,
+      "page": 56,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6566,10 +6698,10 @@
       "printedHeight": 119.50740672074164
     },
     {
-      "sequence": 196,
+      "sequence": 200,
       "id": "seoul-2017-13",
       "category": "ch03",
-      "page": 56,
+      "page": 57,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6599,10 +6731,10 @@
       "printedHeight": 143.8422482566248
     },
     {
-      "sequence": 197,
+      "sequence": 201,
       "id": "local-2010-11",
       "category": "ch03",
-      "page": 56,
+      "page": 57,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6632,10 +6764,10 @@
       "printedHeight": 87.39123665893271
     },
     {
-      "sequence": 198,
+      "sequence": 202,
       "id": "local-2022-12",
       "category": "ch03",
-      "page": 56,
+      "page": 57,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6665,10 +6797,10 @@
       "printedHeight": 124.04647086801424
     },
     {
-      "sequence": 199,
+      "sequence": 203,
       "id": "seoul-2020-12",
       "category": "ch03",
-      "page": 56,
+      "page": 57,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6698,10 +6830,10 @@
       "printedHeight": 127.07031944444441
     },
     {
-      "sequence": 200,
+      "sequence": 204,
       "id": "national-radio-2024-11",
       "category": "ch03",
-      "page": 57,
+      "page": 58,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6731,10 +6863,10 @@
       "printedHeight": 115.35825242718448
     },
     {
-      "sequence": 201,
+      "sequence": 205,
       "id": "local-2025-20",
       "category": "ch03",
-      "page": 57,
+      "page": 58,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6764,10 +6896,10 @@
       "printedHeight": 110.97116338354579
     },
     {
-      "sequence": 202,
+      "sequence": 206,
       "id": "local-2023-03",
       "category": "ch03",
-      "page": 57,
+      "page": 58,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6797,10 +6929,10 @@
       "printedHeight": 81.53153864168615
     },
     {
-      "sequence": 203,
+      "sequence": 207,
       "id": "local-2009-20",
       "category": "ch03",
-      "page": 57,
+      "page": 58,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6830,10 +6962,10 @@
       "printedHeight": 80.50367636786962
     },
     {
-      "sequence": 204,
+      "sequence": 208,
       "id": "national-radio-2009-09",
       "category": "ch03",
-      "page": 58,
+      "page": 59,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6863,10 +6995,10 @@
       "printedHeight": 73.01260981308411
     },
     {
-      "sequence": 205,
+      "sequence": 209,
       "id": "local-2010-09",
       "category": "ch03",
-      "page": 58,
+      "page": 59,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -6896,10 +7028,10 @@
       "printedHeight": 115.9142281722934
     },
     {
-      "sequence": 206,
+      "sequence": 210,
       "id": "national-radio-2014-05",
       "category": "ch03",
-      "page": 58,
+      "page": 59,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -6929,10 +7061,10 @@
       "printedHeight": 98.12379879879879
     },
     {
-      "sequence": 207,
+      "sequence": 211,
       "id": "seoul-2017-12",
       "category": "ch03",
-      "page": 58,
+      "page": 59,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -6962,10 +7094,10 @@
       "printedHeight": 72.45466293706295
     },
     {
-      "sequence": 208,
+      "sequence": 212,
       "id": "seoul-2018-10",
       "category": "ch03",
-      "page": 59,
+      "page": 60,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -6995,10 +7127,10 @@
       "printedHeight": 92.80145048814504
     },
     {
-      "sequence": 209,
+      "sequence": 213,
       "id": "seoul-2019-15",
       "category": "ch03",
-      "page": 59,
+      "page": 60,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7028,10 +7160,10 @@
       "printedHeight": 75.58114040114617
     },
     {
-      "sequence": 210,
+      "sequence": 214,
       "id": "national-radio-2021-02",
       "category": "ch03",
-      "page": 59,
+      "page": 60,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7061,10 +7193,10 @@
       "printedHeight": 130.95066966966965
     },
     {
-      "sequence": 211,
+      "sequence": 215,
       "id": "local-2022-03",
       "category": "ch03",
-      "page": 59,
+      "page": 60,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7094,10 +7226,10 @@
       "printedHeight": 146.82633571428573
     },
     {
-      "sequence": 212,
+      "sequence": 216,
       "id": "local-2022-05",
       "category": "ch03",
-      "page": 60,
+      "page": 61,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -7127,10 +7259,10 @@
       "printedHeight": 116.27287857142855
     },
     {
-      "sequence": 213,
+      "sequence": 217,
       "id": "national-radio-2022-09",
       "category": "ch03",
-      "page": 60,
+      "page": 61,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7160,10 +7292,10 @@
       "printedHeight": 107.54219675925924
     },
     {
-      "sequence": 214,
+      "sequence": 218,
       "id": "national-radio-2022-11",
       "category": "ch03",
-      "page": 60,
+      "page": 61,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7193,10 +7325,10 @@
       "printedHeight": 101.01685017421602
     },
     {
-      "sequence": 215,
+      "sequence": 219,
       "id": "local-2025-03",
       "category": "ch03",
-      "page": 60,
+      "page": 61,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7226,10 +7358,10 @@
       "printedHeight": 77.90952056404228
     },
     {
-      "sequence": 216,
+      "sequence": 220,
       "id": "seoul-2020-05",
       "category": "ch04",
-      "page": 62,
+      "page": 63,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -7259,10 +7391,10 @@
       "printedHeight": 140.54214127423822
     },
     {
-      "sequence": 217,
+      "sequence": 221,
       "id": "national-radio-2024-17",
       "category": "ch04",
-      "page": 62,
+      "page": 63,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7292,10 +7424,10 @@
       "printedHeight": 77.37691541135575
     },
     {
-      "sequence": 218,
+      "sequence": 222,
       "id": "seoul-2017-14",
       "category": "ch04",
-      "page": 62,
+      "page": 63,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7325,10 +7457,10 @@
       "printedHeight": 129.5905969316597
     },
     {
-      "sequence": 219,
+      "sequence": 223,
       "id": "seoul-2019-18",
       "category": "ch04",
-      "page": 62,
+      "page": 63,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7358,10 +7490,10 @@
       "printedHeight": 162.62935754189948
     },
     {
-      "sequence": 220,
+      "sequence": 224,
       "id": "seoul-2021-10",
       "category": "ch04",
-      "page": 63,
+      "page": 64,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -7391,10 +7523,10 @@
       "printedHeight": 193.47226907073508
     },
     {
-      "sequence": 221,
+      "sequence": 225,
       "id": "national-radio-2021-09",
       "category": "ch04",
-      "page": 63,
+      "page": 64,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7430,10 +7562,10 @@
       "printedHeight": 130.38248519040894
     },
     {
-      "sequence": 222,
+      "sequence": 226,
       "id": "local-2023-09",
       "category": "ch04",
-      "page": 63,
+      "page": 64,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7463,10 +7595,10 @@
       "printedHeight": 93.21865339578454
     },
     {
-      "sequence": 223,
+      "sequence": 227,
       "id": "local-2023-20",
       "category": "ch04",
-      "page": 63,
+      "page": 64,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7496,10 +7628,10 @@
       "printedHeight": 79.12109132947978
     },
     {
-      "sequence": 224,
+      "sequence": 228,
       "id": "local-2024-18",
       "category": "ch04",
-      "page": 64,
+      "page": 65,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -7529,10 +7661,10 @@
       "printedHeight": 115.3849248554913
     },
     {
-      "sequence": 225,
+      "sequence": 229,
       "id": "local-2026-03",
       "category": "ch04",
-      "page": 64,
+      "page": 65,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7562,10 +7694,10 @@
       "printedHeight": 73.94586702127663
     },
     {
-      "sequence": 226,
+      "sequence": 230,
       "id": "local-2010-15",
       "category": "ch04",
-      "page": 64,
+      "page": 65,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7595,10 +7727,10 @@
       "printedHeight": 205.8977328687572
     },
     {
-      "sequence": 227,
+      "sequence": 231,
       "id": "local-2011-16",
       "category": "ch04",
-      "page": 64,
+      "page": 65,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7628,10 +7760,10 @@
       "printedHeight": 104.57412693935123
     },
     {
-      "sequence": 228,
+      "sequence": 232,
       "id": "seoul-2014-18",
       "category": "ch04",
-      "page": 65,
+      "page": 66,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -7661,10 +7793,10 @@
       "printedHeight": 115.82356302521006
     },
     {
-      "sequence": 229,
+      "sequence": 233,
       "id": "seoul-2015-20",
       "category": "ch04",
-      "page": 65,
+      "page": 66,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7694,10 +7826,10 @@
       "printedHeight": 128.87164771151174
     },
     {
-      "sequence": 230,
+      "sequence": 234,
       "id": "national-radio-2016-09",
       "category": "ch04",
-      "page": 65,
+      "page": 66,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7733,10 +7865,10 @@
       "printedHeight": 106.920341325811
     },
     {
-      "sequence": 231,
+      "sequence": 235,
       "id": "local-2022-13",
       "category": "ch04",
-      "page": 65,
+      "page": 66,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7766,10 +7898,10 @@
       "printedHeight": 139.236584725537
     },
     {
-      "sequence": 232,
+      "sequence": 236,
       "id": "local-2009-15",
       "category": "ch04",
-      "page": 66,
+      "page": 67,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -7799,10 +7931,10 @@
       "printedHeight": 74.0333769230769
     },
     {
-      "sequence": 233,
-      "id": "national-radio-2009-04",
+      "sequence": 237,
+      "id": "national-radio-2010-01",
       "category": "ch04",
-      "page": 66,
+      "page": 67,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -7811,40 +7943,7 @@
         36.0,
         454.0,
         273.638,
-        553.2455684454757
-      ],
-      "originalNumberMasks": [
-        [
-          16.427788162231444,
-          591.5055541992188,
-          52.22276382446289,
-          604.4967651367188
-        ]
-      ],
-      "answers": [
-        2
-      ],
-      "imageSize": [
-        862,
-        360
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 99.24556844547567
-    },
-    {
-      "sequence": 234,
-      "id": "national-radio-2010-01",
-      "category": "ch04",
-      "page": 66,
-      "column": 1,
-      "row": 0,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        309.638,
-        104.0,
-        547.276,
-        185.82049108367625
+        535.8204910836763
       ],
       "originalNumberMasks": [
         [
@@ -7868,13 +7967,46 @@
         251
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 81.82049108367625
+      "printedHeight": 81.8204910836763
     },
     {
-      "sequence": 235,
+      "sequence": 238,
+      "id": "national-radio-2010-10",
+      "category": "ch04",
+      "page": 67,
+      "column": 1,
+      "row": 0,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        309.638,
+        104.0,
+        547.276,
+        181.28847233468287
+      ],
+      "originalNumberMasks": [
+        [
+          370.5338500976562,
+          499.89276123046875,
+          406.32880859375,
+          512.8839721679688
+        ]
+      ],
+      "answers": [
+        2
+      ],
+      "imageSize": [
+        741,
+        241
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 77.28847233468287
+    },
+    {
+      "sequence": 239,
       "id": "local-2011-03",
       "category": "ch04",
-      "page": 66,
+      "page": 67,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -7904,10 +8036,10 @@
       "printedHeight": 142.08550074738412
     },
     {
-      "sequence": 236,
+      "sequence": 240,
       "id": "national-radio-2012-20",
       "category": "ch04",
-      "page": 67,
+      "page": 68,
       "column": 0,
       "row": 0,
       "fullColumn": true,
@@ -7937,10 +8069,10 @@
       "printedHeight": 357.87151190476186
     },
     {
-      "sequence": 237,
+      "sequence": 241,
       "id": "seoul-2014-05",
       "category": "ch04",
-      "page": 67,
+      "page": 68,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -7970,10 +8102,10 @@
       "printedHeight": 100.61553203342618
     },
     {
-      "sequence": 238,
+      "sequence": 242,
       "id": "seoul-2014-07",
       "category": "ch04",
-      "page": 67,
+      "page": 68,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8003,10 +8135,10 @@
       "printedHeight": 129.5308377253814
     },
     {
-      "sequence": 239,
+      "sequence": 243,
       "id": "seoul-2015-03",
       "category": "ch04",
-      "page": 68,
+      "page": 69,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8036,10 +8168,10 @@
       "printedHeight": 184.49950277777776
     },
     {
-      "sequence": 240,
+      "sequence": 244,
       "id": "seoul-2016-15",
       "category": "ch04",
-      "page": 68,
+      "page": 69,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8069,10 +8201,10 @@
       "printedHeight": 258.79754794520545
     },
     {
-      "sequence": 241,
+      "sequence": 245,
       "id": "national-radio-2016-11",
       "category": "ch04",
-      "page": 68,
+      "page": 69,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8102,10 +8234,10 @@
       "printedHeight": 138.67826628895182
     },
     {
-      "sequence": 242,
+      "sequence": 246,
       "id": "seoul-2018-19",
       "category": "ch04",
-      "page": 68,
+      "page": 69,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8135,10 +8267,10 @@
       "printedHeight": 116.82762011173179
     },
     {
-      "sequence": 243,
+      "sequence": 247,
       "id": "seoul-2020-14",
       "category": "ch04",
-      "page": 69,
+      "page": 70,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8168,10 +8300,10 @@
       "printedHeight": 115.67913769123783
     },
     {
-      "sequence": 244,
+      "sequence": 248,
       "id": "seoul-2021-20",
       "category": "ch04",
-      "page": 69,
+      "page": 70,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8201,10 +8333,10 @@
       "printedHeight": 183.9884238227147
     },
     {
-      "sequence": 245,
+      "sequence": 249,
       "id": "national-radio-2021-04",
       "category": "ch04",
-      "page": 69,
+      "page": 70,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8234,10 +8366,10 @@
       "printedHeight": 148.30040601503757
     },
     {
-      "sequence": 246,
+      "sequence": 250,
       "id": "local-2022-17",
       "category": "ch04",
-      "page": 69,
+      "page": 70,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8267,10 +8399,10 @@
       "printedHeight": 118.81899999999996
     },
     {
-      "sequence": 247,
+      "sequence": 251,
       "id": "local-2022-20",
       "category": "ch04",
-      "page": 70,
+      "page": 71,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8300,10 +8432,10 @@
       "printedHeight": 260.24327942925083
     },
     {
-      "sequence": 248,
+      "sequence": 252,
       "id": "national-radio-2022-19",
       "category": "ch04",
-      "page": 70,
+      "page": 71,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8333,10 +8465,10 @@
       "printedHeight": 88.38787902187903
     },
     {
-      "sequence": 249,
+      "sequence": 253,
       "id": "local-2023-04",
       "category": "ch04",
-      "page": 70,
+      "page": 71,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8366,10 +8498,10 @@
       "printedHeight": 179.62308920187792
     },
     {
-      "sequence": 250,
+      "sequence": 254,
       "id": "national-radio-2023-20",
       "category": "ch04",
-      "page": 70,
+      "page": 71,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8399,10 +8531,10 @@
       "printedHeight": 203.37646597462515
     },
     {
-      "sequence": 251,
+      "sequence": 255,
       "id": "local-2024-05",
       "category": "ch04",
-      "page": 71,
+      "page": 72,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8432,10 +8564,10 @@
       "printedHeight": 100.96825821596241
     },
     {
-      "sequence": 252,
+      "sequence": 256,
       "id": "local-2024-14",
       "category": "ch04",
-      "page": 71,
+      "page": 72,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8465,10 +8597,10 @@
       "printedHeight": 102.71028273464663
     },
     {
-      "sequence": 253,
+      "sequence": 257,
       "id": "local-2024-15",
       "category": "ch04",
-      "page": 71,
+      "page": 72,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8498,10 +8630,10 @@
       "printedHeight": 127.08946403712295
     },
     {
-      "sequence": 254,
+      "sequence": 258,
       "id": "national-radio-2024-12",
       "category": "ch04",
-      "page": 71,
+      "page": 72,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8531,10 +8663,10 @@
       "printedHeight": 89.56067976878614
     },
     {
-      "sequence": 255,
+      "sequence": 259,
       "id": "local-2025-07",
       "category": "ch04",
-      "page": 72,
+      "page": 73,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8564,10 +8696,10 @@
       "printedHeight": 112.24126972909306
     },
     {
-      "sequence": 256,
+      "sequence": 260,
       "id": "local-2026-10",
       "category": "ch04",
-      "page": 72,
+      "page": 73,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8597,10 +8729,10 @@
       "printedHeight": 78.93762268518515
     },
     {
-      "sequence": 257,
+      "sequence": 261,
       "id": "local-2009-17",
       "category": "ch04",
-      "page": 72,
+      "page": 73,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8630,10 +8762,10 @@
       "printedHeight": 90.91035116279068
     },
     {
-      "sequence": 258,
+      "sequence": 262,
       "id": "national-radio-2013-04",
       "category": "ch04",
-      "page": 72,
+      "page": 73,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8663,10 +8795,10 @@
       "printedHeight": 75.60000000000002
     },
     {
-      "sequence": 259,
+      "sequence": 263,
       "id": "seoul-2014-17",
       "category": "ch04",
-      "page": 73,
+      "page": 74,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8696,10 +8828,10 @@
       "printedHeight": 87.16707670850766
     },
     {
-      "sequence": 260,
+      "sequence": 264,
       "id": "seoul-2016-07",
       "category": "ch04",
-      "page": 73,
+      "page": 74,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8729,10 +8861,10 @@
       "printedHeight": 154.0368199445984
     },
     {
-      "sequence": 261,
+      "sequence": 265,
       "id": "seoul-2018-09",
       "category": "ch04",
-      "page": 73,
+      "page": 74,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8762,10 +8894,10 @@
       "printedHeight": 167.53149861495842
     },
     {
-      "sequence": 262,
+      "sequence": 266,
       "id": "seoul-2020-08",
       "category": "ch04",
-      "page": 73,
+      "page": 74,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8795,10 +8927,10 @@
       "printedHeight": 125.07263157894738
     },
     {
-      "sequence": 263,
+      "sequence": 267,
       "id": "seoul-2021-06",
       "category": "ch04",
-      "page": 74,
+      "page": 75,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8828,10 +8960,10 @@
       "printedHeight": 109.39941307371348
     },
     {
-      "sequence": 264,
+      "sequence": 268,
       "id": "national-radio-2022-18",
       "category": "ch04",
-      "page": 74,
+      "page": 75,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8861,10 +8993,10 @@
       "printedHeight": 97.36556944444442
     },
     {
-      "sequence": 265,
+      "sequence": 269,
       "id": "national-radio-2023-05",
       "category": "ch04",
-      "page": 74,
+      "page": 75,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -8894,10 +9026,10 @@
       "printedHeight": 129.94958548009367
     },
     {
-      "sequence": 266,
+      "sequence": 270,
       "id": "national-radio-2023-08",
       "category": "ch04",
-      "page": 74,
+      "page": 75,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -8927,10 +9059,10 @@
       "printedHeight": 130.22785011709607
     },
     {
-      "sequence": 267,
+      "sequence": 271,
       "id": "national-radio-2025-06",
       "category": "ch04",
-      "page": 75,
+      "page": 76,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -8960,10 +9092,10 @@
       "printedHeight": 78.65285983510012
     },
     {
-      "sequence": 268,
+      "sequence": 272,
       "id": "local-2026-14",
       "category": "ch04",
-      "page": 75,
+      "page": 76,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -8993,10 +9125,10 @@
       "printedHeight": 83.88
     },
     {
-      "sequence": 269,
-      "id": "national-radio-2009-05",
+      "sequence": 273,
+      "id": "local-2010-13",
       "category": "ch04",
-      "page": 75,
+      "page": 76,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -9005,40 +9137,7 @@
         309.638,
         104.0,
         547.276,
-        173.11603476245654
-      ],
-      "originalNumberMasks": [
-        [
-          16.427788162231444,
-          757.5836791992188,
-          52.22276382446289,
-          770.5748901367188
-        ]
-      ],
-      "answers": [
-        1
-      ],
-      "imageSize": [
-        863,
-        251
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 69.11603476245654
-    },
-    {
-      "sequence": 270,
-      "id": "local-2010-13",
-      "category": "ch04",
-      "page": 75,
-      "column": 1,
-      "row": 1,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        309.638,
-        454.0,
-        547.276,
-        556.278071925754
+        206.27807192575403
       ],
       "originalNumberMasks": [
         [
@@ -9059,19 +9158,19 @@
       "printedHeight": 102.27807192575403
     },
     {
-      "sequence": 271,
+      "sequence": 274,
       "id": "local-2011-10",
       "category": "ch04",
       "page": 76,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        169.7296595744681
+        309.638,
+        454.0,
+        547.276,
+        519.7296595744681
       ],
       "originalNumberMasks": [
         [
@@ -9092,19 +9191,19 @@
       "printedHeight": 65.72965957446809
     },
     {
-      "sequence": 272,
+      "sequence": 275,
       "id": "national-radio-2013-05",
       "category": "ch04",
-      "page": 76,
+      "page": 77,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        558.1896336336337
+        208.1896336336336
       ],
       "originalNumberMasks": [
         [
@@ -9122,22 +9221,22 @@
         292
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 104.18963363363366
+      "printedHeight": 104.1896336336336
     },
     {
-      "sequence": 273,
+      "sequence": 276,
       "id": "seoul-2014-08",
       "category": "ch04",
-      "page": 76,
-      "column": 1,
-      "row": 0,
+      "page": 77,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        190.26358553546592
+        36.0,
+        454.0,
+        273.638,
+        540.263585535466
       ],
       "originalNumberMasks": [
         [
@@ -9155,22 +9254,22 @@
         261
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 86.26358553546592
+      "printedHeight": 86.26358553546595
     },
     {
-      "sequence": 274,
+      "sequence": 277,
       "id": "seoul-2015-11",
       "category": "ch04",
-      "page": 76,
+      "page": 77,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        501.17024962406015
+        151.17024962406015
       ],
       "originalNumberMasks": [
         [
@@ -9191,19 +9290,19 @@
       "printedHeight": 47.17024962406015
     },
     {
-      "sequence": 275,
+      "sequence": 278,
       "id": "national-radio-2015-10",
       "category": "ch04",
       "page": 77,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        252.35999999999999,
-        181.76
+        309.638,
+        454.0,
+        525.9979999999999,
+        531.76
       ],
       "originalNumberMasks": [
         [
@@ -9220,23 +9319,23 @@
         601,
         216
       ],
-      "printedWidth": 216.35999999999999,
+      "printedWidth": 216.35999999999996,
       "printedHeight": 77.75999999999999
     },
     {
-      "sequence": 276,
+      "sequence": 279,
       "id": "seoul-2016-13",
       "category": "ch04",
-      "page": 77,
+      "page": 78,
       "column": 0,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        454.0,
+        104.0,
         273.638,
-        569.8235630252101
+        219.82356302521006
       ],
       "originalNumberMasks": [
         [
@@ -9254,22 +9353,22 @@
         348
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 115.82356302521009
+      "printedHeight": 115.82356302521006
     },
     {
-      "sequence": 277,
+      "sequence": 280,
       "id": "seoul-2019-09",
       "category": "ch04",
-      "page": 77,
-      "column": 1,
-      "row": 0,
+      "page": 78,
+      "column": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        104.0,
-        547.276,
-        165.89179108635096
+        36.0,
+        454.0,
+        273.6379999999999,
+        515.891791086351
       ],
       "originalNumberMasks": [
         [
@@ -9286,23 +9385,23 @@
         718,
         187
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63799999999992,
       "printedHeight": 61.89179108635096
     },
     {
-      "sequence": 278,
+      "sequence": 281,
       "id": "national-radio-2020-11",
       "category": "ch04",
-      "page": 77,
+      "page": 78,
       "column": 1,
-      "row": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        454.0,
+        104.0,
         547.276,
-        545.0102978723404
+        195.0102978723404
       ],
       "originalNumberMasks": [
         [
@@ -9323,19 +9422,19 @@
       "printedHeight": 91.0102978723404
     },
     {
-      "sequence": 279,
+      "sequence": 282,
       "id": "local-2022-11",
       "category": "ch04",
       "page": 78,
-      "column": 0,
-      "row": 0,
+      "column": 1,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        104.0,
-        273.638,
-        218.43922711058264
+        309.638,
+        454.0,
+        547.276,
+        568.4392271105826
       ],
       "originalNumberMasks": [
         [
@@ -9353,10 +9452,10 @@
         405
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 114.43922711058264
+      "printedHeight": 114.43922711058258
     },
     {
-      "sequence": 280,
+      "sequence": 283,
       "id": "local-2009-10",
       "category": "ch05",
       "page": 80,
@@ -9389,7 +9488,7 @@
       "printedHeight": 134.9277172653534
     },
     {
-      "sequence": 281,
+      "sequence": 284,
       "id": "national-radio-2009-19",
       "category": "ch05",
       "page": 80,
@@ -9422,7 +9521,7 @@
       "printedHeight": 91.97113789107766
     },
     {
-      "sequence": 282,
+      "sequence": 285,
       "id": "national-radio-2010-19",
       "category": "ch05",
       "page": 80,
@@ -9455,7 +9554,7 @@
       "printedHeight": 138.50743221320974
     },
     {
-      "sequence": 283,
+      "sequence": 286,
       "id": "national-radio-2011-13",
       "category": "ch05",
       "page": 80,
@@ -9488,7 +9587,7 @@
       "printedHeight": 80.38697843665773
     },
     {
-      "sequence": 284,
+      "sequence": 287,
       "id": "seoul-2017-05",
       "category": "ch05",
       "page": 81,
@@ -9521,7 +9620,7 @@
       "printedHeight": 140.54214127423822
     },
     {
-      "sequence": 285,
+      "sequence": 288,
       "id": "seoul-2018-13",
       "category": "ch05",
       "page": 81,
@@ -9554,7 +9653,7 @@
       "printedHeight": 72.25255788005575
     },
     {
-      "sequence": 286,
+      "sequence": 289,
       "id": "local-2024-13",
       "category": "ch05",
       "page": 81,
@@ -9587,7 +9686,7 @@
       "printedHeight": 128.14889838337183
     },
     {
-      "sequence": 287,
+      "sequence": 290,
       "id": "seoul-2016-20",
       "category": "ch05",
       "page": 81,
@@ -9620,7 +9719,7 @@
       "printedHeight": 114.69906241331478
     },
     {
-      "sequence": 288,
+      "sequence": 291,
       "id": "seoul-2017-04",
       "category": "ch05",
       "page": 82,
@@ -9653,7 +9752,7 @@
       "printedHeight": 156.88722330097085
     },
     {
-      "sequence": 289,
+      "sequence": 292,
       "id": "seoul-2019-19",
       "category": "ch05",
       "page": 82,
@@ -9686,7 +9785,7 @@
       "printedHeight": 104.11122392211405
     },
     {
-      "sequence": 290,
+      "sequence": 293,
       "id": "local-2025-12",
       "category": "ch05",
       "page": 82,
@@ -9719,7 +9818,7 @@
       "printedHeight": 91.58964583333332
     },
     {
-      "sequence": 291,
+      "sequence": 294,
       "id": "local-2026-05",
       "category": "ch05",
       "page": 82,
@@ -9752,7 +9851,7 @@
       "printedHeight": 78.37295641931678
     },
     {
-      "sequence": 292,
+      "sequence": 295,
       "id": "national-radio-2011-17",
       "category": "ch05",
       "page": 83,
@@ -9785,7 +9884,7 @@
       "printedHeight": 111.91091860465116
     },
     {
-      "sequence": 293,
+      "sequence": 296,
       "id": "local-2026-20",
       "category": "ch06",
       "page": 85,
@@ -9818,7 +9917,7 @@
       "printedHeight": 89.93938194444445
     },
     {
-      "sequence": 294,
+      "sequence": 297,
       "id": "national-radio-2011-04",
       "category": "ch06",
       "page": 85,
@@ -9857,7 +9956,7 @@
       "printedHeight": 87.69644470314324
     },
     {
-      "sequence": 295,
+      "sequence": 298,
       "id": "national-radio-2013-19",
       "category": "ch06",
       "page": 85,
@@ -9890,7 +9989,7 @@
       "printedHeight": 107.74265254237287
     },
     {
-      "sequence": 296,
+      "sequence": 299,
       "id": "national-radio-2009-03",
       "category": "ch06",
       "page": 85,
@@ -9923,7 +10022,7 @@
       "printedHeight": 97.31579350348022
     },
     {
-      "sequence": 297,
+      "sequence": 300,
       "id": "national-radio-2009-08",
       "category": "ch06",
       "page": 86,
@@ -9956,7 +10055,7 @@
       "printedHeight": 88.35258974358973
     },
     {
-      "sequence": 298,
+      "sequence": 301,
       "id": "national-radio-2009-18",
       "category": "ch06",
       "page": 86,
@@ -9989,7 +10088,7 @@
       "printedHeight": 105.83180697674413
     },
     {
-      "sequence": 299,
+      "sequence": 302,
       "id": "local-2010-19",
       "category": "ch06",
       "page": 86,
@@ -10022,7 +10121,7 @@
       "printedHeight": 120.06390221187428
     },
     {
-      "sequence": 300,
+      "sequence": 303,
       "id": "national-radio-2010-07",
       "category": "ch06",
       "page": 86,
@@ -10061,7 +10160,7 @@
       "printedHeight": 92.56829069767446
     },
     {
-      "sequence": 301,
+      "sequence": 304,
       "id": "national-radio-2010-15",
       "category": "ch06",
       "page": 87,
@@ -10094,7 +10193,7 @@
       "printedHeight": 75.6370949074074
     },
     {
-      "sequence": 302,
+      "sequence": 305,
       "id": "national-radio-2010-16",
       "category": "ch06",
       "page": 87,
@@ -10127,7 +10226,7 @@
       "printedHeight": 107.48974651162791
     },
     {
-      "sequence": 303,
+      "sequence": 306,
       "id": "local-2011-15",
       "category": "ch06",
       "page": 87,
@@ -10160,7 +10259,7 @@
       "printedHeight": 53.59495319148937
     },
     {
-      "sequence": 304,
+      "sequence": 307,
       "id": "national-radio-2011-08",
       "category": "ch06",
       "page": 87,
@@ -10199,7 +10298,7 @@
       "printedHeight": 185.31908922363846
     },
     {
-      "sequence": 305,
+      "sequence": 308,
       "id": "national-radio-2013-13",
       "category": "ch06",
       "page": 88,
@@ -10232,7 +10331,7 @@
       "printedHeight": 82.44
     },
     {
-      "sequence": 306,
+      "sequence": 309,
       "id": "national-radio-2013-18",
       "category": "ch06",
       "page": 88,
@@ -10265,7 +10364,7 @@
       "printedHeight": 107.43915211267608
     },
     {
-      "sequence": 307,
+      "sequence": 310,
       "id": "national-radio-2014-01",
       "category": "ch06",
       "page": 88,
@@ -10298,7 +10397,7 @@
       "printedHeight": 82.08009351432878
     },
     {
-      "sequence": 308,
+      "sequence": 311,
       "id": "national-radio-2014-14",
       "category": "ch06",
       "page": 88,
@@ -10331,7 +10430,7 @@
       "printedHeight": 123.70659007092195
     },
     {
-      "sequence": 309,
+      "sequence": 312,
       "id": "seoul-2015-18",
       "category": "ch06",
       "page": 89,
@@ -10364,7 +10463,7 @@
       "printedHeight": 58.32629733520338
     },
     {
-      "sequence": 310,
+      "sequence": 313,
       "id": "national-radio-2015-02",
       "category": "ch06",
       "page": 89,
@@ -10397,7 +10496,7 @@
       "printedHeight": 94.41389805097447
     },
     {
-      "sequence": 311,
+      "sequence": 314,
       "id": "national-radio-2015-05",
       "category": "ch06",
       "page": 89,
@@ -10430,7 +10529,7 @@
       "printedHeight": 93.91681437125749
     },
     {
-      "sequence": 312,
+      "sequence": 315,
       "id": "seoul-2016-17",
       "category": "ch06",
       "page": 89,
@@ -10463,7 +10562,7 @@
       "printedHeight": 101.84485714285711
     },
     {
-      "sequence": 313,
+      "sequence": 316,
       "id": "national-radio-2016-05",
       "category": "ch06",
       "page": 90,
@@ -10496,7 +10595,7 @@
       "printedHeight": 97.76698498498496
     },
     {
-      "sequence": 314,
+      "sequence": 317,
       "id": "national-radio-2016-06",
       "category": "ch06",
       "page": 90,
@@ -10529,7 +10628,7 @@
       "printedHeight": 138.4437597597598
     },
     {
-      "sequence": 315,
+      "sequence": 318,
       "id": "national-radio-2016-12",
       "category": "ch06",
       "page": 90,
@@ -10562,7 +10661,7 @@
       "printedHeight": 238.6492255319149
     },
     {
-      "sequence": 316,
+      "sequence": 319,
       "id": "national-radio-2016-16",
       "category": "ch06",
       "page": 90,
@@ -10595,7 +10694,7 @@
       "printedHeight": 139.88619858156028
     },
     {
-      "sequence": 317,
+      "sequence": 320,
       "id": "national-radio-2017-08",
       "category": "ch06",
       "page": 91,
@@ -10634,7 +10733,7 @@
       "printedHeight": 91.21798583569404
     },
     {
-      "sequence": 318,
+      "sequence": 321,
       "id": "national-radio-2017-18",
       "category": "ch06",
       "page": 91,
@@ -10667,7 +10766,7 @@
       "printedHeight": 122.67349506346966
     },
     {
-      "sequence": 319,
+      "sequence": 322,
       "id": "national-radio-2018-07",
       "category": "ch06",
       "page": 91,
@@ -10700,7 +10799,7 @@
       "printedHeight": 176.53108571428572
     },
     {
-      "sequence": 320,
+      "sequence": 323,
       "id": "national-radio-2018-19",
       "category": "ch06",
       "page": 91,
@@ -10733,7 +10832,7 @@
       "printedHeight": 107.40700564971746
     },
     {
-      "sequence": 321,
+      "sequence": 324,
       "id": "seoul-2019-03",
       "category": "ch06",
       "page": 92,
@@ -10766,7 +10865,7 @@
       "printedHeight": 151.28410818307904
     },
     {
-      "sequence": 322,
+      "sequence": 325,
       "id": "seoul-2019-08",
       "category": "ch06",
       "page": 92,
@@ -10799,7 +10898,7 @@
       "printedHeight": 247.18301662049862
     },
     {
-      "sequence": 323,
+      "sequence": 326,
       "id": "seoul-2019-11",
       "category": "ch06",
       "page": 92,
@@ -10832,7 +10931,7 @@
       "printedHeight": 152.8144361111111
     },
     {
-      "sequence": 324,
+      "sequence": 327,
       "id": "national-radio-2019-19",
       "category": "ch06",
       "page": 92,
@@ -10865,7 +10964,7 @@
       "printedHeight": 152.04804237288135
     },
     {
-      "sequence": 325,
+      "sequence": 328,
       "id": "seoul-2020-06",
       "category": "ch06",
       "page": 93,
@@ -10898,7 +10997,7 @@
       "printedHeight": 124.74349307479224
     },
     {
-      "sequence": 326,
+      "sequence": 329,
       "id": "national-radio-2020-03",
       "category": "ch06",
       "page": 93,
@@ -10931,7 +11030,7 @@
       "printedHeight": 72.07639039039043
     },
     {
-      "sequence": 327,
+      "sequence": 330,
       "id": "national-radio-2020-20",
       "category": "ch06",
       "page": 93,
@@ -10964,7 +11063,7 @@
       "printedHeight": 105.01849291784703
     },
     {
-      "sequence": 328,
+      "sequence": 331,
       "id": "seoul-2021-16",
       "category": "ch06",
       "page": 93,
@@ -10997,7 +11096,7 @@
       "printedHeight": 62.81619860139858
     },
     {
-      "sequence": 329,
+      "sequence": 332,
       "id": "national-radio-2022-04",
       "category": "ch06",
       "page": 94,
@@ -11030,7 +11129,7 @@
       "printedHeight": 112.34797682502898
     },
     {
-      "sequence": 330,
+      "sequence": 333,
       "id": "national-radio-2022-06",
       "category": "ch06",
       "page": 94,
@@ -11063,7 +11162,7 @@
       "printedHeight": 123.49474768518519
     },
     {
-      "sequence": 331,
+      "sequence": 334,
       "id": "national-radio-2022-08",
       "category": "ch06",
       "page": 94,
@@ -11096,7 +11195,7 @@
       "printedHeight": 122.80252716763005
     },
     {
-      "sequence": 332,
+      "sequence": 335,
       "id": "national-radio-2023-12",
       "category": "ch06",
       "page": 94,
@@ -11129,7 +11228,7 @@
       "printedHeight": 113.05641570438797
     },
     {
-      "sequence": 333,
+      "sequence": 336,
       "id": "national-radio-2023-14",
       "category": "ch06",
       "page": 95,
@@ -11162,7 +11261,7 @@
       "printedHeight": 85.98924161849709
     },
     {
-      "sequence": 334,
+      "sequence": 337,
       "id": "national-radio-2024-09",
       "category": "ch06",
       "page": 95,
@@ -11195,7 +11294,7 @@
       "printedHeight": 91.70031058823531
     },
     {
-      "sequence": 335,
+      "sequence": 338,
       "id": "national-radio-2024-10",
       "category": "ch06",
       "page": 95,
@@ -11228,7 +11327,7 @@
       "printedHeight": 181.123162412993
     },
     {
-      "sequence": 336,
+      "sequence": 339,
       "id": "national-radio-2024-15",
       "category": "ch06",
       "page": 95,
@@ -11261,7 +11360,7 @@
       "printedHeight": 102.74752832369938
     },
     {
-      "sequence": 337,
+      "sequence": 340,
       "id": "national-radio-2024-18",
       "category": "ch06",
       "page": 96,
@@ -11294,7 +11393,7 @@
       "printedHeight": 191.92779374275779
     },
     {
-      "sequence": 338,
+      "sequence": 341,
       "id": "national-radio-2025-15",
       "category": "ch06",
       "page": 96,
@@ -11327,7 +11426,7 @@
       "printedHeight": 111.09990023201851
     },
     {
-      "sequence": 339,
+      "sequence": 342,
       "id": "national-radio-2026-14",
       "category": "ch06",
       "page": 96,
@@ -11360,7 +11459,7 @@
       "printedHeight": 99.5212505800464
     },
     {
-      "sequence": 340,
+      "sequence": 343,
       "id": "seoul-2015-12",
       "category": "ch06",
       "page": 96,
@@ -11393,7 +11492,7 @@
       "printedHeight": 173.3398521617852
     },
     {
-      "sequence": 341,
+      "sequence": 344,
       "id": "local-2022-15",
       "category": "ch06",
       "page": 97,
@@ -11426,7 +11525,7 @@
       "printedHeight": 234.8123400713436
     },
     {
-      "sequence": 342,
+      "sequence": 345,
       "id": "national-radio-2023-16",
       "category": "ch06",
       "page": 97,
@@ -11459,7 +11558,7 @@
       "printedHeight": 187.6956027713626
     },
     {
-      "sequence": 343,
+      "sequence": 346,
       "id": "national-radio-2024-19",
       "category": "ch06",
       "page": 97,
@@ -11492,7 +11591,7 @@
       "printedHeight": 115.11019884393062
     },
     {
-      "sequence": 344,
+      "sequence": 347,
       "id": "national-radio-2026-16",
       "category": "ch06",
       "page": 97,
@@ -11525,7 +11624,7 @@
       "printedHeight": 90.31896176129783
     },
     {
-      "sequence": 345,
+      "sequence": 348,
       "id": "local-2009-06",
       "category": "ch06",
       "page": 98,
@@ -11558,7 +11657,7 @@
       "printedHeight": 77.28065040650404
     },
     {
-      "sequence": 346,
+      "sequence": 349,
       "id": "national-radio-2010-11",
       "category": "ch06",
       "page": 98,
@@ -11591,7 +11690,7 @@
       "printedHeight": 79.39709662398138
     },
     {
-      "sequence": 347,
+      "sequence": 350,
       "id": "national-radio-2010-17",
       "category": "ch06",
       "page": 98,
@@ -11624,7 +11723,7 @@
       "printedHeight": 138.71427441860465
     },
     {
-      "sequence": 348,
+      "sequence": 351,
       "id": "local-2011-05",
       "category": "ch06",
       "page": 98,
@@ -11657,7 +11756,7 @@
       "printedHeight": 124.30840238450071
     },
     {
-      "sequence": 349,
+      "sequence": 352,
       "id": "seoul-2014-14",
       "category": "ch06",
       "page": 99,
@@ -11690,7 +11789,7 @@
       "printedHeight": 72.65790182328192
     },
     {
-      "sequence": 350,
+      "sequence": 353,
       "id": "seoul-2015-08",
       "category": "ch06",
       "page": 99,
@@ -11723,7 +11822,7 @@
       "printedHeight": 85.9051495844875
     },
     {
-      "sequence": 351,
+      "sequence": 354,
       "id": "national-radio-2015-09",
       "category": "ch06",
       "page": 99,
@@ -11756,7 +11855,7 @@
       "printedHeight": 114.56279701492537
     },
     {
-      "sequence": 352,
+      "sequence": 355,
       "id": "seoul-2016-09",
       "category": "ch06",
       "page": 99,
@@ -11789,7 +11888,7 @@
       "printedHeight": 128.69315512465369
     },
     {
-      "sequence": 353,
+      "sequence": 356,
       "id": "seoul-2020-17",
       "category": "ch06",
       "page": 100,
@@ -11822,7 +11921,7 @@
       "printedHeight": 109.88275208913649
     },
     {
-      "sequence": 354,
+      "sequence": 357,
       "id": "seoul-2021-17",
       "category": "ch06",
       "page": 100,
@@ -11855,7 +11954,7 @@
       "printedHeight": 62.72846648044697
     },
     {
-      "sequence": 355,
+      "sequence": 358,
       "id": "seoul-2016-08",
       "category": "ch06",
       "page": 100,
@@ -11888,7 +11987,7 @@
       "printedHeight": 102.83364216366158
     },
     {
-      "sequence": 356,
+      "sequence": 359,
       "id": "national-radio-2018-18",
       "category": "ch06",
       "page": 100,
@@ -11921,7 +12020,7 @@
       "printedHeight": 85.67999999999995
     },
     {
-      "sequence": 357,
+      "sequence": 360,
       "id": "seoul-2019-12",
       "category": "ch06",
       "page": 101,
@@ -11954,7 +12053,7 @@
       "printedHeight": 102.7444630404463
     },
     {
-      "sequence": 358,
+      "sequence": 361,
       "id": "seoul-2019-13",
       "category": "ch06",
       "page": 101,
@@ -11987,7 +12086,7 @@
       "printedHeight": 92.5991648044693
     },
     {
-      "sequence": 359,
+      "sequence": 362,
       "id": "national-radio-2020-18",
       "category": "ch06",
       "page": 101,
@@ -12020,7 +12119,7 @@
       "printedHeight": 176.6364259520451
     },
     {
-      "sequence": 360,
+      "sequence": 363,
       "id": "local-2009-04",
       "category": "ch06",
       "page": 101,
@@ -12053,7 +12152,7 @@
       "printedHeight": 46.08935075653369
     },
     {
-      "sequence": 361,
+      "sequence": 364,
       "id": "local-2009-11",
       "category": "ch06",
       "page": 102,
@@ -12086,7 +12185,7 @@
       "printedHeight": 67.42287441860464
     },
     {
-      "sequence": 362,
+      "sequence": 365,
       "id": "local-2009-14",
       "category": "ch06",
       "page": 102,
@@ -12119,7 +12218,7 @@
       "printedHeight": 120.19421990740739
     },
     {
-      "sequence": 363,
+      "sequence": 366,
       "id": "local-2009-16",
       "category": "ch06",
       "page": 102,
@@ -12152,7 +12251,7 @@
       "printedHeight": 93.78999768518517
     },
     {
-      "sequence": 364,
+      "sequence": 367,
       "id": "national-radio-2009-01",
       "category": "ch06",
       "page": 102,
@@ -12185,7 +12284,7 @@
       "printedHeight": 97.090525462963
     },
     {
-      "sequence": 365,
+      "sequence": 368,
       "id": "national-radio-2009-11",
       "category": "ch06",
       "page": 103,
@@ -12218,7 +12317,7 @@
       "printedHeight": 57.54214668218859
     },
     {
-      "sequence": 366,
+      "sequence": 369,
       "id": "national-radio-2009-13",
       "category": "ch06",
       "page": 103,
@@ -12251,7 +12350,7 @@
       "printedHeight": 131.89872769409044
     },
     {
-      "sequence": 367,
+      "sequence": 370,
       "id": "national-radio-2009-15",
       "category": "ch06",
       "page": 103,
@@ -12284,7 +12383,7 @@
       "printedHeight": 92.07783294663574
     },
     {
-      "sequence": 368,
+      "sequence": 371,
       "id": "national-radio-2009-16",
       "category": "ch06",
       "page": 103,
@@ -12317,7 +12416,7 @@
       "printedHeight": 52.777741860465085
     },
     {
-      "sequence": 369,
+      "sequence": 372,
       "id": "local-2010-14",
       "category": "ch06",
       "page": 104,
@@ -12350,7 +12449,7 @@
       "printedHeight": 102.23960465116278
     },
     {
-      "sequence": 370,
+      "sequence": 373,
       "id": "local-2010-17",
       "category": "ch06",
       "page": 104,
@@ -12383,7 +12482,7 @@
       "printedHeight": 102.08198137369038
     },
     {
-      "sequence": 371,
+      "sequence": 374,
       "id": "local-2010-20",
       "category": "ch06",
       "page": 104,
@@ -12416,7 +12515,7 @@
       "printedHeight": 137.13061877172655
     },
     {
-      "sequence": 372,
+      "sequence": 375,
       "id": "national-radio-2010-05",
       "category": "ch06",
       "page": 104,
@@ -12455,7 +12554,7 @@
       "printedHeight": 97.20302896871374
     },
     {
-      "sequence": 373,
+      "sequence": 376,
       "id": "national-radio-2010-06",
       "category": "ch06",
       "page": 105,
@@ -12494,7 +12593,7 @@
       "printedHeight": 124.86996759259259
     },
     {
-      "sequence": 374,
+      "sequence": 377,
       "id": "national-radio-2010-12",
       "category": "ch06",
       "page": 105,
@@ -12527,7 +12626,7 @@
       "printedHeight": 78.75372885283889
     },
     {
-      "sequence": 375,
+      "sequence": 378,
       "id": "national-radio-2010-14",
       "category": "ch06",
       "page": 105,
@@ -12560,7 +12659,7 @@
       "printedHeight": 107.48974651162789
     },
     {
-      "sequence": 376,
+      "sequence": 379,
       "id": "local-2011-12",
       "category": "ch06",
       "page": 105,
@@ -12593,7 +12692,7 @@
       "printedHeight": 91.0102978723404
     },
     {
-      "sequence": 377,
+      "sequence": 380,
       "id": "national-radio-2011-11",
       "category": "ch06",
       "page": 106,
@@ -12626,7 +12725,7 @@
       "printedHeight": 97.31579350348028
     },
     {
-      "sequence": 378,
+      "sequence": 381,
       "id": "national-radio-2011-14",
       "category": "ch06",
       "page": 106,
@@ -12659,7 +12758,7 @@
       "printedHeight": 82.88416917728853
     },
     {
-      "sequence": 379,
+      "sequence": 382,
       "id": "national-radio-2011-16",
       "category": "ch06",
       "page": 106,
@@ -12692,7 +12791,7 @@
       "printedHeight": 83.64414452214453
     },
     {
-      "sequence": 380,
+      "sequence": 383,
       "id": "national-radio-2012-02",
       "category": "ch06",
       "page": 106,
@@ -12725,7 +12824,7 @@
       "printedHeight": 62.44241741741746
     },
     {
-      "sequence": 381,
+      "sequence": 384,
       "id": "national-radio-2012-04",
       "category": "ch06",
       "page": 107,
@@ -12758,7 +12857,7 @@
       "printedHeight": 125.78733233082704
     },
     {
-      "sequence": 382,
+      "sequence": 385,
       "id": "national-radio-2012-09",
       "category": "ch06",
       "page": 107,
@@ -12791,7 +12890,7 @@
       "printedHeight": 102.99890651558076
     },
     {
-      "sequence": 383,
+      "sequence": 386,
       "id": "national-radio-2012-14",
       "category": "ch06",
       "page": 107,
@@ -12824,7 +12923,7 @@
       "printedHeight": 96.06642553191489
     },
     {
-      "sequence": 384,
+      "sequence": 387,
       "id": "national-radio-2012-15",
       "category": "ch06",
       "page": 107,
@@ -12857,7 +12956,7 @@
       "printedHeight": 80.22389219858155
     },
     {
-      "sequence": 385,
+      "sequence": 388,
       "id": "national-radio-2012-16",
       "category": "ch06",
       "page": 108,
@@ -12890,7 +12989,7 @@
       "printedHeight": 145.2794014184397
     },
     {
-      "sequence": 386,
+      "sequence": 389,
       "id": "national-radio-2012-18",
       "category": "ch06",
       "page": 108,
@@ -12923,7 +13022,7 @@
       "printedHeight": 77.64409900990097
     },
     {
-      "sequence": 387,
+      "sequence": 390,
       "id": "national-radio-2012-19",
       "category": "ch06",
       "page": 108,
@@ -12956,7 +13055,7 @@
       "printedHeight": 175.9660789844852
     },
     {
-      "sequence": 388,
+      "sequence": 391,
       "id": "national-radio-2013-02",
       "category": "ch06",
       "page": 108,
@@ -12989,7 +13088,7 @@
       "printedHeight": 89.56026726726725
     },
     {
-      "sequence": 389,
+      "sequence": 392,
       "id": "national-radio-2013-07",
       "category": "ch06",
       "page": 109,
@@ -13028,7 +13127,7 @@
       "printedHeight": 100.11132765957444
     },
     {
-      "sequence": 390,
+      "sequence": 393,
       "id": "national-radio-2013-08",
       "category": "ch06",
       "page": 109,
@@ -13067,7 +13166,7 @@
       "printedHeight": 122.3383215796897
     },
     {
-      "sequence": 391,
+      "sequence": 394,
       "id": "national-radio-2013-09",
       "category": "ch06",
       "page": 109,
@@ -13106,7 +13205,7 @@
       "printedHeight": 107.37467705382437
     },
     {
-      "sequence": 392,
+      "sequence": 395,
       "id": "national-radio-2013-10",
       "category": "ch06",
       "page": 109,
@@ -13139,7 +13238,7 @@
       "printedHeight": 153.17428208744707
     },
     {
-      "sequence": 393,
+      "sequence": 396,
       "id": "national-radio-2013-11",
       "category": "ch06",
       "page": 110,
@@ -13172,7 +13271,7 @@
       "printedHeight": 107.0380793201133
     },
     {
-      "sequence": 394,
+      "sequence": 397,
       "id": "national-radio-2013-20",
       "category": "ch06",
       "page": 110,
@@ -13205,7 +13304,7 @@
       "printedHeight": 92.63854237288137
     },
     {
-      "sequence": 395,
+      "sequence": 398,
       "id": "seoul-2014-06",
       "category": "ch06",
       "page": 110,
@@ -13238,7 +13337,7 @@
       "printedHeight": 171.48116066481992
     },
     {
-      "sequence": 396,
+      "sequence": 399,
       "id": "seoul-2014-19",
       "category": "ch06",
       "page": 110,
@@ -13271,7 +13370,7 @@
       "printedHeight": 115.49073669467782
     },
     {
-      "sequence": 397,
+      "sequence": 400,
       "id": "national-radio-2014-02",
       "category": "ch06",
       "page": 111,
@@ -13304,7 +13403,7 @@
       "printedHeight": 82.08009351432878
     },
     {
-      "sequence": 398,
+      "sequence": 401,
       "id": "national-radio-2014-03",
       "category": "ch06",
       "page": 111,
@@ -13337,7 +13436,7 @@
       "printedHeight": 115.25086186186184
     },
     {
-      "sequence": 399,
+      "sequence": 402,
       "id": "national-radio-2014-12",
       "category": "ch06",
       "page": 111,
@@ -13370,7 +13469,7 @@
       "printedHeight": 103.56860648801126
     },
     {
-      "sequence": 400,
+      "sequence": 403,
       "id": "national-radio-2014-13",
       "category": "ch06",
       "page": 111,
@@ -13403,7 +13502,7 @@
       "printedHeight": 108.5382070921986
     },
     {
-      "sequence": 401,
+      "sequence": 404,
       "id": "national-radio-2014-16",
       "category": "ch06",
       "page": 112,
@@ -13436,7 +13535,7 @@
       "printedHeight": 171.23419007092195
     },
     {
-      "sequence": 402,
+      "sequence": 405,
       "id": "seoul-2015-02",
       "category": "ch06",
       "page": 112,
@@ -13469,7 +13568,7 @@
       "printedHeight": 86.26358553546595
     },
     {
-      "sequence": 403,
+      "sequence": 406,
       "id": "national-radio-2015-03",
       "category": "ch06",
       "page": 112,
@@ -13502,7 +13601,7 @@
       "printedHeight": 94.2725598802395
     },
     {
-      "sequence": 404,
+      "sequence": 407,
       "id": "national-radio-2015-04",
       "category": "ch06",
       "page": 112,
@@ -13535,7 +13634,7 @@
       "printedHeight": 110.09016791604199
     },
     {
-      "sequence": 405,
+      "sequence": 408,
       "id": "national-radio-2015-11",
       "category": "ch06",
       "page": 113,
@@ -13568,7 +13667,7 @@
       "printedHeight": 130.78516879432624
     },
     {
-      "sequence": 406,
+      "sequence": 409,
       "id": "national-radio-2015-13",
       "category": "ch06",
       "page": 113,
@@ -13601,7 +13700,7 @@
       "printedHeight": 76.61165373134327
     },
     {
-      "sequence": 407,
+      "sequence": 410,
       "id": "national-radio-2015-16",
       "category": "ch06",
       "page": 113,
@@ -13634,7 +13733,7 @@
       "printedHeight": 116.13382485875704
     },
     {
-      "sequence": 408,
+      "sequence": 411,
       "id": "national-radio-2015-18",
       "category": "ch06",
       "page": 113,
@@ -13667,7 +13766,7 @@
       "printedHeight": 102.0839295774648
     },
     {
-      "sequence": 409,
+      "sequence": 412,
       "id": "national-radio-2016-01",
       "category": "ch06",
       "page": 114,
@@ -13700,7 +13799,7 @@
       "printedHeight": 84.2306636500754
     },
     {
-      "sequence": 410,
+      "sequence": 413,
       "id": "national-radio-2016-02",
       "category": "ch06",
       "page": 114,
@@ -13733,7 +13832,7 @@
       "printedHeight": 70.91999999999996
     },
     {
-      "sequence": 411,
+      "sequence": 414,
       "id": "national-radio-2016-04",
       "category": "ch06",
       "page": 114,
@@ -13766,7 +13865,7 @@
       "printedHeight": 70.92000000000002
     },
     {
-      "sequence": 412,
+      "sequence": 415,
       "id": "national-radio-2016-13",
       "category": "ch06",
       "page": 114,
@@ -13799,7 +13898,7 @@
       "printedHeight": 74.88
     },
     {
-      "sequence": 413,
+      "sequence": 416,
       "id": "national-radio-2016-18",
       "category": "ch06",
       "page": 115,
@@ -13832,7 +13931,7 @@
       "printedHeight": 107.92586177715089
     },
     {
-      "sequence": 414,
+      "sequence": 417,
       "id": "seoul-2017-07",
       "category": "ch06",
       "page": 115,
@@ -13865,7 +13964,7 @@
       "printedHeight": 94.13361218836565
     },
     {
-      "sequence": 415,
+      "sequence": 418,
       "id": "national-radio-2017-04",
       "category": "ch06",
       "page": 115,
@@ -13898,7 +13997,7 @@
       "printedHeight": 79.0933704819277
     },
     {
-      "sequence": 416,
+      "sequence": 419,
       "id": "national-radio-2017-10",
       "category": "ch06",
       "page": 115,
@@ -13931,7 +14030,7 @@
       "printedHeight": 136.0804344146685
     },
     {
-      "sequence": 417,
+      "sequence": 420,
       "id": "national-radio-2017-11",
       "category": "ch06",
       "page": 116,
@@ -13964,7 +14063,7 @@
       "printedHeight": 91.3473730496454
     },
     {
-      "sequence": 418,
+      "sequence": 421,
       "id": "national-radio-2017-12",
       "category": "ch06",
       "page": 116,
@@ -13997,7 +14096,7 @@
       "printedHeight": 102.47085390070924
     },
     {
-      "sequence": 419,
+      "sequence": 422,
       "id": "national-radio-2017-17",
       "category": "ch06",
       "page": 116,
@@ -14030,7 +14129,7 @@
       "printedHeight": 105.01849291784703
     },
     {
-      "sequence": 420,
+      "sequence": 423,
       "id": "seoul-2018-16",
       "category": "ch06",
       "page": 116,
@@ -14063,7 +14162,7 @@
       "printedHeight": 186.92863598326358
     },
     {
-      "sequence": 421,
+      "sequence": 424,
       "id": "seoul-2018-20",
       "category": "ch06",
       "page": 117,
@@ -14096,7 +14195,7 @@
       "printedHeight": 157.21681830790567
     },
     {
-      "sequence": 422,
+      "sequence": 425,
       "id": "national-radio-2018-01",
       "category": "ch06",
       "page": 117,
@@ -14129,7 +14228,7 @@
       "printedHeight": 79.55999999999995
     },
     {
-      "sequence": 423,
+      "sequence": 426,
       "id": "national-radio-2018-02",
       "category": "ch06",
       "page": 117,
@@ -14162,7 +14261,7 @@
       "printedHeight": 94.2725598802395
     },
     {
-      "sequence": 424,
+      "sequence": 427,
       "id": "national-radio-2018-10",
       "category": "ch06",
       "page": 117,
@@ -14195,7 +14294,7 @@
       "printedHeight": 114.26848510638297
     },
     {
-      "sequence": 425,
+      "sequence": 428,
       "id": "national-radio-2018-15",
       "category": "ch06",
       "page": 118,
@@ -14228,7 +14327,7 @@
       "printedHeight": 85.95417021276594
     },
     {
-      "sequence": 426,
+      "sequence": 429,
       "id": "national-radio-2019-01",
       "category": "ch06",
       "page": 118,
@@ -14261,7 +14360,7 @@
       "printedHeight": 104.66107993966818
     },
     {
-      "sequence": 427,
+      "sequence": 430,
       "id": "national-radio-2019-03",
       "category": "ch06",
       "page": 118,
@@ -14294,7 +14393,7 @@
       "printedHeight": 75.02468580060423
     },
     {
-      "sequence": 428,
+      "sequence": 431,
       "id": "national-radio-2019-04",
       "category": "ch06",
       "page": 118,
@@ -14327,7 +14426,7 @@
       "printedHeight": 107.20511278195488
     },
     {
-      "sequence": 429,
+      "sequence": 432,
       "id": "national-radio-2019-06",
       "category": "ch06",
       "page": 119,
@@ -14366,7 +14465,7 @@
       "printedHeight": 93.64548305084745
     },
     {
-      "sequence": 430,
+      "sequence": 433,
       "id": "national-radio-2019-08",
       "category": "ch06",
       "page": 119,
@@ -14405,7 +14504,7 @@
       "printedHeight": 108.5962087447108
     },
     {
-      "sequence": 431,
+      "sequence": 434,
       "id": "national-radio-2019-17",
       "category": "ch06",
       "page": 119,
@@ -14438,7 +14537,7 @@
       "printedHeight": 151.49841466854724
     },
     {
-      "sequence": 432,
+      "sequence": 435,
       "id": "national-radio-2019-20",
       "category": "ch06",
       "page": 119,
@@ -14471,7 +14570,7 @@
       "printedHeight": 91.08896463932103
     },
     {
-      "sequence": 433,
+      "sequence": 436,
       "id": "seoul-2020-13",
       "category": "ch06",
       "page": 120,
@@ -14504,7 +14603,7 @@
       "printedHeight": 45.53343496503496
     },
     {
-      "sequence": 434,
+      "sequence": 437,
       "id": "seoul-2020-18",
       "category": "ch06",
       "page": 120,
@@ -14537,7 +14636,7 @@
       "printedHeight": 187.46997777777779
     },
     {
-      "sequence": 435,
+      "sequence": 438,
       "id": "national-radio-2020-02",
       "category": "ch06",
       "page": 120,
@@ -14570,7 +14669,7 @@
       "printedHeight": 72.07639039039037
     },
     {
-      "sequence": 436,
+      "sequence": 439,
       "id": "national-radio-2020-08",
       "category": "ch06",
       "page": 120,
@@ -14609,7 +14708,7 @@
       "printedHeight": 127.7010973201692
     },
     {
-      "sequence": 437,
+      "sequence": 440,
       "id": "national-radio-2020-12",
       "category": "ch06",
       "page": 121,
@@ -14642,7 +14741,7 @@
       "printedHeight": 77.86436595744681
     },
     {
-      "sequence": 438,
+      "sequence": 441,
       "id": "seoul-2021-11",
       "category": "ch06",
       "page": 121,
@@ -14675,7 +14774,7 @@
       "printedHeight": 93.99608913649024
     },
     {
-      "sequence": 439,
+      "sequence": 442,
       "id": "seoul-2021-13",
       "category": "ch06",
       "page": 121,
@@ -14708,7 +14807,7 @@
       "printedHeight": 125.09000277777778
     },
     {
-      "sequence": 440,
+      "sequence": 443,
       "id": "national-radio-2021-03",
       "category": "ch06",
       "page": 121,
@@ -14741,7 +14840,7 @@
       "printedHeight": 49.31999999999999
     },
     {
-      "sequence": 441,
+      "sequence": 444,
       "id": "national-radio-2021-05",
       "category": "ch06",
       "page": 122,
@@ -14774,7 +14873,7 @@
       "printedHeight": 164.847981981982
     },
     {
-      "sequence": 442,
+      "sequence": 445,
       "id": "national-radio-2021-13",
       "category": "ch06",
       "page": 122,
@@ -14807,7 +14906,7 @@
       "printedHeight": 119.99876312056733
     },
     {
-      "sequence": 443,
+      "sequence": 446,
       "id": "national-radio-2021-19",
       "category": "ch06",
       "page": 122,
@@ -14840,7 +14939,7 @@
       "printedHeight": 133.39904654442876
     },
     {
-      "sequence": 444,
+      "sequence": 447,
       "id": "local-2022-14",
       "category": "ch06",
       "page": 122,
@@ -14873,7 +14972,7 @@
       "printedHeight": 148.62971224732462
     },
     {
-      "sequence": 445,
+      "sequence": 448,
       "id": "local-2022-18",
       "category": "ch06",
       "page": 123,
@@ -14906,7 +15005,7 @@
       "printedHeight": 130.03369653524493
     },
     {
-      "sequence": 446,
+      "sequence": 449,
       "id": "national-radio-2022-02",
       "category": "ch06",
       "page": 123,
@@ -14939,7 +15038,7 @@
       "printedHeight": 114.81696631823456
     },
     {
-      "sequence": 447,
+      "sequence": 450,
       "id": "national-radio-2022-05",
       "category": "ch06",
       "page": 123,
@@ -14972,7 +15071,7 @@
       "printedHeight": 82.83055288461537
     },
     {
-      "sequence": 448,
+      "sequence": 451,
       "id": "national-radio-2022-12",
       "category": "ch06",
       "page": 123,
@@ -15005,7 +15104,7 @@
       "printedHeight": 101.01685017421596
     },
     {
-      "sequence": 449,
+      "sequence": 452,
       "id": "national-radio-2022-14",
       "category": "ch06",
       "page": 124,
@@ -15038,7 +15137,7 @@
       "printedHeight": 152.82629200463498
     },
     {
-      "sequence": 450,
+      "sequence": 453,
       "id": "national-radio-2022-20",
       "category": "ch06",
       "page": 124,
@@ -15071,7 +15170,7 @@
       "printedHeight": 128.72058333333325
     },
     {
-      "sequence": 451,
+      "sequence": 454,
       "id": "local-2023-13",
       "category": "ch06",
       "page": 124,
@@ -15104,7 +15203,7 @@
       "printedHeight": 79.48866898954702
     },
     {
-      "sequence": 452,
+      "sequence": 455,
       "id": "national-radio-2023-02",
       "category": "ch06",
       "page": 124,
@@ -15137,7 +15236,7 @@
       "printedHeight": 115.62269941520469
     },
     {
-      "sequence": 453,
+      "sequence": 456,
       "id": "national-radio-2023-03",
       "category": "ch06",
       "page": 125,
@@ -15170,7 +15269,7 @@
       "printedHeight": 115.47982435597189
     },
     {
-      "sequence": 454,
+      "sequence": 457,
       "id": "national-radio-2023-04",
       "category": "ch06",
       "page": 125,
@@ -15203,7 +15302,7 @@
       "printedHeight": 100.89192280701752
     },
     {
-      "sequence": 455,
+      "sequence": 458,
       "id": "national-radio-2023-15",
       "category": "ch06",
       "page": 125,
@@ -15236,7 +15335,7 @@
       "printedHeight": 57.61756612529001
     },
     {
-      "sequence": 456,
+      "sequence": 459,
       "id": "local-2024-08",
       "category": "ch06",
       "page": 125,
@@ -15269,7 +15368,7 @@
       "printedHeight": 90.92721596244132
     },
     {
-      "sequence": 457,
+      "sequence": 460,
       "id": "local-2024-16",
       "category": "ch06",
       "page": 126,
@@ -15302,7 +15401,7 @@
       "printedHeight": 90.21442592592592
     },
     {
-      "sequence": 458,
+      "sequence": 461,
       "id": "local-2024-19",
       "category": "ch06",
       "page": 126,
@@ -15335,7 +15434,7 @@
       "printedHeight": 128.14889838337183
     },
     {
-      "sequence": 459,
+      "sequence": 462,
       "id": "national-radio-2024-04",
       "category": "ch06",
       "page": 126,
@@ -15368,7 +15467,7 @@
       "printedHeight": 83.88
     },
     {
-      "sequence": 460,
+      "sequence": 463,
       "id": "national-radio-2024-16",
       "category": "ch06",
       "page": 126,
@@ -15401,7 +15500,7 @@
       "printedHeight": 122.12718561484917
     },
     {
-      "sequence": 461,
+      "sequence": 464,
       "id": "national-radio-2024-20",
       "category": "ch06",
       "page": 127,
@@ -15434,7 +15533,7 @@
       "printedHeight": 103.14149305555554
     },
     {
-      "sequence": 462,
+      "sequence": 465,
       "id": "local-2025-08",
       "category": "ch06",
       "page": 127,
@@ -15467,7 +15566,7 @@
       "printedHeight": 91.42073647058828
     },
     {
-      "sequence": 463,
+      "sequence": 466,
       "id": "local-2025-10",
       "category": "ch06",
       "page": 127,
@@ -15500,7 +15599,7 @@
       "printedHeight": 149.1440348027842
     },
     {
-      "sequence": 464,
+      "sequence": 467,
       "id": "national-radio-2025-02",
       "category": "ch06",
       "page": 127,
@@ -15533,7 +15632,7 @@
       "printedHeight": 78.18514386792447
     },
     {
-      "sequence": 465,
+      "sequence": 468,
       "id": "national-radio-2025-03",
       "category": "ch06",
       "page": 128,
@@ -15566,7 +15665,7 @@
       "printedHeight": 78.65285983510012
     },
     {
-      "sequence": 466,
+      "sequence": 469,
       "id": "national-radio-2025-11",
       "category": "ch06",
       "page": 128,
@@ -15599,7 +15698,7 @@
       "printedHeight": 83.51999999999998
     },
     {
-      "sequence": 467,
+      "sequence": 470,
       "id": "national-radio-2025-14",
       "category": "ch06",
       "page": 128,
@@ -15632,7 +15731,7 @@
       "printedHeight": 103.10511832946634
     },
     {
-      "sequence": 468,
+      "sequence": 471,
       "id": "national-radio-2025-16",
       "category": "ch06",
       "page": 128,
@@ -15665,7 +15764,7 @@
       "printedHeight": 72.03017098445594
     },
     {
-      "sequence": 469,
+      "sequence": 472,
       "id": "national-radio-2025-19",
       "category": "ch06",
       "page": 129,
@@ -15698,7 +15797,7 @@
       "printedHeight": 90.14805800464035
     },
     {
-      "sequence": 470,
+      "sequence": 473,
       "id": "local-2026-04",
       "category": "ch06",
       "page": 129,
@@ -15731,7 +15830,7 @@
       "printedHeight": 104.47157092614304
     },
     {
-      "sequence": 471,
+      "sequence": 474,
       "id": "local-2026-08",
       "category": "ch06",
       "page": 129,
@@ -15764,7 +15863,7 @@
       "printedHeight": 78.56032705882353
     },
     {
-      "sequence": 472,
+      "sequence": 475,
       "id": "local-2026-16",
       "category": "ch06",
       "page": 129,
@@ -15797,7 +15896,7 @@
       "printedHeight": 77.37691541135575
     },
     {
-      "sequence": 473,
+      "sequence": 476,
       "id": "national-radio-2026-03",
       "category": "ch06",
       "page": 130,
@@ -15830,7 +15929,7 @@
       "printedHeight": 65.85487028301884
     },
     {
-      "sequence": 474,
+      "sequence": 477,
       "id": "national-radio-2026-11",
       "category": "ch06",
       "page": 130,
@@ -15863,7 +15962,7 @@
       "printedHeight": 87.76873867595816
     },
     {
-      "sequence": 475,
+      "sequence": 478,
       "id": "national-radio-2026-17",
       "category": "ch06",
       "page": 130,
@@ -15896,7 +15995,7 @@
       "printedHeight": 77.55665272938444
     },
     {
-      "sequence": 476,
+      "sequence": 479,
       "id": "national-radio-2026-19",
       "category": "ch06",
       "page": 130,
@@ -15929,7 +16028,7 @@
       "printedHeight": 102.90329099307155
     },
     {
-      "sequence": 477,
+      "sequence": 480,
       "id": "national-radio-2026-20",
       "category": "ch06",
       "page": 131,
@@ -15962,7 +16061,7 @@
       "printedHeight": 77.10155272305911
     },
     {
-      "sequence": 478,
+      "sequence": 481,
       "id": "local-2009-01",
       "category": "ch07",
       "page": 133,
@@ -15995,7 +16094,7 @@
       "printedHeight": 73.52183777520278
     },
     {
-      "sequence": 479,
+      "sequence": 482,
       "id": "local-2009-02",
       "category": "ch07",
       "page": 133,
@@ -16028,7 +16127,7 @@
       "printedHeight": 51.94877209302325
     },
     {
-      "sequence": 480,
+      "sequence": 483,
       "id": "national-radio-2009-07",
       "category": "ch07",
       "page": 133,
@@ -16061,7 +16160,7 @@
       "printedHeight": 82.779859602649
     },
     {
-      "sequence": 481,
+      "sequence": 484,
       "id": "local-2010-04",
       "category": "ch07",
       "page": 133,
@@ -16094,7 +16193,7 @@
       "printedHeight": 119.64413194444444
     },
     {
-      "sequence": 482,
+      "sequence": 485,
       "id": "local-2011-18",
       "category": "ch07",
       "page": 134,
@@ -16127,7 +16226,7 @@
       "printedHeight": 66.21596322489393
     },
     {
-      "sequence": 483,
+      "sequence": 486,
       "id": "national-radio-2011-05",
       "category": "ch07",
       "page": 134,
@@ -16166,7 +16265,7 @@
       "printedHeight": 131.89872769409044
     },
     {
-      "sequence": 484,
+      "sequence": 487,
       "id": "national-radio-2011-12",
       "category": "ch07",
       "page": 134,
@@ -16199,7 +16298,7 @@
       "printedHeight": 55.2646511627907
     },
     {
-      "sequence": 485,
+      "sequence": 488,
       "id": "national-radio-2012-07",
       "category": "ch07",
       "page": 134,
@@ -16232,7 +16331,7 @@
       "printedHeight": 73.06781946403385
     },
     {
-      "sequence": 486,
+      "sequence": 489,
       "id": "national-radio-2012-11",
       "category": "ch07",
       "page": 135,
@@ -16265,7 +16364,7 @@
       "printedHeight": 162.8943131170663
     },
     {
-      "sequence": 487,
+      "sequence": 490,
       "id": "seoul-2014-01",
       "category": "ch07",
       "page": 135,
@@ -16298,7 +16397,7 @@
       "printedHeight": 116.15638935574225
     },
     {
-      "sequence": 488,
+      "sequence": 491,
       "id": "national-radio-2014-07",
       "category": "ch07",
       "page": 135,
@@ -16337,7 +16436,7 @@
       "printedHeight": 103.67210198300282
     },
     {
-      "sequence": 489,
+      "sequence": 492,
       "id": "national-radio-2014-20",
       "category": "ch07",
       "page": 135,
@@ -16370,7 +16469,7 @@
       "printedHeight": 146.88515700141443
     },
     {
-      "sequence": 490,
+      "sequence": 493,
       "id": "seoul-2015-10",
       "category": "ch07",
       "page": 136,
@@ -16403,7 +16502,7 @@
       "printedHeight": 87.07853986013987
     },
     {
-      "sequence": 491,
+      "sequence": 494,
       "id": "national-radio-2015-15",
       "category": "ch07",
       "page": 136,
@@ -16436,8 +16535,8 @@
       "printedHeight": 131.12224397163118
     },
     {
-      "sequence": 492,
-      "id": "national-radio-2016-15",
+      "sequence": 495,
+      "id": "seoul-2017-10",
       "category": "ch07",
       "page": 136,
       "column": 1,
@@ -16448,40 +16547,7 @@
         309.638,
         104.0,
         547.276,
-        175.15521776504298
-      ],
-      "originalNumberMasks": [
-        [
-          13.312459373474121,
-          556.9387817382812,
-          42.756989288330075,
-          567.76806640625
-        ]
-      ],
-      "answers": [
-        1
-      ],
-      "imageSize": [
-        698,
-        209
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 71.15521776504298
-    },
-    {
-      "sequence": 493,
-      "id": "seoul-2017-10",
-      "category": "ch07",
-      "page": 136,
-      "column": 1,
-      "row": 1,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        309.638,
-        454.0,
-        547.276,
-        584.9163319386332
+        234.9163319386332
       ],
       "originalNumberMasks": [
         [
@@ -16499,54 +16565,21 @@
         395
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 130.91633193863322
+      "printedHeight": 130.9163319386332
     },
     {
-      "sequence": 494,
-      "id": "national-radio-2017-15",
-      "category": "ch07",
-      "page": 137,
-      "column": 0,
-      "row": 0,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        36.0,
-        104.0,
-        273.638,
-        235.45931914893615
-      ],
-      "originalNumberMasks": [
-        [
-          13.312459373474121,
-          443.542724609375,
-          42.756989288330075,
-          454.3719787597656
-        ]
-      ],
-      "answers": [
-        3
-      ],
-      "imageSize": [
-        705,
-        390
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 131.45931914893615
-    },
-    {
-      "sequence": 495,
+      "sequence": 496,
       "id": "national-radio-2017-16",
       "category": "ch07",
-      "page": 137,
-      "column": 0,
+      "page": 136,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         628.2678666666666
       ],
       "originalNumberMasks": [
@@ -16568,18 +16601,18 @@
       "printedHeight": 174.26786666666658
     },
     {
-      "sequence": 496,
+      "sequence": 497,
       "id": "national-radio-2018-04",
       "category": "ch07",
       "page": 137,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         245.16406567164177
       ],
       "originalNumberMasks": [
@@ -16601,18 +16634,18 @@
       "printedHeight": 141.16406567164177
     },
     {
-      "sequence": 497,
+      "sequence": 498,
       "id": "national-radio-2019-07",
       "category": "ch07",
       "page": 137,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         547.5134019746122
       ],
       "originalNumberMasks": [
@@ -16640,18 +16673,18 @@
       "printedHeight": 93.51340197461218
     },
     {
-      "sequence": 498,
+      "sequence": 499,
       "id": "national-radio-2020-07",
       "category": "ch07",
-      "page": 138,
-      "column": 0,
+      "page": 137,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         181.76024823695343
       ],
       "originalNumberMasks": [
@@ -16679,18 +16712,18 @@
       "printedHeight": 77.76024823695343
     },
     {
-      "sequence": 499,
+      "sequence": 500,
       "id": "seoul-2021-07",
       "category": "ch07",
-      "page": 138,
-      "column": 0,
+      "page": 137,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         532.0058254847645
       ],
       "originalNumberMasks": [
@@ -16712,18 +16745,18 @@
       "printedHeight": 78.0058254847645
     },
     {
-      "sequence": 500,
+      "sequence": 501,
       "id": "seoul-2021-08",
       "category": "ch07",
       "page": 138,
-      "column": 1,
+      "column": 0,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         104.0,
-        547.276,
+        273.638,
         229.07263157894738
       ],
       "originalNumberMasks": [
@@ -16745,18 +16778,18 @@
       "printedHeight": 125.07263157894738
     },
     {
-      "sequence": 501,
+      "sequence": 502,
       "id": "local-2022-07",
       "category": "ch07",
       "page": 138,
-      "column": 1,
+      "column": 0,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
+        36.0,
         454.0,
-        547.276,
+        273.638,
         621.5616337693223
       ],
       "originalNumberMasks": [
@@ -16778,18 +16811,18 @@
       "printedHeight": 167.56163376932227
     },
     {
-      "sequence": 502,
+      "sequence": 503,
       "id": "national-radio-2022-10",
       "category": "ch07",
-      "page": 139,
-      "column": 0,
+      "page": 138,
+      "column": 1,
       "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         104.0,
-        273.638,
+        547.276,
         227.76979166666666
       ],
       "originalNumberMasks": [
@@ -16811,18 +16844,18 @@
       "printedHeight": 123.76979166666666
     },
     {
-      "sequence": 503,
+      "sequence": 504,
       "id": "local-2023-15",
       "category": "ch07",
-      "page": 139,
-      "column": 0,
+      "page": 138,
+      "column": 1,
       "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
+        309.638,
         454.0,
-        273.638,
+        547.276,
         615.1757731481481
       ],
       "originalNumberMasks": [
@@ -16844,52 +16877,19 @@
       "printedHeight": 161.1757731481481
     },
     {
-      "sequence": 504,
-      "id": "national-radio-2024-07",
-      "category": "ch07",
-      "page": 139,
-      "column": 1,
-      "row": 0,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        309.638,
-        104.0,
-        547.276,
-        182.3759131455399
-      ],
-      "originalNumberMasks": [
-        [
-          376.40961303710935,
-          629.2235717773438,
-          392.17896728515626,
-          641.2665405273438
-        ]
-      ],
-      "answers": [
-        1
-      ],
-      "imageSize": [
-        852,
-        281
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 78.3759131455399
-    },
-    {
       "sequence": 505,
       "id": "local-2025-06",
       "category": "ch07",
       "page": 139,
-      "column": 1,
-      "row": 1,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        545.2485135453475
+        36.0,
+        104.0,
+        273.63800000000003,
+        195.24851354534746
       ],
       "originalNumberMasks": [
         [
@@ -16906,47 +16906,14 @@
         849,
         326
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63800000000003,
       "printedHeight": 91.24851354534746
     },
     {
       "sequence": 506,
-      "id": "national-radio-2025-04",
-      "category": "ch07",
-      "page": 140,
-      "column": 0,
-      "row": 0,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        36.0,
-        104.0,
-        273.6379999999999,
-        290.9157382075472
-      ],
-      "originalNumberMasks": [
-        [
-          22.303573989868163,
-          686.54150390625,
-          38.07291107177734,
-          698.58447265625
-        ]
-      ],
-      "answers": [
-        4
-      ],
-      "imageSize": [
-        848,
-        667
-      ],
-      "printedWidth": 237.63799999999992,
-      "printedHeight": 186.91573820754718
-    },
-    {
-      "sequence": 507,
       "id": "national-radio-2025-09",
       "category": "ch07",
-      "page": 140,
+      "page": 139,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -16976,10 +16943,10 @@
       "printedHeight": 112.52117314487634
     },
     {
-      "sequence": 508,
+      "sequence": 507,
       "id": "national-radio-2026-10",
       "category": "ch07",
-      "page": 140,
+      "page": 139,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17009,10 +16976,10 @@
       "printedHeight": 89.8354057803468
     },
     {
-      "sequence": 509,
+      "sequence": 508,
       "id": "local-2009-08",
       "category": "ch08",
-      "page": 142,
+      "page": 141,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17042,10 +17009,10 @@
       "printedHeight": 134.9277172653534
     },
     {
-      "sequence": 510,
+      "sequence": 509,
       "id": "seoul-2017-17",
       "category": "ch08",
-      "page": 142,
+      "page": 141,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17075,10 +17042,10 @@
       "printedHeight": 158.09389958159
     },
     {
-      "sequence": 511,
+      "sequence": 510,
       "id": "seoul-2015-04",
       "category": "ch08",
-      "page": 142,
+      "page": 141,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17108,10 +17075,10 @@
       "printedHeight": 120.13921111111108
     },
     {
-      "sequence": 512,
+      "sequence": 511,
       "id": "seoul-2020-20",
       "category": "ch08",
-      "page": 142,
+      "page": 141,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17141,10 +17108,10 @@
       "printedHeight": 160.2982336578582
     },
     {
-      "sequence": 513,
+      "sequence": 512,
       "id": "local-2022-16",
       "category": "ch08",
-      "page": 143,
+      "page": 142,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17174,10 +17141,10 @@
       "printedHeight": 94.94217360285373
     },
     {
-      "sequence": 514,
+      "sequence": 513,
       "id": "local-2024-17",
       "category": "ch08",
-      "page": 143,
+      "page": 142,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17207,10 +17174,10 @@
       "printedHeight": 76.91531554524363
     },
     {
-      "sequence": 515,
+      "sequence": 514,
       "id": "local-2025-19",
       "category": "ch08",
-      "page": 143,
+      "page": 142,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17240,10 +17207,10 @@
       "printedHeight": 224.95662180974477
     },
     {
-      "sequence": 516,
+      "sequence": 515,
       "id": "local-2026-11",
       "category": "ch08",
-      "page": 143,
+      "page": 142,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17273,10 +17240,10 @@
       "printedHeight": 78.56940835266823
     },
     {
-      "sequence": 517,
+      "sequence": 516,
       "id": "local-2011-14",
       "category": "ch08",
-      "page": 144,
+      "page": 143,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17306,10 +17273,10 @@
       "printedHeight": 43.56
     },
     {
-      "sequence": 518,
+      "sequence": 517,
       "id": "seoul-2014-12",
       "category": "ch08",
-      "page": 144,
+      "page": 143,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17339,10 +17306,10 @@
       "printedHeight": 72.65790182328192
     },
     {
-      "sequence": 519,
+      "sequence": 518,
       "id": "seoul-2018-14",
       "category": "ch08",
-      "page": 144,
+      "page": 143,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17373,10 +17340,10 @@
       "printedHeight": 72.5561400560224
     },
     {
-      "sequence": 520,
+      "sequence": 519,
       "id": "seoul-2019-05",
       "category": "ch08",
-      "page": 144,
+      "page": 143,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17406,10 +17373,10 @@
       "printedHeight": 111.73270735090148
     },
     {
-      "sequence": 521,
+      "sequence": 520,
       "id": "seoul-2019-10",
       "category": "ch08",
-      "page": 145,
+      "page": 144,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17439,10 +17406,10 @@
       "printedHeight": 198.6917722222222
     },
     {
-      "sequence": 522,
+      "sequence": 521,
       "id": "local-2023-17",
       "category": "ch08",
-      "page": 145,
+      "page": 144,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17472,10 +17439,10 @@
       "printedHeight": 92.90487935034798
     },
     {
-      "sequence": 523,
+      "sequence": 522,
       "id": "seoul-2015-14",
       "category": "ch08",
-      "page": 145,
+      "page": 144,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17505,10 +17472,10 @@
       "printedHeight": 134.41814245810056
     },
     {
-      "sequence": 524,
+      "sequence": 523,
       "id": "seoul-2017-18",
       "category": "ch08",
-      "page": 145,
+      "page": 144,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17538,10 +17505,10 @@
       "printedHeight": 159.08820083682008
     },
     {
-      "sequence": 525,
+      "sequence": 524,
       "id": "national-radio-2010-20",
       "category": "ch08",
-      "page": 146,
+      "page": 145,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17571,10 +17538,10 @@
       "printedHeight": 80.08633578431372
     },
     {
-      "sequence": 526,
+      "sequence": 525,
       "id": "local-2011-06",
       "category": "ch08",
-      "page": 146,
+      "page": 145,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17604,10 +17571,10 @@
       "printedHeight": 155.82819672131143
     },
     {
-      "sequence": 527,
+      "sequence": 526,
       "id": "national-radio-2011-06",
       "category": "ch08",
-      "page": 146,
+      "page": 145,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17643,10 +17610,10 @@
       "printedHeight": 72.67301627906977
     },
     {
-      "sequence": 528,
+      "sequence": 527,
       "id": "seoul-2014-02",
       "category": "ch08",
-      "page": 146,
+      "page": 145,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17676,10 +17643,10 @@
       "printedHeight": 100.61553203342612
     },
     {
-      "sequence": 529,
+      "sequence": 528,
       "id": "seoul-2014-10",
       "category": "ch08",
-      "page": 147,
+      "page": 146,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17709,10 +17676,10 @@
       "printedHeight": 73.09371067415731
     },
     {
-      "sequence": 530,
+      "sequence": 529,
       "id": "national-radio-2014-09",
       "category": "ch08",
-      "page": 147,
+      "page": 146,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17748,10 +17715,10 @@
       "printedHeight": 88.82097320169248
     },
     {
-      "sequence": 531,
+      "sequence": 530,
       "id": "seoul-2016-06",
       "category": "ch08",
-      "page": 147,
+      "page": 146,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17781,10 +17748,10 @@
       "printedHeight": 153.92086823855755
     },
     {
-      "sequence": 532,
+      "sequence": 531,
       "id": "national-radio-2018-11",
       "category": "ch08",
-      "page": 147,
+      "page": 146,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17814,10 +17781,10 @@
       "printedHeight": 85.95417021276592
     },
     {
-      "sequence": 533,
+      "sequence": 532,
       "id": "seoul-2021-05",
       "category": "ch08",
-      "page": 148,
+      "page": 147,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17847,10 +17814,10 @@
       "printedHeight": 109.88275208913649
     },
     {
-      "sequence": 534,
+      "sequence": 533,
       "id": "national-radio-2021-06",
       "category": "ch08",
-      "page": 148,
+      "page": 147,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -17886,10 +17853,10 @@
       "printedHeight": 101.98911331444754
     },
     {
-      "sequence": 535,
+      "sequence": 534,
       "id": "local-2022-04",
       "category": "ch08",
-      "page": 148,
+      "page": 147,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -17919,10 +17886,10 @@
       "printedHeight": 127.15469678953625
     },
     {
-      "sequence": 536,
+      "sequence": 535,
       "id": "local-2022-19",
       "category": "ch08",
-      "page": 148,
+      "page": 147,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -17952,10 +17919,10 @@
       "printedHeight": 100.59349346016643
     },
     {
-      "sequence": 537,
+      "sequence": 536,
       "id": "national-radio-2023-01",
       "category": "ch08",
-      "page": 149,
+      "page": 148,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -17985,10 +17952,10 @@
       "printedHeight": 101.7247570754717
     },
     {
-      "sequence": 538,
+      "sequence": 537,
       "id": "local-2024-07",
       "category": "ch08",
-      "page": 149,
+      "page": 148,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18018,10 +17985,10 @@
       "printedHeight": 104.15860634547585
     },
     {
-      "sequence": 539,
+      "sequence": 538,
       "id": "local-2025-02",
       "category": "ch08",
-      "page": 149,
+      "page": 148,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18051,10 +18018,10 @@
       "printedHeight": 91.24851354534746
     },
     {
-      "sequence": 540,
+      "sequence": 539,
       "id": "national-radio-2025-13",
       "category": "ch08",
-      "page": 149,
+      "page": 148,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18084,10 +18051,10 @@
       "printedHeight": 121.98567091541133
     },
     {
-      "sequence": 541,
+      "sequence": 540,
       "id": "local-2026-09",
       "category": "ch08",
-      "page": 150,
+      "page": 149,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18117,10 +18084,10 @@
       "printedHeight": 101.5260938967136
     },
     {
-      "sequence": 542,
+      "sequence": 541,
       "id": "local-2009-09",
       "category": "ch09",
-      "page": 152,
+      "page": 151,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18150,10 +18117,10 @@
       "printedHeight": 161.9132607184241
     },
     {
-      "sequence": 543,
+      "sequence": 542,
       "id": "local-2011-20",
       "category": "ch09",
-      "page": 152,
+      "page": 151,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18183,10 +18150,10 @@
       "printedHeight": 128.37144428772922
     },
     {
-      "sequence": 544,
+      "sequence": 543,
       "id": "seoul-2014-04",
       "category": "ch09",
-      "page": 152,
+      "page": 151,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18216,10 +18183,10 @@
       "printedHeight": 100.94650417827296
     },
     {
-      "sequence": 545,
+      "sequence": 544,
       "id": "seoul-2014-20",
       "category": "ch09",
-      "page": 152,
+      "page": 151,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18249,10 +18216,10 @@
       "printedHeight": 171.95749722222217
     },
     {
-      "sequence": 546,
+      "sequence": 545,
       "id": "seoul-2021-15",
       "category": "ch09",
-      "page": 153,
+      "page": 152,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18282,10 +18249,10 @@
       "printedHeight": 140.6024833333333
     },
     {
-      "sequence": 547,
+      "sequence": 546,
       "id": "local-2024-03",
       "category": "ch09",
-      "page": 153,
+      "page": 152,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18315,10 +18282,10 @@
       "printedHeight": 78.09305300353356
     },
     {
-      "sequence": 548,
+      "sequence": 547,
       "id": "local-2009-05",
       "category": "ch09",
-      "page": 153,
+      "page": 152,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18348,10 +18315,10 @@
       "printedHeight": 90.73953899883585
     },
     {
-      "sequence": 549,
+      "sequence": 548,
       "id": "seoul-2016-02",
       "category": "ch09",
-      "page": 153,
+      "page": 152,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18381,10 +18348,10 @@
       "printedHeight": 115.50927855153202
     },
     {
-      "sequence": 550,
+      "sequence": 549,
       "id": "seoul-2016-05",
       "category": "ch09",
-      "page": 154,
+      "page": 153,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18414,10 +18381,10 @@
       "printedHeight": 100.80610570236439
     },
     {
-      "sequence": 551,
+      "sequence": 550,
       "id": "seoul-2017-08",
       "category": "ch09",
-      "page": 154,
+      "page": 153,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18447,10 +18414,10 @@
       "printedHeight": 94.13361218836565
     },
     {
-      "sequence": 552,
+      "sequence": 551,
       "id": "seoul-2019-17",
       "category": "ch09",
-      "page": 154,
+      "page": 153,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18480,10 +18447,10 @@
       "printedHeight": 59.077603351955304
     },
     {
-      "sequence": 553,
+      "sequence": 552,
       "id": "seoul-2020-19",
       "category": "ch09",
-      "page": 154,
+      "page": 153,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18513,10 +18480,10 @@
       "printedHeight": 109.72992489568844
     },
     {
-      "sequence": 554,
+      "sequence": 553,
       "id": "local-2024-09",
       "category": "ch09",
-      "page": 155,
+      "page": 154,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18546,10 +18513,10 @@
       "printedHeight": 78.46537735849057
     },
     {
-      "sequence": 555,
+      "sequence": 554,
       "id": "seoul-2019-04",
       "category": "ch09",
-      "page": 155,
+      "page": 154,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18579,10 +18546,10 @@
       "printedHeight": 109.42554230235783
     },
     {
-      "sequence": 556,
+      "sequence": 555,
       "id": "seoul-2019-16",
       "category": "ch09",
-      "page": 155,
+      "page": 154,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18612,10 +18579,10 @@
       "printedHeight": 160.73570277777776
     },
     {
-      "sequence": 557,
+      "sequence": 556,
       "id": "local-2009-03",
       "category": "ch09",
-      "page": 155,
+      "page": 154,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18645,10 +18612,10 @@
       "printedHeight": 77.64683488372089
     },
     {
-      "sequence": 558,
+      "sequence": 557,
       "id": "local-2009-07",
       "category": "ch09",
-      "page": 156,
+      "page": 155,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18678,10 +18645,10 @@
       "printedHeight": 114.41829629629629
     },
     {
-      "sequence": 559,
+      "sequence": 558,
       "id": "local-2010-12",
       "category": "ch09",
-      "page": 156,
+      "page": 155,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18711,10 +18678,10 @@
       "printedHeight": 87.49273635307782
     },
     {
-      "sequence": 560,
+      "sequence": 559,
       "id": "national-radio-2012-05",
       "category": "ch09",
-      "page": 156,
+      "page": 155,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18744,10 +18711,10 @@
       "printedHeight": 78.84
     },
     {
-      "sequence": 561,
+      "sequence": 560,
       "id": "seoul-2014-09",
       "category": "ch09",
-      "page": 156,
+      "page": 155,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18777,10 +18744,10 @@
       "printedHeight": 72.05157719054239
     },
     {
-      "sequence": 562,
+      "sequence": 561,
       "id": "national-radio-2014-18",
       "category": "ch09",
-      "page": 157,
+      "page": 156,
       "column": 0,
       "row": 0,
       "fullColumn": true,
@@ -18810,10 +18777,10 @@
       "printedHeight": 322.8668185654008
     },
     {
-      "sequence": 563,
+      "sequence": 562,
       "id": "seoul-2015-19",
       "category": "ch09",
-      "page": 157,
+      "page": 156,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18843,10 +18810,10 @@
       "printedHeight": 152.57815877437326
     },
     {
-      "sequence": 564,
+      "sequence": 563,
       "id": "seoul-2016-03",
       "category": "ch09",
-      "page": 157,
+      "page": 156,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -18876,10 +18843,10 @@
       "printedHeight": 101.51526213592228
     },
     {
-      "sequence": 565,
+      "sequence": 564,
       "id": "seoul-2016-04",
       "category": "ch09",
-      "page": 158,
+      "page": 157,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -18909,10 +18876,10 @@
       "printedHeight": 125.07263157894738
     },
     {
-      "sequence": 566,
+      "sequence": 565,
       "id": "seoul-2017-09",
       "category": "ch09",
-      "page": 158,
+      "page": 157,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -18942,10 +18909,10 @@
       "printedHeight": 147.1249113573407
     },
     {
-      "sequence": 567,
+      "sequence": 566,
       "id": "seoul-2017-16",
       "category": "ch09",
-      "page": 158,
+      "page": 157,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -18975,10 +18942,10 @@
       "printedHeight": 87.95261173184358
     },
     {
-      "sequence": 568,
+      "sequence": 567,
       "id": "seoul-2018-03",
       "category": "ch09",
-      "page": 158,
+      "page": 157,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -19008,10 +18975,10 @@
       "printedHeight": 48.60000000000002
     },
     {
-      "sequence": 569,
+      "sequence": 568,
       "id": "seoul-2018-06",
       "category": "ch09",
-      "page": 159,
+      "page": 158,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19041,10 +19008,10 @@
       "printedHeight": 100.94650417827296
     },
     {
-      "sequence": 570,
+      "sequence": 569,
       "id": "seoul-2019-06",
       "category": "ch09",
-      "page": 159,
+      "page": 158,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19074,10 +19041,10 @@
       "printedHeight": 124.77649860724227
     },
     {
-      "sequence": 571,
+      "sequence": 570,
       "id": "seoul-2020-16",
       "category": "ch09",
-      "page": 159,
+      "page": 158,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -19107,10 +19074,10 @@
       "printedHeight": 62.55373537604456
     },
     {
-      "sequence": 572,
+      "sequence": 571,
       "id": "local-2022-02",
       "category": "ch09",
-      "page": 159,
+      "page": 158,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -19140,10 +19107,10 @@
       "printedHeight": 127.30607142857139
     },
     {
-      "sequence": 573,
+      "sequence": 572,
       "id": "local-2022-10",
       "category": "ch09",
-      "page": 160,
+      "page": 159,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19173,10 +19140,10 @@
       "printedHeight": 168.1267657550535
     },
     {
-      "sequence": 574,
+      "sequence": 573,
       "id": "national-radio-2022-01",
       "category": "ch09",
-      "page": 160,
+      "page": 159,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19206,10 +19173,10 @@
       "printedHeight": 96.71313953488368
     },
     {
-      "sequence": 575,
+      "sequence": 574,
       "id": "local-2025-05",
       "category": "ch09",
-      "page": 160,
+      "page": 159,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -19239,10 +19206,10 @@
       "printedHeight": 112.8010765606596
     },
     {
-      "sequence": 576,
+      "sequence": 575,
       "id": "local-2025-14",
       "category": "ch09",
-      "page": 160,
+      "page": 159,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -19272,10 +19239,10 @@
       "printedHeight": 89.87237587006962
     },
     {
-      "sequence": 577,
+      "sequence": 576,
       "id": "local-2026-12",
       "category": "ch09",
-      "page": 161,
+      "page": 160,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19305,10 +19272,10 @@
       "printedHeight": 76.91531554524363
     },
     {
-      "sequence": 578,
+      "sequence": 577,
       "id": "local-2026-15",
       "category": "ch09",
-      "page": 161,
+      "page": 160,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19338,10 +19305,10 @@
       "printedHeight": 85.76893894165539
     },
     {
-      "sequence": 579,
+      "sequence": 578,
       "id": "local-2011-07",
       "category": "ch09",
-      "page": 161,
+      "page": 160,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -19371,10 +19338,10 @@
       "printedHeight": 108.7255827123696
     },
     {
-      "sequence": 580,
+      "sequence": 579,
       "id": "local-2023-14",
       "category": "ch09",
-      "page": 161,
+      "page": 160,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -19404,10 +19371,10 @@
       "printedHeight": 105.34184490740745
     },
     {
-      "sequence": 581,
+      "sequence": 580,
       "id": "local-2023-18",
       "category": "ch09",
-      "page": 162,
+      "page": 161,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19437,10 +19404,10 @@
       "printedHeight": 127.23707084785133
     },
     {
-      "sequence": 582,
+      "sequence": 581,
       "id": "local-2023-19",
       "category": "ch09",
-      "page": 162,
+      "page": 161,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19470,10 +19437,10 @@
       "printedHeight": 92.35351508120652
     },
     {
-      "sequence": 583,
+      "sequence": 582,
       "id": "local-2025-09",
       "category": "ch09",
-      "page": 162,
+      "page": 161,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -19503,10 +19470,10 @@
       "printedHeight": 78.09305300353356
     },
     {
-      "sequence": 584,
+      "sequence": 583,
       "id": "local-2025-13",
       "category": "ch09",
-      "page": 162,
+      "page": 161,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -19536,10 +19503,10 @@
       "printedHeight": 102.90329099307155
     },
     {
-      "sequence": 585,
+      "sequence": 584,
       "id": "seoul-2019-20",
       "category": "ch09",
-      "page": 163,
+      "page": 162,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19569,10 +19536,10 @@
       "printedHeight": 87.91614464534075
     },
     {
-      "sequence": 586,
-      "id": "local-2010-18",
+      "sequence": 585,
+      "id": "local-2009-18",
       "category": "ch09",
-      "page": 163,
+      "page": 162,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19581,7 +19548,40 @@
         36.0,
         454.0,
         273.638,
-        546.1147297979797
+        586.0211111111112
+      ],
+      "originalNumberMasks": [
+        [
+          16.427788162231444,
+          812.7431640625,
+          52.22276382446289,
+          825.734375
+        ]
+      ],
+      "answers": [
+        3
+      ],
+      "imageSize": [
+        864,
+        480
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 132.02111111111117
+    },
+    {
+      "sequence": 586,
+      "id": "local-2010-18",
+      "category": "ch09",
+      "page": 162,
+      "column": 1,
+      "row": 0,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        309.638,
+        104.0,
+        547.276,
+        196.1147297979798
       ],
       "originalNumberMasks": [
         [
@@ -19599,22 +19599,22 @@
         307
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 92.11472979797975
+      "printedHeight": 92.1147297979798
     },
     {
       "sequence": 587,
       "id": "national-radio-2021-10",
       "category": "ch09",
-      "page": 163,
+      "page": 162,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        234.382485190409
+        584.3824851904089
       ],
       "originalNumberMasks": [
         [
@@ -19632,13 +19632,13 @@
         389
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 130.382485190409
+      "printedHeight": 130.38248519040894
     },
     {
       "sequence": 588,
       "id": "local-2009-19",
       "category": "ch09",
-      "page": 164,
+      "page": 163,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19671,7 +19671,7 @@
       "sequence": 589,
       "id": "local-2010-02",
       "category": "pending",
-      "page": 164,
+      "page": 163,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19704,7 +19704,7 @@
       "sequence": 590,
       "id": "local-2010-05",
       "category": "pending",
-      "page": 164,
+      "page": 163,
       "column": 1,
       "row": 0,
       "fullColumn": false,
@@ -19737,7 +19737,7 @@
       "sequence": 591,
       "id": "local-2010-06",
       "category": "pending",
-      "page": 164,
+      "page": 163,
       "column": 1,
       "row": 1,
       "fullColumn": false,
@@ -19770,7 +19770,7 @@
       "sequence": 592,
       "id": "local-2010-07",
       "category": "pending",
-      "page": 165,
+      "page": 164,
       "column": 0,
       "row": 0,
       "fullColumn": false,
@@ -19803,7 +19803,7 @@
       "sequence": 593,
       "id": "local-2011-13",
       "category": "pending",
-      "page": 165,
+      "page": 164,
       "column": 0,
       "row": 1,
       "fullColumn": false,
@@ -19836,7 +19836,7 @@
       "sequence": 594,
       "id": "seoul-2017-03",
       "category": "pending",
-      "page": 165,
+      "page": 164,
       "column": 1,
       "row": 0,
       "fullColumn": false,
