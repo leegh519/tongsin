@@ -7,12 +7,16 @@ from build_print_pdf import ROOT,make_question_image
 def plan_pages(items,prepared):
  pages=[];entries=[];slot=0
  for q in items:
+  if q['id']=='national-radio-2014-18':
+   if entries:pages.append(entries)
+   pages.append([{'question':q,'column':0,'row':0,'fullColumn':False,'fullWidth':True}]);entries=[];slot=0
+   continue
   _,(iw,ih),_=prepared[q['id']]
   tall=ih/iw>1.4
   if tall and slot%2:slot+=1
   if slot>=4:
    pages.append(entries);entries=[];slot=0
-  entries.append({'question':q,'column':slot//2,'row':slot%2,'fullColumn':tall})
+  entries.append({'question':q,'column':slot//2,'row':slot%2,'fullColumn':tall,'fullWidth':False})
   slot+=2 if tall else 1
  if entries:pages.append(entries)
  return pages
@@ -48,7 +52,11 @@ def main():
   except Exception as ex:errors.append((q['id'],str(ex)))
   if i%50==0:print('Prepared',i,'/ 594',flush=True)
  if errors:raise RuntimeError(errors)
- plans=[(c,items,plan_pages(items,prepared)) for c,items in groups]
+ # The unclassified appendix continues directly after the last main chapter.
+ print_groups=[(c,list(items)) for c,items in groups if c['id']!='pending']
+ pending=next((items for c,items in groups if c['id']=='pending'),[])
+ if pending:print_groups[-1][1].extend(pending)
+ plans=[(c,items,plan_pages(items,prepared)) for c,items in print_groups]
  cover_count=sum(c['id']!='pending' for c,_ in groups)
  total=cover_count+sum(len(pages) for _,_,pages in plans)
  font=fitz.Font(fontfile='C:/Windows/Fonts/batang.ttc');font_bytes=font.buffer
@@ -64,28 +72,32 @@ def main():
   if category['id']!='pending':
    p=newpage()
    title_size=min(32, (width-2*margin)/font.text_length(title,fontsize=1))
-   for y,value,size in [(320,'통신이론 기출문제',12),(390,title,title_size),(440,f'{len(items)}문제',12)]:text(p,(width-font.text_length(value,fontsize=size))/2,y,value,size)
+   category_count=sum(q['classification']['category']==category['id'] for q in items)
+   for y,value,size in [(320,'통신이론 기출문제',12),(390,title,title_size),(440,f'{category_count}문제',12)]:text(p,(width-font.text_length(value,fontsize=size))/2,y,value,size)
    p.draw_line((width/2-95,410),(width/2+95,410),color=(.2,.2,.2),width=.6);text(p,width-margin,height-25,f'{len(doc)} / {total}',8,True)
   for entries in pages:
    p=newpage();pn=len(doc);text(p,margin,35,'통신이론 기출문제',10);text(p,width-margin,35,'594문제',9,True);p.draw_line((margin,46),(width-margin,46),color=(.2,.2,.2),width=.6)
    page_answers=[]
    for entry in entries:
     q=entry['question'];seq+=1;col,row=entry['column'],entry['row'];x=margin+col*(cellw+gap);y=72+row*cellh
-    text(p,x,y+10,f'{seq:03}',8);source=f'{q["year"]} {q["agency"]} {q["number"]}번';text(p,x+cellw,y+21,source,6,True)
-    path,(iw,ih),masks=prepared[q['id']];limit_height=630 if entry['fullColumn'] else 280
-    scale=min((cellw-12)/iw,limit_height/ih,.36);dest=fitz.Rect(x,y+32,x+iw*scale,y+32+ih*scale)
+    area_width=width-2*margin if entry['fullWidth'] else cellw
+    text(p,x,y+10,f'{seq:03}',8);source=f'{q["year"]} {q["agency"]} {q["number"]}번';text(p,x+area_width,y+21,source,6,True)
+    path,(iw,ih),masks=prepared[q['id']];limit_height=630 if entry['fullColumn'] or entry['fullWidth'] else 280
+    scale=min((area_width-12)/iw,limit_height/ih,.72 if entry['fullWidth'] else .36);dest=fitz.Rect(x,y+32,x+iw*scale,y+32+ih*scale)
     assert dest.x1<=width-margin+.01 and dest.y1<height-65
     p.insert_image(dest,filename=str(path))
     accepted=q['answer'].get('choices',[q['answer']['choice']]);answer='/'.join('①②③④⑤'[v-1] for v in accepted);page_answers.append(f'{seq:03}번 {answer}')
-    manifest.append({'sequence':seq,'id':q['id'],'category':category['id'],'page':pn,'column':col,'row':row,'fullColumn':entry['fullColumn'],'rect':list(dest),'originalNumberMasks':masks,'answers':accepted,'imageSize':[iw,ih],'printedWidth':dest.width,'printedHeight':dest.height})
+    manifest.append({'sequence':seq,'id':q['id'],'category':q['classification']['category'],'page':pn,'column':col,'row':row,'fullColumn':entry['fullColumn'],'fullWidth':entry['fullWidth'],'rect':list(dest),'originalNumberMasks':masks,'answers':accepted,'imageSize':[iw,ih],'printedWidth':dest.width,'printedHeight':dest.height})
    answers='정답   '+'   ·   '.join(page_answers);text(p,width-margin,height-47,answers,6,True);text(p,width-margin,height-25,f'{pn} / {total}',8,True)
  assert seq==594 and len(doc)==total
  doc.set_metadata({'title':'통신이론 기출문제 594문항','subject':'9급 지방직·서울시 통신이론 및 국가직 무선공학개론 공통범위 · A4 · 1 3 / 2 4','author':'통신이론 문제은행'})
+ if pending:toc.append([1,'목차 외 · 분류 검토 문제',next(m['page'] for m in manifest if m['category']=='pending')])
  doc.set_toc(toc);doc.subset_fonts();args.output.parent.mkdir(parents=True,exist_ok=True);doc.save(args.output,garbage=4,deflate=True);doc.close()
  check=fitz.open(args.output);assert len(check)==total
  for pn in range(1,total+1):
   page=check[pn-1];items=[m for m in manifest if m['page']==pn]
   assert len(page.get_image_info())==len(items)
+  if any(m['fullWidth'] for m in items):assert len(items)==1
   assert [(m['column'],m['row']) for m in items]==sorted((m['column'],m['row']) for m in items)
   for col in [0,1]:
    column=[m for m in items if m['column']==col]
@@ -101,6 +113,8 @@ def main():
  (work/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
  assert all(next(m for m in manifest if m['sequence']==n)['fullColumn'] for n in [160,162,236])
  assert len(check.get_toc())==10 and cover_count==9
+ assert next(m for m in manifest if m['sequence']==562)['fullWidth']
+ assert next(m['page'] for m in manifest if m['sequence']==588)==next(m['page'] for m in manifest if m['sequence']==589)
  (ROOT/'review/full-print-audit.json').write_text(json.dumps({'questionCount':594,'pageCount':total,'coverCount':cover_count,'ordering':'column-major: 1 3 / 2 4; tall questions occupy one full column','rightInsetPoints':12,'maximumImageScale':.36,'fullColumnSequences':[m['sequence'] for m in manifest if m['fullColumn']],'chapters':[{'label':c['label'],'questionCount':len(v),'cover':c['id']!='pending'} for c,v in groups],'multipleAnswerIds':[q['id'] for q in qs if len(q['answer'].get('choices',[]))>1],'manifest':manifest},ensure_ascii=False,indent=2),encoding='utf-8')
  print('PASS:',total,'A4 pages;',cover_count,'covers; 594 unique questions; full-column tall questions, column-major layout, answer sets, original number masks, and all-page render verified;',args.output)
 
