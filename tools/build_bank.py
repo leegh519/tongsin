@@ -20,6 +20,7 @@ for c,(title,sections) in enumerate(chapters,1):
 if (ROOT/'data/taxonomy.json').exists(): tax=json.loads((ROOT/'data/taxonomy.json').read_text(encoding='utf-8'))
 else: (ROOT/'data/taxonomy.json').write_text(json.dumps(tax,ensure_ascii=False,indent=2),encoding='utf-8')
 questions=[];exams=[]
+crop_overrides=json.loads((ROOT/'data/crop_overrides.json').read_text(encoding='utf-8')) if (ROOT/'data/crop_overrides.json').exists() else {}
 classifications=json.loads((ROOT/'data/classifications.json').read_text(encoding='utf-8')) if (ROOT/'data/classifications.json').exists() else {}
 for file in sorted((ROOT/'sources').glob('*.pdf')):
  if file.stem.startswith('compilation'):continue
@@ -68,7 +69,7 @@ for file in sorted((ROOT/'sources').glob('*.pdf')):
   nxt=[b['y'] for b in col if b['y']>a['y']+1];bottom=min(nxt)-7 if nxt else h-(65 if slug=='seoul' else 5)
   other=[b['x'] for b in anchors if b['page']==a['page'] and b['x']>w/2]
   x0=start-7;x1=(min(other)-10 if other and not right else min(w-10,start+(305 if slug=='seoul' else w/2)-9))
-  rect=fitz.Rect(x0,a['y']-14,x1,bottom);text=p.get_text(clip=rect)
+  rect=fitz.Rect(crop_overrides.get(f'{file.stem}-{a["number"]:02}',[x0,a['y']-14,x1,bottom]));text=p.get_text(clip=rect)
   pix=p.get_pixmap(matrix=fitz.Matrix(2.5,2.5),clip=rect,alpha=False);im=Image.frombytes('RGB',[pix.width,pix.height],pix.samples)
   # Remove printed footer page numbers only.
   draw=ImageDraw.Draw(im)

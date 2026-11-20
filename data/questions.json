@@ -2760,7 +2760,7 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/local-2011-04.png",
-      "width": 708,
+      "width": 683,
       "height": 883
     },
     "classification": {
@@ -2801,12 +2801,12 @@
       "crop": [
         23.583425521850586,
         463.9656677246094,
-        309.86663818359375,
+        300.0,
         836.0
       ],
       "url": "https://cbtnow.kr/시험/9급-지방직-통신이론/2011년/"
     },
-    "ocrText": "4. 그림과같은두사각펄스신호의컨볼루션(convolution)을구한\n결과로옳은것은?\n\n0\n1\n1\n\n0\n2\n1\n①\n0\n1\n2\n\n1\n②\n0\n1\n3\n\n1\n4\n③\n0\n\n3 4\n1\n④\n1 2\n\n1\n3\n문\n문\n",
+    "ocrText": "4. 그림과같은두사각펄스신호의컨볼루션(convolution)을구한\n결과로옳은것은?\n\n0\n1\n1\n\n0\n2\n1\n①\n0\n1\n2\n\n1\n②\n0\n1\n3\n\n1\n4\n③\n0\n\n3 4\n1\n④\n1 2\n\n1\n3\n",
     "review": {
       "crop": "approved",
       "classification": "approved",
