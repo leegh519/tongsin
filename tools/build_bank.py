@@ -16,7 +16,7 @@ chapters=[
 ('OSI-7 계층과 프로토콜','프로토콜의 개념과 기능|OSI-7 layer|TCP/IP|전송제어 프로토콜|착오 제어|통신망의 분류와 특징|교환 방식|데이터 전송 방식|광통신')]
 tax={'version':1,'categories':[],'studyTags':[],'auxiliaryTags':{}}
 for c,(title,sections) in enumerate(chapters,1):
- tax['categories'].append({'id':f'ch{c:02}','label':f'Chapter {c:02} {title}','topics':[{'id':f'{c}-{i}','label':f'{c}-{i} {s}','subtopics':[],'concepts':[]} for i,s in enumerate(sections.split('|'),1)]})
+ tax['categories'].append({'id':f'ch{c:02}','label':title,'topics':[{'id':f'{c}-{i}','label':f'{c}-{i} {s}','subtopics':[],'concepts':[]} for i,s in enumerate(sections.split('|'),1)]})
 if (ROOT/'data/taxonomy.json').exists(): tax=json.loads((ROOT/'data/taxonomy.json').read_text(encoding='utf-8'))
 else: (ROOT/'data/taxonomy.json').write_text(json.dumps(tax,ensure_ascii=False,indent=2),encoding='utf-8')
 questions=[];exams=[]
