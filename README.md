@@ -1,0 +1,62 @@
+# 지방직·서울시 9급 통신이론 기출 문제은행
+
+참고 프로젝트: https://github.com/leegh519/elec
+기존 문제풀이 UI를 통신이론 전용으로 구성했습니다. HTML/CSS/JavaScript 정적 웹앱으로 GitHub Pages와 로컬 파일 실행을 지원합니다. Sites를 사용하지 않습니다.
+
+## 실행
+
+`index.html`을 브라우저로 열거나, 폴더에서 `python -m http.server 8765` 실행 후 http://localhost:8765 에 접속합니다.
+
+- 시험구분·연도·장·절 필터(필터 내 OR, 필터 간 AND)
+- 한 문제씩 / 여러 문제 모아풀기, 무작위 / 연도순
+- 채점, 이전·다음, 즐겨찾기, 오답·미풀이 필터
+- 브라우저별 풀이 기록 저장 및 JSON 가져오기·내보내기
+- 원문 PNG 저장, 이미지 복사, `review.html` 이미지·정답·분류 검수
+
+## 수록 현황
+
+16회차 320문항입니다.
+
+- 지방직: 2009, 2010, 2011, 2022, 2023, 2024, 2025, 2026 (160문항)
+- 서울시: 2014~2021 (160문항)
+- **2010 서울시는 원문 미확보로 아직 수록하지 않았습니다.**
+- 2009~2026 모든 연도에 별도 시험이 있는 것으로 간주하지 않습니다. 지방직과 서울시의 동일 시험 중복 수록은 피합니다.
+- 공식 정답표 적용 260문항, CBTNow 수록 잠정 정답 60문항(지방직 2009~2011). 잠정 정답은 채점 시 별도로 표시합니다.
+- 이미지 번호·선지 개수·파일 일치 자동 검사를 완료했습니다. 대표 이미지 시각 확인을 진행했으며 전 문항 육안 검수는 미완료입니다.
+
+## 분류
+
+사용자가 제공한 PART 01 목차의 9개 장·73개 절을 모두 유지합니다. `실전예상문제`는 기출의 개념 분류가 아니므로 별도 절로 추가하지 않습니다. 질문과 핵심 풀이 개념을 읽고 대표 절 하나를 지정했습니다. 채널용량 문제는 섀넌 정리 중심이면 8-7, 심벌률·비트율·나이퀴스트 전송률 중심이면 4-7로 분류했습니다.
+
+목차에 직접 대응하지 않는 회로·논리회로 기초 6문항은 `목차 외 · 분류 검토`에 남겨 두었습니다. 제공 목차를 수정하지 않고 문제도 보존하기 위한 처리입니다. `data/classifications.json`에서 수정할 수 있습니다. 6-12에 위성·레이더·안테나·전파 기술도 포함했으므로 교재의 실제 세부 범위와 대조하면 추가 조정할 수 있습니다.
+
+## 자료 출처
+
+- 지방직 원본 및 초기 정답: https://cbtnow.kr/시험/9급-지방직-통신이론/ (인사혁신처 공개 기출 재수록)
+- 서울시 2014~2020 원본 시험지 묶음: https://baekchwijun.tistory.com/61 (해설 본문은 수록하지 않음)
+- 서울시 2021 원본: https://ingyerlog.kr/2021-9-seoul-comm/ (해설 본문은 수록하지 않음)
+- 서울시 2014~2021 및 지방직 2022~2026 공식 정답표: 참고 저장소의 `official-answers/`에서 가져와 해당 과목·급수·책형을 대조했습니다.
+
+개별 문제의 출처·원본 쪽수·잘림 좌표와 정답 상태는 `data/questions.json`에 있습니다. 원본 시험지는 `sources/`, 공식 정답표는 `official-answers/`, 시험별 20문항 검수표는 `review/contact-sheets/`에 보관합니다.
+
+## GitHub Pages 배포
+
+1. 통신이론용 새 GitHub 저장소를 만듭니다. 원본 `leegh519/elec`에 덮어쓰지 않습니다.
+2. 이 폴더의 내용을 새 저장소 `main`에 업로드합니다(숨김 파일 `.github`와 `.nojekyll` 포함).
+3. 저장소 Settings → Pages → Build and deployment → Source를 **GitHub Actions**로 설정합니다.
+4. Actions의 `Deploy GitHub Pages`를 실행하거나 `main`에 푸시합니다.
+
+`.github/workflows/pages.yml`이 포함되어 있습니다. 상대 경로를 사용하므로 프로젝트 하위 경로에서도 실행됩니다. 저장소: https://github.com/leegh519/tongsin · GitHub Pages: https://leegh519.github.io/tongsin/
+
+## 데이터 재생성
+
+Python 3.10 이상에서 `python -m pip install -r tools/requirements.txt`로 의존성을 설치합니다.
+
+```
+python tools/build_bank.py
+python tools/build_contact_sheets.py
+python tools/validate_bank.py
+```
+
+원본 `sources/*.pdf` 및 수록 정답용 `sources/local-*.html`을 보존해야 합니다. 분류는 `data/classifications.json`을 우선 적용합니다. 새 시험은 원문·급수·책형·최종 정답을 확인하고 분류를 추가한 후 반영합니다. 이미지 자르기 재생성 시 검수 상태는 다시 확인해야 합니다.
+

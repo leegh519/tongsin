@@ -1,0 +1,19 @@
+{
+  "exams": 16,
+  "questions": 320,
+  "officialAnswers": 260,
+  "provisionalAnswers": 60,
+  "missingAnswers": 0,
+  "outsideToc": [
+    "local-2010-02",
+    "local-2010-05",
+    "local-2010-06",
+    "local-2010-07",
+    "local-2011-13",
+    "seoul-2017-03"
+  ],
+  "missing": [
+    "2010 서울시 9급 통신이론 원본 미확보"
+  ],
+  "cropReview": "번호 1~20, 선지 기호 수 및 이미지 파일 전수 자동검사; 대표 검수표 시각 확인. 전 문항 육안 검수는 미완료."
+}
