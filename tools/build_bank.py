@@ -3,6 +3,7 @@ import json,re,shutil
 import pymupdf as fitz
 from bs4 import BeautifulSoup
 from PIL import Image,ImageChops,ImageDraw
+from image_overrides import apply_replacements
 ROOT=Path(__file__).resolve().parents[1]
 chapters=[
 ('신호해석과 시스템','신호의 분류|기본 신호 파형|직교 벡터 좌표계와 직교 함수 좌표계|푸리에 급수(Fourier Series)|푸리에 변환(Fourier Transform)|콘볼루션(convolution)|표본화 정리(Sampling theorem)|변조|시스템의 특성|임펄스 응답과 전달 함수|이상 필터(ideal filter)'),
@@ -89,6 +90,7 @@ for file in sorted((ROOT/'sources').glob('*.pdf')):
   for row in list(range(min(12,im.height)))+list(range(max(0,im.height-12),im.height)):
    if sum(gray.getpixel((col,row))<180 for col in range(im.width))>im.width*.85:
     draw.rectangle((0,max(0,row-2),im.width,min(im.height,row+2)),fill='white')
+  apply_replacements(im,f'{file.stem}-{a["number"]:02}',rect,2.5)
   box=ImageChops.difference(im,Image.new('RGB',im.size,'white')).point(lambda x:255 if x>55 else 0).getbbox()
   if box: im=im.crop((max(0,box[0]-10),max(0,box[1]-10),min(im.width,box[2]+10),min(im.height,box[3]+10)))
   path=f'assets/questions/{file.stem}-{a["number"]:02}.png';im.save(ROOT/path)

@@ -95,3 +95,6 @@ python tools/validate_bank.py
 재생성: `python tools/build_full_print_pdf.py --output print/tongsin_594.pdf`
 
 `review/full-print-audit.json`에 594개 원본 ID와 인쇄 일련번호·페이지·위치·정답 대응을 보관합니다.
+
+
+562번(2014 국가직 무선공학개론 18번)의 가운데 ㄱ·ㄴ·ㄷ ARQ 도표는 사용자가 제공한 `assets/overrides/national-radio-2014-18-diagram.png`로 교체했습니다. 지문과 선택지는 원본을 사용하며 교체 좌표는 `data/image_replacements.json`에 보존합니다.

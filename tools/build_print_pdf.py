@@ -3,6 +3,7 @@ from pathlib import Path
 import json,re,io,argparse
 import pymupdf as fitz
 from PIL import Image,ImageDraw,ImageChops
+from image_overrides import apply_replacements
 ROOT=Path(__file__).resolve().parents[1]
 
 def make_question_image(q,full=False):
@@ -38,6 +39,7 @@ def make_question_image(q,full=False):
   if sum(gray.getpixel((col,y))<180 for y in range(im.height))>im.height*.8:draw.rectangle((max(0,col-2),0,min(im.width,col+2),im.height),fill='white')
  for y in list(range(min(12,im.height)))+list(range(max(0,im.height-12),im.height)):
   if sum(gray.getpixel((x,y))<180 for x in range(im.width))>im.width*.85:draw.rectangle((0,max(0,y-2),im.width,min(im.height,y+2)),fill='white')
+ apply_replacements(im,q['id'],rect,zoom)
  # Fix the print bounds before masking, keeping the original first-line indentation.
  box=ImageChops.difference(im,Image.new('RGB',im.size,'white')).point(lambda v:255 if v>55 else 0).getbbox()
  if full:

@@ -40,7 +40,10 @@ def main():
   try:
    path=cache/(q['id']+'.png');meta=path.with_suffix('.json')
    cleanup=json.loads((ROOT/'data/image_cleanup.json').read_text(encoding='utf-8')) if (ROOT/'data/image_cleanup.json').exists() else {}
-   signature=hashlib.sha256((repr(item['source'])+repr(cleanup.get(q['id'],[]))+str((ROOT/item['source']['pdf']).stat().st_mtime_ns)+(ROOT/'tools/build_print_pdf.py').read_text(encoding='utf-8')).encode()).hexdigest()
+   replacements=json.loads((ROOT/'data/image_replacements.json').read_text(encoding='utf-8')) if (ROOT/'data/image_replacements.json').exists() else {}
+   extra=repr(replacements.get(q['id'],[]))+(ROOT/'tools/image_overrides.py').read_text(encoding='utf-8')
+   for replacement in replacements.get(q['id'],[]):extra+=hashlib.sha256((ROOT/replacement['image']).read_bytes()).hexdigest()
+   signature=hashlib.sha256((repr(item['source'])+repr(cleanup.get(q['id'],[]))+str((ROOT/item['source']['pdf']).stat().st_mtime_ns)+(ROOT/'tools/build_print_pdf.py').read_text(encoding='utf-8')+extra).encode()).hexdigest()
    old=json.loads(meta.read_text(encoding='utf-8')) if meta.exists() and path.exists() else {}
    if old.get('signature')==signature:size,masks=old['size'],old['masks']
    else:

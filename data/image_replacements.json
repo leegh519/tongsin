@@ -1,0 +1,10 @@
+{
+  "national-radio-2014-18": [
+    {
+      "image": "assets/overrides/national-radio-2014-18-diagram.png",
+      "clear": [303.2, 114.0, 583.0, 326.0],
+      "place": [303.2, 119.0, 583.0, 296.7],
+      "source": "사용자가 제공한 ㄱ·ㄴ·ㄷ ARQ 도표 이미지; 지문과 선택지는 원본 유지"
+    }
+  ]
+}

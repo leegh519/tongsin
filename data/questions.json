@@ -25124,8 +25124,8 @@
     "choiceCount": 4,
     "image": {
       "src": "assets/questions/national-radio-2014-18.png",
-      "width": 713,
-      "height": 966
+      "width": 722,
+      "height": 1021
     },
     "classification": {
       "category": "ch09",
@@ -25168,11 +25168,12 @@
         585.0,
         444.9540710449219
       ],
-      "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2014년/"
+      "url": "https://cbtnow.kr/시험/9급-국가직-무선공학개론/2014년/",
+      "diagramReplacement": "assets/overrides/national-radio-2014-18-diagram.png"
     },
     "ocrText": "문18. 그림㉠～㉢의ARQ(Automatic Repeat Request) 오류제어방식과\n그명칭이바르게연결된것은? (단, ‘Go Back N ARQ’는‘N 후진\nARQ’, ‘Stop-and-wait ARQ’는‘정지-대기ARQ’, ‘Selective\nARQ’는‘선택적ARQ’이다)\n3\n5\n1\n2\n3\n3\n4\n5\n5\n1\n2\n3\n4\n5\n1\n2\n3 4\n5 6 7\n5\n8 9 10 11 12 13 11 14\n1\n2\n3 4\n5\n5\n6 7\n8\n9 10 11 9\n6\n10\n7\n5\n11\n1\n2\n3 4\n6\n7 5\n8\n9 10\n12 13 11\n오류\n오류\n오류\n오류\n오류\n오류\n9\n5\n9\n1 2\n3 4\n6 7 5 6\n7\n8\n10 11\n송\n신\n기\n송신\n기\n수신\n기\n송신\n기\n수신\n기\n송신\n기\n수신\n기\n전송\n전송\n전송\n㉡\n㉠\n㉢\n㉠\n㉡\n㉢\n①N 후진ARQ\n정지-대기ARQ\n선택적ARQ\n②N 후진ARQ\n선택적ARQ\n정지-대기ARQ\n③정지-대기ARQ\n선택적ARQ\nN 후진ARQ\n④정지-대기ARQ\nN 후진ARQ\n선택적ARQ\n",
     "review": {
-      "crop": "pending",
+      "crop": "approved",
       "classification": "approved",
       "answer": "approved"
     },
