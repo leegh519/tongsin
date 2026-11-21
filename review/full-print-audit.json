@@ -2124,7 +2124,7 @@
     },
     {
       "sequence": 63,
-      "id": "local-2023-16",
+      "id": "seoul-2018-12",
       "category": "ch01",
       "page": 18,
       "column": 0,
@@ -2135,7 +2135,40 @@
         36.0,
         454.0,
         273.638,
-        628.9854727061556
+        526.5839916317991
+      ],
+      "originalNumberMasks": [
+        [
+          64.6199935913086,
+          218.7805633544922,
+          86.28059844970703,
+          230.2805633544922
+        ]
+      ],
+      "answers": [
+        3
+      ],
+      "imageSize": [
+        717,
+        219
+      ],
+      "printedWidth": 237.63799999999998,
+      "printedHeight": 72.58399163179911
+    },
+    {
+      "sequence": 64,
+      "id": "local-2023-16",
+      "category": "ch01",
+      "page": 18,
+      "column": 1,
+      "row": 0,
+      "fullColumn": false,
+      "fullWidth": false,
+      "rect": [
+        309.638,
+        104.0,
+        547.276,
+        278.98547270615563
       ],
       "originalNumberMasks": [
         [
@@ -2156,19 +2189,19 @@
       "printedHeight": 174.98547270615563
     },
     {
-      "sequence": 64,
+      "sequence": 65,
       "id": "local-2024-12",
       "category": "ch01",
       "page": 18,
       "column": 1,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         309.638,
-        104.0,
+        454.0,
         547.276,
-        251.08310392609698
+        601.083103926097
       ],
       "originalNumberMasks": [
         [
@@ -2186,22 +2219,22 @@
         536
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 147.08310392609698
+      "printedHeight": 147.083103926097
     },
     {
-      "sequence": 65,
+      "sequence": 66,
       "id": "local-2025-18",
       "category": "ch01",
-      "page": 18,
-      "column": 1,
-      "row": 1,
+      "page": 19,
+      "column": 0,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        309.638,
-        454.0,
-        547.276,
-        631.473003468208
+        36.0,
+        104.0,
+        273.6379999999999,
+        281.47300346820805
       ],
       "originalNumberMasks": [
         [
@@ -2218,23 +2251,23 @@
         865,
         646
       ],
-      "printedWidth": 237.63799999999998,
+      "printedWidth": 237.63799999999992,
       "printedHeight": 177.47300346820805
     },
     {
-      "sequence": 66,
+      "sequence": 67,
       "id": "seoul-2014-11",
       "category": "ch01",
       "page": 19,
       "column": 0,
-      "row": 0,
+      "row": 1,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
         36.0,
-        104.0,
+        454.0,
         273.638,
-        234.25346443514644
+        584.2534644351465
       ],
       "originalNumberMasks": [
         [
@@ -2252,22 +2285,22 @@
         393
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 130.25346443514644
+      "printedHeight": 130.2534644351465
     },
     {
-      "sequence": 67,
+      "sequence": 68,
       "id": "seoul-2016-01",
       "category": "ch01",
       "page": 19,
-      "column": 0,
-      "row": 1,
+      "column": 1,
+      "row": 0,
       "fullColumn": false,
       "fullWidth": false,
       "rect": [
-        36.0,
-        454.0,
-        273.638,
-        587.8992357043236
+        309.638,
+        104.0,
+        547.276,
+        237.89923570432356
       ],
       "originalNumberMasks": [
         [
@@ -2285,40 +2318,7 @@
         404
       ],
       "printedWidth": 237.63799999999998,
-      "printedHeight": 133.8992357043236
-    },
-    {
-      "sequence": 68,
-      "id": "seoul-2018-12",
-      "category": "ch01",
-      "page": 19,
-      "column": 1,
-      "row": 0,
-      "fullColumn": false,
-      "fullWidth": false,
-      "rect": [
-        309.638,
-        104.0,
-        547.276,
-        176.58399163179917
-      ],
-      "originalNumberMasks": [
-        [
-          64.6199935913086,
-          218.7805633544922,
-          86.28059844970703,
-          230.2805633544922
-        ]
-      ],
-      "answers": [
-        3
-      ],
-      "imageSize": [
-        717,
-        219
-      ],
-      "printedWidth": 237.63799999999998,
-      "printedHeight": 72.58399163179917
+      "printedHeight": 133.89923570432356
     },
     {
       "sequence": 69,

@@ -5291,23 +5291,35 @@
   "seoul-2018-12": {
     "category": "ch01",
     "topics": [
+      "1-9",
       "1-11"
     ],
-    "primaryTopic": "1-11",
+    "primaryTopic": "1-9",
     "concepts": [
-      "이상 필터"
+      "전달함수의 위상 응답",
+      "선형 위상과 시간지연",
+      "군지연"
     ],
     "subtopics": [],
     "tags": [],
     "status": "approved",
-    "method": "merged-study-topics-v2",
-    "note": "이론책 원래 절은 bookPrimaryTopic에 보존하고 유사 개념은 학습용 분류로 통합",
-    "bookPrimaryTopic": "1-11",
+    "method": "concept-priority-review",
+    "note": "이상 BPF라는 배경도 있으나 평가 핵심은 전달함수의 선형 위상과 시간지연의 관계이다. τg=-(1/(2π))dθ/df=10^-11초=10ps. 대표 분류는 임펄스 응답과 전달 함수(1-10), 이상 필터는 보조 분류로 유지.",
+    "bookPrimaryTopic": "1-10",
     "contentAudit": {
       "date": "2026-11-21",
-      "result": "retained",
-      "basis": "문항 내용·기존 풀이 근거와 제공 목차 대조"
-    }
+      "result": "primary-topic-refined",
+      "basis": "이상 BPF라는 배경도 있으나 평가 핵심은 전달함수의 선형 위상과 시간지연의 관계이다. τg=-(1/(2π))dθ/df=10^-11초=10ps. 대표 분류는 임펄스 응답과 전달 함수(1-10), 이상 필터는 보조 분류로 유지."
+    },
+    "history": [
+      {
+        "date": "2026-11-21",
+        "previousCategory": "ch01",
+        "previousPrimaryTopic": "1-11",
+        "previousBookPrimaryTopic": "1-11",
+        "reason": "이상 BPF라는 배경도 있으나 평가 핵심은 전달함수의 선형 위상과 시간지연의 관계이다. τg=-(1/(2π))dθ/df=10^-11초=10ps. 대표 분류는 임펄스 응답과 전달 함수(1-10), 이상 필터는 보조 분류로 유지."
+      }
+    ]
   },
   "seoul-2018-13": {
     "category": "ch05",

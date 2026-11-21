@@ -1,10 +1,11 @@
 {
   "reviewed": 594,
   "results": {
-    "유지": 579,
+    "유지": 578,
     "수정": 8,
     "목차 외": 6,
-    "사용자 지정": 1
+    "사용자 지정": 1,
+    "대표 분류 보완": 1
   },
   "corrections": [
     {
@@ -79,6 +80,16 @@
       "requestedBy": "user",
       "newPdfNumber": 103,
       "existingPdfNumber": 48
+    },
+    {
+      "id": "seoul-2018-12",
+      "existingPdfNumber": 68,
+      "before": "이상 필터",
+      "after": "시스템 특성과 임펄스 응답",
+      "secondaryTopic": "이상 필터",
+      "reason": "이상 BPF라는 배경도 있으나 평가 핵심은 전달함수의 선형 위상과 시간지연의 관계이다. τg=-(1/(2π))dθ/df=10^-11초=10ps. 대표 분류는 임펄스 응답과 전달 함수(1-10), 이상 필터는 보조 분류로 유지.",
+      "kind": "primary-topic-refinement",
+      "newPdfNumber": 63
     }
   ],
   "basis": "제공한 책 목차에 맞춰 문항 내용·선택지(불명확 항목)·기존 풀이 근거를 대조. 경계 주제는 핵심 평가 개념으로 대표 분류를 선택함.",
