@@ -1,9 +1,10 @@
 {
   "reviewed": 594,
   "results": {
-    "유지": 580,
+    "유지": 579,
     "수정": 8,
-    "목차 외": 6
+    "목차 외": 6,
+    "사용자 지정": 1
   },
   "corrections": [
     {
@@ -20,7 +21,7 @@
       "before": "디지털 변조 방식과 성능",
       "after": "진폭변조(AM)",
       "reason": "연속적으로 변하는 포락선의 AM 파형을 식별한다. 디지털 ASK 성상도/이진 변조 문제가 아니다.",
-      "newPdfNumber": 85
+      "newPdfNumber": 84
     },
     {
       "id": "national-radio-2009-05",
@@ -28,7 +29,7 @@
       "before": "전송 속도와 채널 용량",
       "after": "진폭변조(AM)",
       "reason": "AM 방송 할당 대역을 채널 점유폭으로 나누는 문제이며 디지털 심볼률·비트율 문제는 아니다.",
-      "newPdfNumber": 86
+      "newPdfNumber": 85
     },
     {
       "id": "national-radio-2010-10",
@@ -44,7 +45,7 @@
       "before": "파형 부호화",
       "after": "아날로그 변복조 개요",
       "reason": "PAM·PWM·PPM은 매개변수가 연속적으로 변하는 아날로그 펄스 변조이다. PCM·DPCM 등 디지털 음성 부호화와 구분한다.",
-      "newPdfNumber": 75
+      "newPdfNumber": 74
     },
     {
       "id": "national-radio-2017-15",
@@ -52,7 +53,7 @@
       "before": "파형 부호화",
       "after": "아날로그 변복조 개요",
       "reason": "PAM·PWM·PPM의 아날로그 펄스 매개변수와 표본화 관계를 묻는다. 디지털 부호화 분류에서 이동한다.",
-      "newPdfNumber": 76
+      "newPdfNumber": 75
     },
     {
       "id": "national-radio-2024-07",
@@ -60,7 +61,7 @@
       "before": "파형 부호화",
       "after": "표본화 정리",
       "reason": "평탄 표본화 PAM의 개구효과(sinc 진폭감쇠) 보상이다. 핵심은 표본화 스펙트럼이며 PCM 양자화/음성 부호화가 아니다.",
-      "newPdfNumber": 53
+      "newPdfNumber": 52
     },
     {
       "id": "national-radio-2025-04",
@@ -68,7 +69,16 @@
       "before": "파형 부호화",
       "after": "아날로그 변복조 개요",
       "reason": "아날로그 메시지에 따라 펄스 위치가 달라지는 PPM 파형 식별이다. PCM처럼 양자화·이진 부호화한 신호가 아니다.",
-      "newPdfNumber": 82
+      "newPdfNumber": 81
+    },
+    {
+      "id": "seoul-2018-08",
+      "before": "표본화 정리",
+      "after": "진폭변조(AM)",
+      "reason": "사용자 요청으로 아날로그 변복조에 배치. 임펄스 열 곱셈은 표본화와도 관련되지만 지문에서 DSB-SC 변조의 주파수 성분을 묻고 있어 대표 분류를 진폭변조(AM)로 지정.",
+      "requestedBy": "user",
+      "newPdfNumber": 103,
+      "existingPdfNumber": 48
     }
   ],
   "basis": "제공한 책 목차에 맞춰 문항 내용·선택지(불명확 항목)·기존 풀이 근거를 대조. 경계 주제는 핵심 평가 개념으로 대표 분류를 선택함.",

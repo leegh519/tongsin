@@ -16129,25 +16129,34 @@
       "height": 383
     },
     "classification": {
-      "category": "ch01",
+      "category": "ch02",
       "topics": [
-        "1-7"
+        "2-2"
       ],
-      "primaryTopic": "1-7",
+      "primaryTopic": "2-2",
       "concepts": [
-        "표본화 정리"
+        "진폭변조(AM)"
       ],
       "subtopics": [],
       "tags": [],
       "status": "approved",
-      "method": "merged-study-topics-v2",
-      "note": "이론책 원래 절은 bookPrimaryTopic에 보존하고 유사 개념은 학습용 분류로 통합",
-      "bookPrimaryTopic": "1-7",
+      "method": "user-requested-classification",
+      "note": "사용자 요청으로 아날로그 변복조에 배치. 임펄스 열 곱셈은 표본화와도 관련되지만 지문에서 DSB-SC 변조의 주파수 성분을 묻고 있어 대표 분류를 진폭변조(AM)로 지정.",
+      "bookPrimaryTopic": "2-2",
       "contentAudit": {
         "date": "2026-11-21",
-        "result": "retained",
-        "basis": "문항 내용·기존 풀이 근거와 제공 목차 대조"
-      }
+        "result": "user-reclassified",
+        "basis": "사용자 요청으로 아날로그 변복조에 배치. 임펄스 열 곱셈은 표본화와도 관련되지만 지문에서 DSB-SC 변조의 주파수 성분을 묻고 있어 대표 분류를 진폭변조(AM)로 지정."
+      },
+      "history": [
+        {
+          "date": "2026-11-21",
+          "previousCategory": "ch01",
+          "previousPrimaryTopic": "1-7",
+          "previousBookPrimaryTopic": "1-7",
+          "reason": "사용자 요청으로 아날로그 변복조에 배치. 임펄스 열 곱셈은 표본화와도 관련되지만 지문에서 DSB-SC 변조의 주파수 성분을 묻고 있어 대표 분류를 진폭변조(AM)로 지정."
+        }
+      ]
     },
     "answer": {
       "choice": 1,
